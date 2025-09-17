@@ -1,316 +1,286 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"439lgF7UX2h4xsOttGVbKS8EHHkLIUQrqSqTKxsaxjXXZB5JnlpJEdJb1wxsHP8XDv6XtqfkVc6iJjBFU10Ul9wPXuwD%2B9TTByF6JIoZsAI%2BfhzFatdBw%2Fx6uSSW9H%2B9nE9yy1ZOqlYsVUAPQH%2B5u5MBCn49%2F4kTYsvq79xy4hvM5rbbFwQW2Po5HJoMghPEfb2LdDOIFGb40QL7EBXVM%2FhbhtDgH0EEEI5UN9dWh3rmGF%2FZX85%2FANKNyU%2FGeiOWkKKNifA2GX%2FuVMFDYqLKav&name=r6JFDDfxhSBVibrFknWVdIlyVuz1niuYMeD9bqf4o2x1yv3p5SGy2VVyTUZM%2FVrabssbGts%2BRH3P%2BX8z%2FnxIm6%2FqmZ0f6nbS5zy2O4gPnrM2gQyj0YpSuokzuMti0ASv
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="欧冠",9月17日00:35欧冠_毕尔巴鄂vs阿森纳 PSN
-https://hdl6.szsummer.cn/live/36336281.m3u8?auth_key=1756382400-690d1bb91b024b3087642baa98b52773-0-10b75836b65cf0880c71ec082b77b854
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="欧冠",9月17日00:35欧冠_毕尔巴鄂vs阿森纳 bein英文流
-https://shorturl.at/5XCZ5
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="欧冠",9月17日03:00欧冠_皇马vs马赛 bein英文流
-https://shorturl.at/5XCZ5
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="欧冠",9月17日00:35欧冠_毕尔巴鄂vs阿森纳 tnt sports
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="欧冠", tnt sports
 https://babbysports.com/1118130/index.m3u8?DVR&token=ddfdbe8653f4920a440ae8bd1faeece66cf62cd4-78e7e8c2cba80b503200ec44e013ef77-1758055692-1758044892&autoplay=true
+#EXTINF:-1,09月17日10:00-河南省女子排球城市联赛豫南赛区第四轮: 第一阶段（南赛区）第四轮
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PHHh2lVHoA_HgnIcSiBWi8
+#EXTINF:-1,09月17日12:00-杭州网球公开赛Day2：鲁瓦耶出战 吴易昺PK曼纳里诺: 鲁瓦耶出战 吴易昺PK曼纳里诺
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CWPEyUVqxKGMy0jLmwrRMo
+#EXTINF:-1,09月17日13:00-河南省女子排球城市联赛豫北赛区第四轮: 第一阶段（北赛区）第四轮
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MGREROWK2G4Vf8wCWDIPBo
+#EXTINF:-1,09月17日13:00-WTA首尔站第三日：拉杜卡努、陶森出战: 拉杜卡努、陶森出战
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CeBnybEFnWpz_dr8Llk1KU
+#EXTINF:-1,09月17日13:00-ATP成都站第一日: ATP成都站第一日
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JYUBWSYCa7T4BECg1EtYr0
+#EXTINF:-1,09月17日14:00-【赛事放映厅】重温WTT中国大满贯：向鹏VS莫雷加德: 打出自信！向鹏状态神勇
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9M1tRg-DWwDiPCM5Z_zu_e4
+#EXTINF:-1,09月17日14:30-全国女子篮球锦标赛: 山西竹叶青酒vs黑龙江上东
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JUFPmJsVqHxj1mGIv2eNiU
+#EXTINF:-1,09月17日14:30-全国女子篮球锦标赛: 东莞新彤盛vs辽宁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CEEL4cYNPN2yS4eLpDryAQ
+#EXTINF:-1,09月17日17:00-全国女子篮球锦标赛: 四川远达美乐vs石家庄英励
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CTt-t912tlBfnbT9RFOjuA
+#EXTINF:-1,09月17日17:00-全国女子篮球锦标赛: 上海浦发银行vs河南豫光金铅
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NX3lVJtkAS85Il2Off4Jb4
+#EXTINF:-1,09月17日17:00-2025斯诺克英格兰公开赛32进16：丁俊晖、肖国栋、吴宜泽出战: 丁俊晖、肖国栋、吴宜泽出战 秦正 柏林
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EkcIlaV-aRscwsMRoinhQI
+#EXTINF:-1,09月17日17:00-国际大体联足球世界杯: 上海体育大学vs瓦伦西亚大学
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FulY3mFEQbtZa0t5jcL2Us
+#EXTINF:-1,09月17日17:00-2025年比利简金杯总决赛Day2：西班牙VS乌克兰: 西班牙VS乌克兰
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E1JS1ICwBCGQPGW7DlFcj8
+#EXTINF:-1,09月17日18:00-亚冠精英联赛阶段: 蔚山HD vs 成都蓉城 袁甲 杨晨 李子琪
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HWHD_8TrY6ymWk3ohh52XQ
+#EXTINF:-1,09月17日18:00-亚冠二级小组赛: 大阪钢巴 vs 香港东方 刘洋
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ASgDkP8AAUn5PLjHux0Ir0
+#EXTINF:-1,09月17日18:00-超三联赛: 深圳赛区 淘汰赛及决赛 蔡凯臣
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9D5vzS_he0_nAEFtRztvVFY
+#EXTINF:-1,09月17日19:00-《白大拿挑战者系列赛》第九季第6周: 《白大拿挑战者系列赛》第九季第6周
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OOpTqQr9VFAMFsmqiOR8sk
+#EXTINF:-1,09月17日19:30-全国女子篮球锦标赛: 赣州赣星vs厦门白鹭
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MYS4hpC6i_JGboGK4M7qMM
+#EXTINF:-1,09月17日19:30-全国女子篮球锦标赛: 浙江稠州银行vs新疆天山
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E1sRwDNkAta_SBjoGriakQ
+#EXTINF:-1,09月17日19:30-NBL总决赛G2: 香港金牛 VS 长沙电信勇胜
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BpyvIsrglMRqE0L8BgpZPE
+#EXTINF:-1,09月17日19:30-金华VS庆元: 金华VS庆元
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ImxiCIhxR3Uah1HElu3fvw
+#EXTINF:-1,09月17日19:30-中国女篮系列热身赛: 中国vs西班牙尤文图特 连睿
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FUm_XbGm1Xa_dC8uRh9-M4
+#EXTINF:-1,09月17日20:15-亚冠精英联赛阶段: 上海海港 vs 神户胜利船 石庆圣 李彦 姚安妮
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BX-zgVI4K2WoGYNRWmsM8U
+#EXTINF:-1,09月17日20:15-亚冠二级小组赛: 南定 vs 拉查布里府 盛斌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J0UOF4XZiTQfwKVTpYdylU
+#EXTINF:-1,09月17日21:45-亚冠二级小组赛: Goa vs 艾尔扎拉 张天翼
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J98B8hJB1yjL_DTGWBbBPo
+#EXTINF:-1,09月17日21:45-亚冠二级小组赛: 阿卡达格 vs 安迪扬 周楚雄
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JEkjAqHP61Zvu0pQI_iqjY
+#EXTINF:-1,09月18日00:00-亚冠二级小组赛: 艾尔艾利 vs 哈列迪亞 乔迁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Er2iJFhFtolIJrduv4usts
+#EXTINF:-1,09月18日00:00-亚冠二级小组赛: 阿尔瓦斯尔 vs 德黑兰独立 鹿中原
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JaAjguVOggbkAA0dgyeBZE
+#EXTINF:-1,09月18日02:00-2025斯诺克英格兰公开赛: 32进16轮次
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CLY0Z0BZX8QWL2cHx3YXCI
+#EXTINF:-1,09月18日02:15-亚冠二级小组赛: 利雅得胜利 vs 伊提洛尔 刘畅
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FiHpll8OxYd-YT-IrW61zU
+#EXTINF:-1,09月18日02:15-亚冠二级小组赛: 穆哈拉克 vs 维达特 吴子越
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Cg_3J8G-GKNMt0dAH0uO5I
+#EXTINF:-1,09月18日09:30-国际大体联足球世界杯: 北京师范大学vs拉瓦尔大学
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9D0De7cMRvLbKe7YFrVkN7k
+#EXTINF:-1,09月18日09:30-国际大体联足球世界杯: 保利斯塔大学vs拉蒙鲁尔大学
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CmXPpauCsaLarL4kdEp3Z8
+#EXTINF:-1,09月18日10:00-河南省女子排球城市联赛豫南赛区第五轮: 第一阶段（南赛区）第五轮
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MX-b34XcIYDxXIQXeEcu1M
+#EXTINF:-1,09月18日10:00-2025年比利简金杯总决赛Day3：哈萨克斯坦VS美国、日本VS英国: 哈萨克斯坦VS美国 日本VS英国
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HNKuFiPzX5SSEKHFyXSMgY
+#EXTINF:-1,09月18日13:00-河南省女子排球城市联赛豫北赛区第五轮: 第一阶段（北赛区）第五轮
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J6b3VDjvpJCbBamCpGTmMY
+#EXTINF:-1,09月18日13:00-WTA首尔站第四日: WTA首尔站第四日
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9A_8WgJvXGECh6wasx4gXfQ
+#EXTINF:-1,09月18日13:00-ATP成都站第二日: ATP成都站第二日
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BS1CpzhMPae3twVfr1xIt0
+#EXTINF:-1,09月18日13:30-杭州网球公开赛Day3: 杭州网球公开赛Day3
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IwP0Lt1U0i1H9guhBSIMtg
+#EXTINF:-1,09月18日14:00-【赛事放映厅】重温WTT中国大满贯：王曼昱VS陈幸同: 王曼昱顶住追分压力晋级决赛
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L1_vRmA0u9Xk604FXyLB28
+#EXTINF:-1,09月18日14:30-全国女子篮球锦标赛: 河南豫光金铅vs浙江稠州银行
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OPK6jTX2swqo-WWfEo_7e4
+#EXTINF:-1,09月18日15:30-国际大体联足球世界杯: 北京航空航天大学vs智利天主教大学
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IyjjYHJ4ISVd-SXZw9_ddE
+#EXTINF:-1,09月18日17:00-全国女子篮球锦标赛: 辽宁vs新疆天山
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LCQkVBqxFf22xWinWFLc6E
+#EXTINF:-1,09月18日17:00-国际篮联洲际杯: NBA发展联盟联队vs弗拉门戈
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DJ9lvNeuoj_wJokxJuUgJw
+#EXTINF:-1,09月18日18:00-亚冠二级小组赛: 卡雅 vs 淡宾尼流浪 乔迁
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EcD2dOVzgHNtISDuwT7TUk
+#EXTINF:-1,09月18日18:00-亚冠二级小组赛: 雪兰莪 vs 曼谷联 鹿中原
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N5i42dya-PeWEev2p6xWbE
+#EXTINF:-1,09月18日18:00-亚冠二级小组赛: 和富大埔 vs 麦克阿瑟FC 鲁靖明
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IB6oiyNdkm-cpUPeX9DgRA
+#EXTINF:-1,09月18日19:30-全国女子篮球锦标赛: 上海浦发银行vs东莞新彤盛
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Gj7NqCWWiTWukOzYNqbA4g
+#EXTINF:-1,09月18日19:30-【精选回顾】2024中网女单第2轮：拉希莫娃VS郑钦文（蔡凯臣、刘钟鸣）: 拉希莫娃vs郑钦文 蔡凯臣 刘钟鸣
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NjAMDqVHLS2ATNu3rwONY0
+#EXTINF:-1,09月18日19:30-中国女篮系列热身赛: 中国vs西班牙尤文图特 连睿
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Jk-I4D1HhF3OXX-M844WWk
+#EXTINF:-1,09月18日20:00-2025斯诺克英格兰公开赛: 16进8轮次
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HY1Un_Ub8K_mOCXrrA--GA
+#EXTINF:-1,09月18日20:00-国际篮联洲际杯: 阿尔阿赫利vs马拉加
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9A6tFQqm7O0nmSve9oLZWXY
+#EXTINF:-1,09月18日20:15-亚冠二级小组赛: 北京国安 vs Công An Hà Nội 刘腾 徐云龙 林梦鸽
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NyBUsoBUHDObykXNi2AoiQ
+#EXTINF:-1,09月18日20:15-亚冠二级小组赛: 曼谷玻璃 vs 浦项铁人 吴子越
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9B4Q43iAMHU77Z6974de1Bc
+#EXTINF:-1,09月18日20:15-亚冠二级小组赛: 佩西比萬隆 vs 本国联队 盛斌
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KPLooqvL_XZQ7ZhavJ2qhQ
+#EXTINF:-1,09月15日00:30-西甲联赛-奥萨苏纳 vs 巴列卡诺-全场回放 (周楚雄)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GMlKlpBjzhY1KpKo2ijlgs
+#EXTINF:-1,09月15日02:00-WTA圣保罗站决赛：拉乔纳2-0曾丽美-女单决赛：拉乔纳2-0曾丽美-【回放】拉乔纳2-0曾丽美
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KyHP6UtnMI6QMxNUNO4mss
+#EXTINF:-1,09月15日02:00-WTA圣保罗站决赛：拉乔纳2-0曾丽美-女单决赛：拉乔纳2-0曾丽美-【回放】拉乔纳2-0曾丽美（英文原声）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OYFNb2WmdqStm2Fab7j_Bo
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】巩晨智4-2常冰玉（朱峰立）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MUEcZwTvxCQKRLbpFsTDTI
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】巩晨智4-2常冰玉
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9K7bsRdTgRl2UZThlxpibLA
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】贺国强4-3法拉赫·阿贾布
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9C3ESaLZw_k_1UZJZqh5D9U
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】吕昊天2-4利亚姆·戴维斯
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AJU64uygEBqAi0_dHKc_Ys
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】里奇·沃顿4-1白雨露
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LLgOk0AoS9WB--GCofGdbA
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-2025斯诺克英格兰公开赛Day4回放：杰米·琼斯4-3尤里安·博伊科
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NtMuXohdtrwr7OV5KPyGgQ
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-2025斯诺克英格兰公开赛Day4回放：斯科特·唐纳森4-3阿兰·泰勒
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EzBdsypPV7ZW9uPuDnPDow
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-2025斯诺克英格兰公开赛Day4回放：辛格·查达4-1本·默滕斯
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GJS4LPW3KK3tfnaqz5ZTaM
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-2025斯诺克英格兰公开赛Day4回放：亚伦·希尔4-2姚朋成
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DNBZ9wuUI9afRC6zLpJQqk
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】安东尼·麦克吉尔4-1马特乌斯·巴拉诺夫斯基
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EZoSQnxpb685pV6jRhCKpI
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】本·沃拉斯顿4-2亚历山大·乌尔森巴赫
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PRSFJ7lXtVlErwB-mDu9OE
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】迈克尔·霍尔特4-0明克·努查鲁特
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9B6XwRPhGXhNzBrfTLnsU_g
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】林杉峰4-3米歇尔·曼恩
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FKLLukJKJGkfEiJ4NU92JU
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】马修·史蒂文斯3-4迪伦·埃莫里
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O5OByKZ8cv46ibc2fToaTU
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】罗伯特·米尔金斯1-4罗斯·缪尔
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O6P5RoFkDM18OprIiirbaU
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】斯坦·穆迪1-4利亚姆·普伦
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Cls6QN8wZ8oj1eMzcFd_CQ
+#EXTINF:-1,09月15日02:00-2025斯诺克英格兰公开赛：巩晨智、贺国强晋级-白雨露淘汰 希尔轰出147-【回放】塔猜亚·乌努4-1海顿·平尼
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DfpCwlndghyeTOHXrhMipc
+#EXTINF:-1,09月15日02:45-法甲联赛-雷恩 vs 里昂-全场回放 (乔迁)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CavMJ4O0xM7BoKCicp6zxI
+#EXTINF:-1,09月15日02:45-意甲联赛-AC米兰 vs 博洛尼亚-全场回放 (石庆圣、李彦)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9P2W6-wRRrB-c44chH92TDQ
+#EXTINF:-1,09月15日03:00-西甲联赛-巴塞罗那 vs 瓦伦西亚-全场回放 (梁祥宇、李欣)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NHBVU1PRqcJOPI4lWmrncI
 #EXTINF:-1,09月15日07:30-WTA瓜达拉哈拉站决赛：约维奇2-0阿朗戈夺冠-约维奇2-0阿朗戈夺冠-【回放】约维奇2-0阿朗戈（刘钟鸣）
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ahfd5bT_Z0r-WhmM6sIyeE
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PCkk3aq9888Am4KkairXAU
 #EXTINF:-1,09月15日07:30-WTA瓜达拉哈拉站决赛：约维奇2-0阿朗戈夺冠-约维奇2-0阿朗戈夺冠-【回放】约维奇2-0阿朗戈（英文原声）
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MFhqimuDSI8qsC0g5DS2CY
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Lo9SeyYvFnvxHfez0DW6bw
 #EXTINF:-1,09月15日07:30-WTA瓜达拉哈拉站决赛：约维奇2-0阿朗戈夺冠-约维奇2-0阿朗戈夺冠-【回放】约维奇2-0阿朗戈
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LV16QcljdharLedstWumDg
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NBXysYP6V4G61hUPQ3OAwM
 #EXTINF:-1,09月15日13:00-WTA首尔站第一日：克鲁格0-2利斯-克鲁格0-2利斯-2025WTA首尔站女单第1轮回放：克鲁格0-2利斯（英文原声）
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O6TvvYM7xD2uExr38pCZYk
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CmuBatS768krHB25DvEzsY
 #EXTINF:-1,09月15日13:00-WTA首尔站第一日：克鲁格0-2利斯-克鲁格0-2利斯-2025WTA首尔站女单第1轮回放：克鲁格0-2利斯
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E2El6zp9X9c4XECqvOWS7A
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BhIrDnEt4jWN9QzKvxEoT0
 #EXTINF:-1,09月15日14:00-【赛事放映厅】重温WTT中国大满贯：孙颖莎VS伊藤美诚-再战伊藤！孙颖莎强势横扫-回放
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CUAqlXFEB7NM_A2agBNBO0
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ff9qxAdb_XUtNQAtAURgL4
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】丁俊晖4-1利亚姆·普伦
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H64_9OD9zIi4AUv84A8V20
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OXBRbPDHD-dX0gk8ofA6Aw
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】丁俊晖4-1利亚姆·普伦（丁文钧）
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HAE4TIKxg1qDiF0mWTVv0Q
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BPph6pyjhUCiGfSqzOWb2A
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】雷佩凡4-1瑞恩·戴（柏林）
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Fl5jeZi3qblYzRYIE9jnYY
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H5JOXN4jLmpD0hpLtLPXvU
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】庞俊旭4-3丹尼尔·威尔斯
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BRcTAErdynyIiDieQFpJb0
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CkHuHm0XyNuNS1_BmcvVuA
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】马克·塞尔比4-1利亚姆·海菲尔德
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HHJIxjFy5NPnYTKfaei4mY
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HaFsJHSnft7PR7S8bctvv8
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】吴宜泽4-1贺国强
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CtDQG96DMY_sM-fXtUmoHM
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KK3Ntr_sQoSCRX05mJu57E
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】雷佩凡4-1瑞恩·戴
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9G4l5IQb0O_NuiIZFDLaXbQ
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Lu2NRw-2Jrhm1KoQaH3iKU
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】马修·塞尔特4-2利亚姆·戴维斯
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HX0OnOkjlcEJ54NJObs8WU
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DB59ELDOYhsnfbYdnDYdFo
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】巴里·霍金斯4-2路易·希斯科特
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BUhKetKj0-o9eo7UhKQCls
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9C5YNhoiwgCjvFswf_7AL0U
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】凯伦·威尔逊2-4罗比·威廉姆斯
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JkfYdCpAGZsdgA7I0TUEq8
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JuPlYnDv9c6qe36cdPF4Z0
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】大卫·吉尔伯特2-4范争一
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KeXMi4oT-zDzJ-IMQBPOAw
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NVaRx3gzAUzwZpsR3UiqKw
 #EXTINF:-1,09月15日20:00-2025斯诺克英格兰公开赛64进32：丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-丁俊晖雷佩凡斯佳辉晋级 囧哥淘汰-【回放】斯佳辉4-2刘宏宇
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9D-R3SFvEER9k7pANYUYZhA
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9K-uZmoTNlxTCZSGXZ54xGU
 #EXTINF:-1,09月15日21:45-亚冠精英联赛阶段-沙迦 vs 加拉法-全场回放 (张昊泽)
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JX4KZWALV50HZ6MU7JplO8
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OjRH6eY5bIEBDixl-4OekA
 #EXTINF:-1,09月16日00:00-亚冠精英联赛阶段-阿布扎比统一 vs 吉达联合-全场回放（刘焕）
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CaOclDX8yPVGYXM23N3AKU
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OzX4W6ZMtKlAPlbZ2r2-s4
 #EXTINF:-1,09月16日00:30-意甲联赛-维罗纳 vs 克雷莫纳-全场回放 (吴奕博)
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Azhz-T9vSAyDGmcF58DJNU
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DLB-zrrQK8gBVMO7vFlkJA
 #EXTINF:-1,09月16日02:00-2025斯诺克英格兰公开赛：周跃龙4-1徐思 马叔、墨菲晋级-周跃龙4-1徐思 马叔、墨菲晋级-2025斯诺克英格兰公开赛Day5回放：克里斯·韦克林4-1罗斯·缪尔
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LFlDbC66mqmudyvgzSzMQk
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FUBsVmHe58L3GxR_7vO_NI
 #EXTINF:-1,09月16日02:00-2025斯诺克英格兰公开赛：周跃龙4-1徐思 马叔、墨菲晋级-周跃龙4-1徐思 马叔、墨菲晋级-【回放】周跃龙4-1徐思
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Jx74dAzaF1-ColLBjOx65k
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OYnTuTywBFcxM99CfXKTY4
 #EXTINF:-1,09月16日02:00-2025斯诺克英格兰公开赛：周跃龙4-1徐思 马叔、墨菲晋级-周跃龙4-1徐思 马叔、墨菲晋级-【回放】肖恩·墨菲4-0扎克·舒尔第
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GMv1JXlugwoeRJiIG1275Q
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9A9qReSrjpf1W9Vuvtbs8i8
 #EXTINF:-1,09月16日02:00-2025斯诺克英格兰公开赛：周跃龙4-1徐思 马叔、墨菲晋级-周跃龙4-1徐思 马叔、墨菲晋级-【回放】马克·威廉姆斯4-0阿米尔·萨克霍什
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MtoIsme11BnFURk4MNoAhM
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KolNbHGFHpXwMKyQub2eJs
 #EXTINF:-1,09月16日02:00-2025斯诺克英格兰公开赛：周跃龙4-1徐思 马叔、墨菲晋级-周跃龙4-1徐思 马叔、墨菲晋级-【回放】汤姆·福德4-3马丁·奥德奈尔
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GYkv2k7AlqkSNMr5KsbL-A
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Nki0Pdw2kJL2JZsLSbtibU
 #EXTINF:-1,09月16日02:00-2025斯诺克英格兰公开赛：周跃龙4-1徐思 马叔、墨菲晋级-周跃龙4-1徐思 马叔、墨菲晋级-【回放】侯赛因·瓦菲3-4卢卡·布雷切尔
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OwclhI4rPjg5U_AlFGY3es
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9A9EXVQTQthUVL6aSOd_W5Q
 #EXTINF:-1,09月16日02:15-亚冠精英联赛阶段-巴格达警察 vs 萨德-全场回放（石庆圣）
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MgFwGMeEVfN7PsAFrr7Eh8
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LcKoRnO9ksPgVETHjDCG48
 #EXTINF:-1,09月16日02:15-亚冠精英联赛阶段-吉达国民 vs 纳萨夫-全场回放 (鲁靖明)
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N37inqYpaXBO70B2PAwCmY
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AO1ncBS3tsKiSr_bp02QA8
 #EXTINF:-1,09月16日02:45-意甲联赛-科莫 vs 热那亚-全场回放 (乔迁)
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PD9uYkonoGD9P8OBw5K_Js
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NlMN77OFCvLpRgiImABu3w
 #EXTINF:-1,09月16日03:00-西甲联赛-西班牙人 vs 马略卡-全场回放 (孙雨轩)
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E62eijul4FV4VW7yB7G-yY
-#EXTINF:-1,09月16日13:00-WTA首尔站第二日：克雷吉茨科娃、拉杜卡努出战-克雷吉茨科娃、拉杜卡努出战-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FeQBLWzEnelQrf7t-J79Tg
-#EXTINF:-1,09月16日13:00-WTA首尔站第二日：克雷吉茨科娃、拉杜卡努出战-克雷吉茨科娃、拉杜卡努出战-英文原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E7Ckrhca5iu4IVx3Y8DkKk
-#EXTINF:-1,09月16日14:00-【赛事放映厅】重温WTT中国大满贯：莫雷加德VS张本智和-鏖战五局！莫雷加德逆转取胜-赛事重温
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LoetZTdnAfp-O5zWE1nQ1Q
-#EXTINF:-1,09月16日15:45-亚冠精英联赛阶段-墨尔本城 vs 广岛三箭-张昊泽
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FE2rjwkXVr3OKkUuscEZ1g
-#EXTINF:-1,09月16日15:45-亚冠精英联赛阶段-墨尔本城 vs 广岛三箭-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E-X9VBputGApHkpgtZ0lbo
-#EXTINF:-1,09月16日16:30-JDG vs AL-JDG vs AL-官方解说
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N84LUzj9y1kBcXKckZsIJs
-#EXTINF:-1,09月16日17:00-2025斯诺克英格兰公开赛：肖国栋、张安达、特鲁姆普出战-肖国栋、张安达、特鲁姆普出战-1号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DAX4ZF974xDGrBlUbxUFNg
-#EXTINF:-1,09月16日17:00-2025斯诺克英格兰公开赛：肖国栋、张安达、特鲁姆普出战-肖国栋、张安达、特鲁姆普出战-丁文钧
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IV-hLx0I-Qf88xZ9_k-hMk
-#EXTINF:-1,09月16日17:00-2025斯诺克英格兰公开赛：肖国栋、张安达、特鲁姆普出战-肖国栋、张安达、特鲁姆普出战-2号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FKjefuf06ut9MBsyYX-7Z4
-#EXTINF:-1,09月16日17:00-2025斯诺克英格兰公开赛：肖国栋、张安达、特鲁姆普出战-肖国栋、张安达、特鲁姆普出战-3号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H0OrRdYp-vESS7rkuS2y8c
-#EXTINF:-1,09月16日17:00-2025斯诺克英格兰公开赛：肖国栋、张安达、特鲁姆普出战-肖国栋、张安达、特鲁姆普出战-4号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OEZKYN8AEVr89M0mjP_hH8
-#EXTINF:-1,09月16日17:00-2025年比利简金杯总决赛Day1：中国队迎战意大利队-中国队迎战意大利队-单文强
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DwYjhwmhrJU2J24pKAC-RM
-#EXTINF:-1,09月16日17:00-2025年比利简金杯总决赛Day1：中国队迎战意大利队-中国队迎战意大利队-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NUUGOaudrMx3bkAlzlwfuI
-#EXTINF:-1,09月16日17:00-2025年比利简金杯总决赛Day1：中国队迎战意大利队-中国队迎战意大利队-英文原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9M0urlGB3ipRoE_wdEl-TEA
-#EXTINF:-1,09月16日18:00-亚冠精英联赛阶段-町田泽维亚 vs 首尔-涂远
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Je-sFXqko1gJF964kB6uIA
-#EXTINF:-1,09月16日18:00-亚冠精英联赛阶段-町田泽维亚 vs 首尔-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O-eWWO6ec2q8ycYF-GXDh0
-#EXTINF:-1,09月16日18:00-亚冠精英联赛阶段-江原 vs 上海申花-娄一晨 刘越 孙蕊
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Fx3_Q4iMDxI2k66-L9mhY8
-#EXTINF:-1,09月16日18:00-亚冠精英联赛阶段-江原 vs 上海申花-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GsEnXV2eplfrrXtpjg1fPw
-#EXTINF:-1,09月16日19:00-超三联赛-深圳赛区 小组赛第三轮-周钰波
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BVtLbw1lgvAD-IN_cbXXq4
-#EXTINF:-1,09月16日19:30-全国女子篮球锦标赛-石家庄英励vs赣州赣星-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AArtoNYd6Xk-1RxK8Fk_Dg
-#EXTINF:-1,09月16日19:30-诸暨VS舟山-诸暨VS舟山-2025浙江省城市篮球联赛: 诸暨VS舟山
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DErInZ0OapaIsADRIigGTI
-#EXTINF:-1,09月16日19:45-2025斗阵·泉BA篮球赛 决赛-2025斗阵·泉BA篮球赛 决赛-2025斗阵·泉BA篮球赛 决赛
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KUrXBIsVxAsGh97ne6RdJQ
-#EXTINF:-1,09月16日20:15-亚冠精英联赛阶段-武里南联 vs 柔佛新山-刘焕
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CnUlURjauRPs84WbPn3X3I
-#EXTINF:-1,09月16日20:15-亚冠精英联赛阶段-武里南联 vs 柔佛新山-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MZR6w3ECSihFrTGioIbkoA
-#EXTINF:-1,09月16日21:45-亚冠二级小组赛-莫亨巴根 vs Ahal-王子睿
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H7Sxb_h2WofXgJ7Fn1Lt78
-#EXTINF:-1,09月16日21:45-亚冠二级小组赛-莫亨巴根 vs Ahal-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Nd8upDHTuWdhkTkab8neYw
-#EXTINF:-1,09月17日00:00-亚冠精英联赛阶段-迪拜国民 vs 大不里士拖拉机-涂远
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9M0LULHux2ZXLnr3YEnYvWA
-#EXTINF:-1,09月17日00:00-亚冠精英联赛阶段-迪拜国民 vs 大不里士拖拉机-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J9o6a4nGy6YIxWIePHONuA
-#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童、罗伯逊出战-赵心童、罗伯逊出战-1号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NapUDtq-RagMZp2hGwliaY
-#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童、罗伯逊出战-赵心童、罗伯逊出战-朱蒙
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CHztCxunF9uR27K_6QgBv4
-#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童、罗伯逊出战-赵心童、罗伯逊出战-2号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9J2jAzkGzggiLn8pJghZL7w
-#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童、罗伯逊出战-赵心童、罗伯逊出战-3号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Aa2KS0rPmpLEnrDnZ7Y_kw
-#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童、罗伯逊出战-赵心童、罗伯逊出战-4号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Npu_OqtYlAuEbSyGrIeHUE
-#EXTINF:-1,09月17日02:15-亚冠精英联赛阶段-利雅得新月 vs 杜海勒-吴桐
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GLJGO630nTq_ylQbmHKBaw
-#EXTINF:-1,09月17日02:15-亚冠精英联赛阶段-利雅得新月 vs 杜海勒-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LizEVBPF_PLz00ipzGY-RE
-#EXTINF:-1,09月17日02:15-亚冠二级小组赛-艾尔胡塞因 vs 伊斯法罕钢铁-张天翼
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9B1kvrqWHtoagv4xezkLhzk
-#EXTINF:-1,09月17日02:15-亚冠二级小组赛-艾尔胡塞因 vs 伊斯法罕钢铁-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FvpfgPC9gKejWzO5yiF4lM
-#EXTINF:-1,09月17日10:00-河南省女子排球城市联赛豫南赛区第四轮-第一阶段（南赛区）第四轮-A组
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ke7_RJmhT5w4N5L9Y1XOz8
-#EXTINF:-1,09月17日12:00-杭州网球公开赛Day2-杭州网球公开赛Day2-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9M-vw4egB-ILDbTTEYl7Ixg
-#EXTINF:-1,09月17日13:00-河南省女子排球城市联赛豫北赛区第四轮-第一阶段（北赛区）第四轮-B组
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FtiGpW_StvBC3n8BXEYeqg
-#EXTINF:-1,09月17日13:00-WTA首尔站第三日-WTA首尔站第三日-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HKLCNUlaydCSdGrZlKAb7E
-#EXTINF:-1,09月17日13:00-WTA首尔站第三日-WTA首尔站第三日-英文原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ne9EJ000PBhey6ygnZzvMo
-#EXTINF:-1,09月17日13:00-ATP成都站第一日-ATP成都站第一日-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PVW6qQHjuJRl9yhrE3v4mE
-#EXTINF:-1,09月17日13:00-ATP成都站第一日-ATP成都站第一日-英文原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O4CWKmhHO5Fc2DpNIB8BAQ
-#EXTINF:-1,09月17日14:00-【赛事放映厅】重温WTT中国大满贯：向鹏VS莫雷加德-打出自信！向鹏状态神勇-赛事重温
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AnlqefcVNq6bSHad1_7S8o
-#EXTINF:-1,09月17日14:30-全国女子篮球锦标赛-山西竹叶青酒vs黑龙江上东-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OG4ctmuG4ekjZatsIfARbM
-#EXTINF:-1,09月17日14:30-全国女子篮球锦标赛-东莞新彤盛vs辽宁-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EfXTvDKqXHHUaBqhRhKbkg
-#EXTINF:-1,09月17日17:00-全国女子篮球锦标赛-四川远达美乐vs石家庄英励-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9I1jiw7_0N_EX3Y_w4yx_Mc
-#EXTINF:-1,09月17日17:00-全国女子篮球锦标赛-上海浦发银行vs河南豫光金铅-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MW5OtVZyDLoKLwEGFYLzYI
-#EXTINF:-1,09月17日17:00-2025斯诺克英格兰公开赛-32进16轮次-1号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Af997JWVa5vvjgfGlBBJWk
-#EXTINF:-1,09月17日17:00-2025斯诺克英格兰公开赛-32进16轮次-2号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IZ9qnfmw6Kif41lQq3Am9k
-#EXTINF:-1,09月17日17:00-2025斯诺克英格兰公开赛-32进16轮次-3号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Mc2Oc0Oly1HG_Nql7dAeHk
-#EXTINF:-1,09月17日17:00-2025斯诺克英格兰公开赛-32进16轮次-4号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MEMZQUsmrQN_iLLhoXaCuo
-#EXTINF:-1,09月17日17:00-2025斯诺克英格兰公开赛-32进16轮次-解说
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GNZyY6PXDcfapUu6APCG_E
-#EXTINF:-1,09月17日17:00-国际大体联足球世界杯-上海体育大学vs瓦伦西亚大学-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OQlMLs1HbLxw37RJEWg1XU
-#EXTINF:-1,09月17日17:00-2025年比利简金杯总决赛Day2：西班牙VS乌克兰-西班牙VS乌克兰-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KcwtmFHKvZM6Sti9KyNtoE
-#EXTINF:-1,09月17日17:00-2025年比利简金杯总决赛Day2：西班牙VS乌克兰-西班牙VS乌克兰-英文原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H84KYntAgNe41TYzaQYLh0
-#EXTINF:-1,09月17日18:00-亚冠精英联赛阶段-蔚山HD vs 成都蓉城-袁甲 杨晨 李子琪
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HHJ701VT4unjHD7FmXN0Pg
-#EXTINF:-1,09月17日18:00-亚冠精英联赛阶段-蔚山HD vs 成都蓉城-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NM2hFz-1QWxhJeDaOmlK4Q
-#EXTINF:-1,09月17日18:00-亚冠二级小组赛-大阪钢巴 vs 香港东方-刘洋
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CwxSNP0VBRWRLg7NWkjsk8
-#EXTINF:-1,09月17日18:00-亚冠二级小组赛-大阪钢巴 vs 香港东方-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JnRpQJdwuunURRYOdqSGY8
-#EXTINF:-1,09月17日18:00-超三联赛-深圳赛区 淘汰赛及决赛-蔡凯臣
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MIjrj3L6hIIjjyVcIRez_Q
-#EXTINF:-1,09月17日19:30-全国女子篮球锦标赛-赣州赣星vs厦门白鹭-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PdgKyvxVCINyHcgNjySel0
-#EXTINF:-1,09月17日19:30-全国女子篮球锦标赛-浙江稠州银行vs新疆天山-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FwH6aOfzbRtBGcXJP7Xu14
-#EXTINF:-1,09月17日19:30-NBL总决赛G2-香港金牛 VS 长沙电信勇胜-解说
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ma-L_V4_6oo9TAFvTq7fzc
-#EXTINF:-1,09月17日19:30-NBL总决赛G2-香港金牛 VS 长沙电信勇胜-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PMJs8zjZsR5Su7578fSCAg
-#EXTINF:-1,09月17日19:30-金华VS庆元-金华VS庆元-2025浙江省城市篮球联赛: 金华VS庆元
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JF7Qz6TrAgkIWr46T0Rm74
-#EXTINF:-1,09月17日19:30-中国女篮系列热身赛-中国vs西班牙尤文图特-连睿
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PoQi8XgJYFFW1vO1yJ7HgU
-#EXTINF:-1,09月17日19:30-中国女篮系列热身赛-中国vs西班牙尤文图特-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Lt5J9Mp9TAcKqrqIE5UNnc
-#EXTINF:-1,09月17日20:15-亚冠精英联赛阶段-上海海港 vs 神户胜利船-石庆圣 李彦 姚安妮
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BnoAOo6-8Q11O8iFX-f1-0
-#EXTINF:-1,09月17日20:15-亚冠精英联赛阶段-上海海港 vs 神户胜利船-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JzCZb9AnqLQcNAWW8oq0Tg
-#EXTINF:-1,09月17日20:15-亚冠二级小组赛-南定 vs 拉查布里府-盛斌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NfotVWaIOyINO4RKb0uu2E
-#EXTINF:-1,09月17日20:15-亚冠二级小组赛-南定 vs 拉查布里府-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AkyNouzWUJzL4qzRq0eg64
-#EXTINF:-1,09月17日21:45-亚冠二级小组赛-Goa vs 艾尔扎拉-张天翼
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FyByJ7tJ9W8AmHhOlrxfEM
-#EXTINF:-1,09月17日21:45-亚冠二级小组赛-Goa vs 艾尔扎拉-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Jc-GrbNOnqCObvvIALkX44
-#EXTINF:-1,09月17日21:45-亚冠二级小组赛-阿卡达格 vs 安迪扬-周楚雄
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9EXfece9YIdmNT0ea8cd3bU
-#EXTINF:-1,09月17日21:45-亚冠二级小组赛-阿卡达格 vs 安迪扬-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ErO0eEWo0Of8daSraT85lA
-#EXTINF:-1,09月18日00:00-亚冠二级小组赛-艾尔艾利 vs 哈列迪亞-乔迁
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OD7upkxuqp-L5jFBpmHutU
-#EXTINF:-1,09月18日00:00-亚冠二级小组赛-艾尔艾利 vs 哈列迪亞-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9A5__AlvU0qYrC794RgMxfM
-#EXTINF:-1,09月18日00:00-亚冠二级小组赛-阿尔瓦斯尔 vs 德黑兰独立-鹿中原
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N_KbLosl0ABOMv5Cf2SdBE
-#EXTINF:-1,09月18日00:00-亚冠二级小组赛-阿尔瓦斯尔 vs 德黑兰独立-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CWIxN80Xmn2EUiQkhR6l4M
-#EXTINF:-1,09月18日02:00-2025斯诺克英格兰公开赛-32进16轮次-1号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NPc6MYuw-dsJYLDdwkeyDY
-#EXTINF:-1,09月18日02:00-2025斯诺克英格兰公开赛-32进16轮次-2号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LQCvQkOYc7o06r3PwKnZto
-#EXTINF:-1,09月18日02:00-2025斯诺克英格兰公开赛-32进16轮次-3号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OWSmMK46kTTN0XelTw92R0
-#EXTINF:-1,09月18日02:00-2025斯诺克英格兰公开赛-32进16轮次-4号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HIKVgqg7y3BBGo5RUOW_jc
-#EXTINF:-1,09月18日02:00-2025斯诺克英格兰公开赛-32进16轮次-解说
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PMfP9_I4XsSQAmtwbmz35c
-#EXTINF:-1,09月18日02:15-亚冠二级小组赛-利雅得胜利 vs 伊提洛尔-刘畅
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PV1FTO_FUfAjj-5U0EN8ig
-#EXTINF:-1,09月18日02:15-亚冠二级小组赛-利雅得胜利 vs 伊提洛尔-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BmFHmD7mKlqxyddGmAkppI
-#EXTINF:-1,09月18日02:15-亚冠二级小组赛-穆哈拉克 vs 维达特-吴子越
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AitHVdN8CwXaGX6pRVEO_c
-#EXTINF:-1,09月18日02:15-亚冠二级小组赛-穆哈拉克 vs 维达特-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AaNGrM7IeMNQ-_SU8tsZEc
-#EXTINF:-1,09月18日09:30-国际大体联足球世界杯-北京师范大学vs拉瓦尔大学-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BChRhMwrQaLDCk8vZNKH3s
-#EXTINF:-1,09月18日09:30-国际大体联足球世界杯-保利斯塔大学vs拉蒙鲁尔大学-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OMAdYXPvpo6n-nxGtxhfYo
-#EXTINF:-1,09月18日10:00-河南省女子排球城市联赛豫南赛区第五轮-第一阶段（南赛区）第五轮-A组
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HpTvfXlbqvtUZMGhYPOE5c
-#EXTINF:-1,09月18日13:00-河南省女子排球城市联赛豫北赛区第五轮-第一阶段（北赛区）第五轮-B组
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CKtBa3LN5YYwUMj5kl60EU
-#EXTINF:-1,09月18日13:00-WTA首尔站第四日-WTA首尔站第四日-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FtyJXhxJLdgXQnLiNhtqy0
-#EXTINF:-1,09月18日13:00-WTA首尔站第四日-WTA首尔站第四日-英文原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HLpYBiAr8rUp82I1Eqjx2s
-#EXTINF:-1,09月18日13:00-ATP成都站第二日-ATP成都站第二日-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KbsHheDn_yMrO0dDuRL2FE
-#EXTINF:-1,09月18日13:00-ATP成都站第二日-ATP成都站第二日-英文原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HYbNMUkZmsapfp-f6Yl5ms
-#EXTINF:-1,09月18日13:30-杭州网球公开赛Day3-杭州网球公开赛Day3-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9HM6sTY6UDhWHs8oVIeYgi4
-#EXTINF:-1,09月18日14:00-【赛事放映厅】重温WTT中国大满贯：王曼昱VS陈幸同-王曼昱顶住追分压力晋级决赛-赛事重温
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FEMKHHiEowMsTlGA7ijhiQ
-#EXTINF:-1,09月18日14:30-全国女子篮球锦标赛-河南豫光金铅vs浙江稠州银行-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CF-vh7ZbV7afiInc-QxhVw
-#EXTINF:-1,09月18日15:30-国际大体联足球世界杯-北京航空航天大学vs智利天主教大学-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NUbwuzyNcCbWBJQzB3911U
-#EXTINF:-1,09月18日17:00-全国女子篮球锦标赛-辽宁vs新疆天山-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CA_ZQ8ZdiikDHHLHOoAj4A
-#EXTINF:-1,09月18日18:00-亚冠二级小组赛-卡雅 vs 淡宾尼流浪-乔迁
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OxTMbWOq7_JCMgMPYR7_BE
-#EXTINF:-1,09月18日18:00-亚冠二级小组赛-卡雅 vs 淡宾尼流浪-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9K6zPZSrwl76g9fJOeer0NU
-#EXTINF:-1,09月18日18:00-亚冠二级小组赛-雪兰莪 vs 曼谷联-鹿中原
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NKF8DAqHuFZUx2IMifIvRY
-#EXTINF:-1,09月18日18:00-亚冠二级小组赛-雪兰莪 vs 曼谷联-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9LXxmANMUrgJ9Ov-ZjN3xqw
-#EXTINF:-1,09月18日18:00-亚冠二级小组赛-和富大埔 vs 麦克阿瑟FC-鲁靖明
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Bv2a4rVXqNvTTV5RU8l53s
-#EXTINF:-1,09月18日18:00-亚冠二级小组赛-和富大埔 vs 麦克阿瑟FC-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9NRHawu4ti7xxVzeuKyrEdY
-#EXTINF:-1,09月18日19:30-全国女子篮球锦标赛-上海浦发银行vs东莞新彤盛-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BZlxrTGir3g6yFrbjFnqSM
-#EXTINF:-1,09月18日19:30-【精选回顾】2024中网女单第2轮：拉希莫娃VS郑钦文（蔡凯臣、刘钟鸣）-拉希莫娃vs郑钦文-蔡凯臣 刘钟鸣
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KU8jtGk9RtPZpdd2DcRj_E
-#EXTINF:-1,09月18日19:30-中国女篮系列热身赛-中国vs西班牙尤文图特-连睿
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ky2Q5KOxRYeTPoVLHZpPPQ
-#EXTINF:-1,09月18日19:30-中国女篮系列热身赛-中国vs西班牙尤文图特-清流播出
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GSLYXvALCRB-pzYlQ_A3_Q
-#EXTINF:-1,09月18日20:00-2025斯诺克英格兰公开赛-16进8轮次-1号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FBwQkhy2GNl4oTV6H9dQig
-#EXTINF:-1,09月18日20:00-2025斯诺克英格兰公开赛-16进8轮次-2号桌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9H-rrzd8MRnyUCdEGYM6M8w
-#EXTINF:-1,09月18日20:00-2025斯诺克英格兰公开赛-16进8轮次-解说
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9F-yymH4NkSzN2nGHWf7Kkk
-#EXTINF:-1,09月18日20:15-亚冠二级小组赛-北京国安 vs Công An Hà Nội-刘腾 徐云龙 林梦鸽
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O68-ISJzgBY0vyfXbWE3BA
-#EXTINF:-1,09月18日20:15-亚冠二级小组赛-北京国安 vs Công An Hà Nội-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DXlmKAuSbmcp9C27svbG2s
-#EXTINF:-1,09月18日20:15-亚冠二级小组赛-曼谷玻璃 vs 浦项铁人-吴子越
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Jv8sjJ9oE4CinikpiuhNUc
-#EXTINF:-1,09月18日20:15-亚冠二级小组赛-曼谷玻璃 vs 浦项铁人-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BvTbaw_sSq-fp8OLLYb2nA
-#EXTINF:-1,09月18日20:15-亚冠二级小组赛-佩西比萬隆 vs 本国联队-盛斌
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Av6mwQnmIPVHrNQiSjDhk8
-#EXTINF:-1,09月18日20:15-亚冠二级小组赛-佩西比萬隆 vs 本国联队-赛场原声
-https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9IlBxvAX5_c08JBdC_BtQIA
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GUycs0EhoakkktX6BG3Hrs
+#EXTINF:-1,09月16日13:00-WTA首尔站第二日： 克雷吉茨科娃晋级 其余比赛因雨延期-克雷吉茨科娃晋级 其余比赛因雨延期-【回放】克雷吉茨科娃2-0普罗佐罗娃
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9I3i52tUnxlEFzv-JfX3COo
+#EXTINF:-1,09月16日13:00-WTA首尔站第二日： 克雷吉茨科娃晋级 其余比赛因雨延期-克雷吉茨科娃晋级 其余比赛因雨延期-【回放】克雷吉茨科娃2-0普罗佐罗娃（英文原声）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CdhrF_zk11ip4VPC8SMGA0
+#EXTINF:-1,09月16日14:00-【赛事放映厅】重温WTT中国大满贯：莫雷加德VS张本智和-鏖战五局！莫雷加德逆转取胜-回放
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PLfrbjItVn28L1uvDKucfA
+#EXTINF:-1,09月16日15:45-亚冠精英联赛阶段-墨尔本城 vs 广岛三箭-全场回放 (张昊泽)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KQ82gjgOTQm4ACCPkNnO5Q
+#EXTINF:-1,09月16日17:00-2025年比利简金杯总决赛Day1：中国队0-2意大利队-中国队0-2意大利队-【回放】王欣瑜1-2保利尼（单文强）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9L6EIGRg04Z2Naegw-yMpg0
+#EXTINF:-1,09月16日17:00-2025年比利简金杯总决赛Day1：中国队0-2意大利队-中国队0-2意大利队-【回放】袁悦1-2科恰雷托（单文强）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FvoB9quy5UDkkzjN8iM_Oo
+#EXTINF:-1,09月16日17:00-2025年比利简金杯总决赛Day1：中国队0-2意大利队-中国队0-2意大利队-【回放】王欣瑜1-2保利尼
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9E_TuyuDGHMxZPS0eM49vTU
+#EXTINF:-1,09月16日17:00-2025年比利简金杯总决赛Day1：中国队0-2意大利队-中国队0-2意大利队-【回放】袁悦1-2科恰雷托
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9O8EIBSs7NKThhEWA0ox__w
+#EXTINF:-1,09月16日18:00-亚冠精英联赛阶段-町田泽维亚 vs 首尔-全场回放（涂远）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9G3YmRngUvl1VoPfsRM32yo
+#EXTINF:-1,09月16日18:00-亚冠精英联赛阶段-江原 vs 上海申花-全场回放 (娄一晨、刘越、孙蕊)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9OHQGTU9U4-zpYV8aobg9yA
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】肖国栋4-0巩晨智（丁文钧）（50帧原画）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9FqOdq0jcIrd6m7SnIR-TI0
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】肖国栋4-0巩晨智
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DXX1ejcaO10Daa8r55-Qog
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】贾德·特鲁姆普4-0迈克尔·霍尔特（朱峰立）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9AahC6pq91qWA4CTmw2p_bc
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】贾德·特鲁姆普4-0迈克尔·霍尔特
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KNB7h89mJFZjJ56eYH3DMc
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】埃利奥特·斯莱塞4-2吉米·罗伯逊
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9BGepSrNqC5wRE0SusScWH0
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】袁思俊4-3本·沃拉斯顿
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9PmEuJGN8Ja4m9iALHNsFSY
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】斯图尔特·宾汉姆4-0迪伦·埃莫里
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9N44AJqRwPJxI22hycFnwko
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】马克·艾伦4-1斯科特·唐纳森
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9GHDHN5-IcazX0IYfjYU45I
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】加里·威尔逊4-2林杉峰
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9MP8IHpxY0YTeSgPJgeflH8
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】张安达4-1安东尼·麦克吉尔
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Drk5Ks2SlGk3bK6vvfY-bs
+#EXTINF:-1,09月16日20:00-2025斯诺克英格兰公开赛64进32：袁思俊4-3险胜 肖国栋张安达晋级-袁思俊4-3险胜 肖国栋张安达晋级-【回放】杰克·琼斯4-3杰米·琼斯
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CLjCLpfzC3mqfHMbXOharQ
+#EXTINF:-1,09月16日20:15-亚冠精英联赛阶段-武里南联 vs 柔佛新山-全场回放 (刘焕)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9CD3feu3qVBjdH2hIiUEp5w
+#EXTINF:-1,09月16日21:45-亚冠二级小组赛-莫亨巴根 vs Ahal-【全场回放】 莫亨巴根vs阿哈尔
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Pg_U5PNHxQa0cT_kmeefMc
+#EXTINF:-1,09月16日21:45-亚冠二级小组赛-莫亨巴根 vs Ahal-全场回放 (王子睿)
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Jmxc3TV71EOw0KOoE3V3Ss
+#EXTINF:-1,09月17日00:00-亚冠精英联赛阶段-迪拜国民 vs 大不里士拖拉机-全场回放（涂远）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Exr-kX2Skz8BQVy_h7s8EU
+#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童晋级 傅家俊出局-赵心童晋级 傅家俊2-4卡特-【回放】赵心童4-0辛格·查达（朱蒙）
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9KG1CCfBO6uO8Hyxwtp_u3U
+#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童晋级 傅家俊出局-赵心童晋级 傅家俊2-4卡特-【回放】赵心童4-0辛格·查达
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DMOisGt9E8Jppk1iL_3XbM
+#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童晋级 傅家俊出局-赵心童晋级 傅家俊2-4卡特-【回放】阿里·卡特4-2傅家俊
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DnMQyuiMns3wdpR0yFuG-E
+#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童晋级 傅家俊出局-赵心童晋级 傅家俊2-4卡特-【回放】尼尔·罗伯逊4-1阿卡尼·宋沙瓦
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JE_uDzqUYpFTsr_N5TYEfU
+#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童晋级 傅家俊出局-赵心童晋级 傅家俊2-4卡特-【回放】杰克逊·佩奇4-1赵翰洋
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9JCxUGYsRbXUj9xOgSkHl9w
+#EXTINF:-1,09月17日02:00-2025斯诺克英格兰公开赛：赵心童晋级 傅家俊出局-赵心童晋级 傅家俊2-4卡特-【回放】杰克·利索夫斯基4-2塔猜亚·乌努
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9Ml4-PnLbnGd0bcXJrNV2eE
+#EXTINF:-1,09月17日02:15-亚冠精英联赛阶段-利雅得新月 vs 杜海勒-【全场回放】 利雅得新月vs杜海勒
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9ExtO9NwMc8mvRa8faiUqew
+#EXTINF:-1,09月17日02:15-亚冠二级小组赛-艾尔胡塞因 vs 伊斯法罕钢铁-【全场回放】 伊尔比德侯赛因vs塞帕罕
+https://newtvsuper.com:443/play/2AIYP3F6rOO1CYAgQvyH9DTIPSlYsPtIeGO-NCDkEsw
