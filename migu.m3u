@@ -1,169 +1,178 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩广场舞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩少年「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩竞技「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",晴彩篮球「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝕂-𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝕂-𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟡「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟘「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟙「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟚「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟜「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟝「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟞「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟟「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟠「移动」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/5/100000001093106c8064.png" group-title="全国女子篮球锦标赛", 09/18 19:25_全国女子篮球锦标赛_上海浦发银行vs东莞新彤盛_清流播出
-http://111.170.172.135:3579/migu3.index.php?id=957927555
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛", 01/01 08:00_郑钦文2-0拉希莫娃_郑钦文2-0拉希莫娃_蔡凯臣 刘钟鸣
-http://111.170.172.135:3579/migu3.index.php?id=935399936
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 09/18 19:20_中国女篮系列热身赛_中国vs西班牙尤文图特_连睿
-http://111.170.172.135:3579/migu3.index.php?id=958175828
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 09/18 20:00_中国女篮系列热身赛_中国vs西班牙尤文图特_同看亚冠
-http://111.170.172.135:3579/migu3.index.php?id=958052635
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/2/7/100000001096106672dc.png" group-title="中国女篮系列热身赛", 09/18 19:20_中国女篮系列热身赛_中国vs西班牙尤文图特_清流播出
-http://111.170.172.135:3579/migu3.index.php?id=958175814
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 20:00_周跃龙4-2霍金斯 特鲁姆普淘汰_周跃龙4-2霍金斯 特鲁姆普淘汰_1号桌
-http://111.170.172.135:3579/migu3.index.php?id=958022905
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/18 20:00_周跃龙4-2霍金斯 特鲁姆普淘汰_周跃龙4-2霍金斯 特鲁姆普淘汰_2号桌
-http://111.170.172.135:3579/migu3.index.php?id=958022939
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/18 19:55_国际篮联洲际杯_阿尔阿赫利vs马拉加_解说
-http://111.170.172.135:3579/migu3.index.php?id=958199525
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/18 19:55_国际篮联洲际杯_阿尔阿赫利vs马拉加_现场原声
-http://111.170.172.135:3579/migu3.index.php?id=958199562
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 20:00_亚冠二级小组赛_北京国安 vs Công An Hà Nội_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958052578
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 20:00_亚冠二级小组赛_曼谷玻璃 vs 浦项铁人_吴子越
-http://111.170.172.135:3579/migu3.index.php?id=958052830
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 20:00_亚冠二级小组赛_曼谷玻璃 vs 浦项铁人_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958052800
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 20:00_亚冠二级小组赛_佩西比萬隆 vs 本国联队_盛斌
-http://111.170.172.135:3579/migu3.index.php?id=958052749
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/100000001227106e764f.png" group-title="亚冠二级", 09/18 20:00_亚冠二级小组赛_佩西比萬隆 vs 本国联队_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958052725
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2022/8/26/1000000003811061d2c5.png" group-title="世界男排锦标赛", 09/18 21:33_捷克3-0中国_捷克3-0中国_2025年男排世锦赛-H组小组赛（捷克队—中国队）
-http://111.170.172.135:3579/migu3.index.php?id=958253842
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 02:00_丁俊晖迎战艾伦 吴宜泽PK塞尔比_丁俊晖迎战艾伦 吴宜泽PK塞尔比_1号桌
-http://111.170.172.135:3579/migu3.index.php?id=958023073
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 02:00_丁俊晖迎战艾伦 吴宜泽PK塞尔比_丁俊晖迎战艾伦 吴宜泽PK塞尔比_2号桌
-http://111.170.172.135:3579/migu3.index.php?id=958023142
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 02:00_丁俊晖迎战艾伦 吴宜泽PK塞尔比_丁俊晖迎战艾伦 吴宜泽PK塞尔比_2025斯诺克英格兰公开赛 Day8凌晨场（解说）（1号桌）（秦正）
-http://111.170.172.135:3579/migu3.index.php?id=958023182
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/10000000132010698d2a.png" group-title="河南省女子排球城市联赛", 09/19 10:00_第一阶段（南赛区）第六轮_第一阶段（南赛区）第六轮_A组
-http://111.170.172.135:3579/migu3.index.php?id=958050893
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 10:00_贵阳贵安vs邯郸市_贵阳贵安vs邯郸市_解说
-http://111.170.172.135:3579/migu3.index.php?id=958212024
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 10:00_西安市vs菏泽市_西安市vs菏泽市_解说
-http://111.170.172.135:3579/migu3.index.php?id=958212155
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 10:00_南阳市vs黔江区_南阳市vs黔江区_解说
-http://111.170.172.135:3579/migu3.index.php?id=958212255
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 10:00_石景山区vs涪陵区_石景山区vs涪陵区_解说
-http://111.170.172.135:3579/migu3.index.php?id=958212427
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/11/100000001324106eaa7b.png" group-title="翼装飞行世锦赛", 09/19 11:00_天门山翼装飞行世锦赛_天门山翼装飞行世锦赛_解说
-http://111.170.172.135:3579/migu3.index.php?id=958072059
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/9/10000000132010698d2a.png" group-title="河南省女子排球城市联赛", 09/19 13:00_第一阶段（北赛区）第六轮_第一阶段（北赛区）第六轮_B组
-http://111.170.172.135:3579/migu3.index.php?id=958050920
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 09/19 13:00_WTA首尔站1/4决赛_WTA首尔站1/4决赛_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958158436
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg" group-title="WTA", 09/19 13:00_WTA首尔站1/4决赛_WTA首尔站1/4决赛_英文原声
-http://111.170.172.135:3579/migu3.index.php?id=958158595
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="ATP", 09/19 13:00_商竣程PK中岛布兰登 周意出战_商竣程PK中岛布兰登 周意出战_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958178129
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="ATP", 09/19 13:00_商竣程PK中岛布兰登 周意出战_商竣程PK中岛布兰登 周意出战_英文原声
-http://111.170.172.135:3579/migu3.index.php?id=958178188
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="ATP", 09/19 13:30_武基奇迎战戈芬 沃尔顿出战_武基奇迎战戈芬 沃尔顿出战_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958169212
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/9/16/1000000003671066e6c8.jpg" group-title="ATP", 09/19 13:30_武基奇迎战戈芬 沃尔顿出战_武基奇迎战戈芬 沃尔顿出战_英文原声
-http://111.170.172.135:3579/migu3.index.php?id=958203863
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 13:30_太原市vs成都市_太原市vs成都市_解说
-http://111.170.172.135:3579/migu3.index.php?id=958212207
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 13:30_长沙市vs眉山市_长沙市vs眉山市_解说
-http://111.170.172.135:3579/migu3.index.php?id=958212273
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 13:30_咸阳市vs北海市_咸阳市vs北海市_解说
-http://111.170.172.135:3579/migu3.index.php?id=958212486
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/3/10000000117810627118.jpg" group-title="乒乓球经典赛事", 09/19 14:00_【赛事放映厅】重温WTT中国大满贯：林诗栋VS向鹏_渐入佳境！林诗栋成功逆转_赛事重温
-http://111.170.172.135:3579/migu3.index.php?id=958077000
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/5/100000001093106c8064.png" group-title="全国女子篮球锦标赛", 09/19 14:25_全国女子篮球锦标赛_辽宁vs上海浦发银行_清流播出
-http://111.170.172.135:3579/migu3.index.php?id=957927567
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/5/100000001093106c8064.png" group-title="全国女子篮球锦标赛", 09/19 16:55_全国女子篮球锦标赛_东莞新彤盛vs浙江稠州银行_清流播出
-http://111.170.172.135:3579/migu3.index.php?id=957927579
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/100000001327106850a5.png" group-title="比利简金杯", 09/19 17:00_2025年比利简金杯总决赛Day4_2025年比利简金杯总决赛Day4_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958172707
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/100000001327106850a5.png" group-title="比利简金杯", 09/19 17:00_2025年比利简金杯总决赛Day4_2025年比利简金杯总决赛Day4_英文原声
-http://111.170.172.135:3579/migu3.index.php?id=958172757
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/19 16:55_国际篮联洲际杯_NBA发展联盟联队vs伊拉瓦拉老鹰_解说
-http://111.170.172.135:3579/migu3.index.php?id=958199590
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/19 16:55_国际篮联洲际杯_NBA发展联盟联队vs伊拉瓦拉老鹰_现场原声
-http://111.170.172.135:3579/migu3.index.php?id=958199607
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:05_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_官方解说
-http://111.170.172.135:3579/migu3.index.php?id=958226805
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:05_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_清流
-http://111.170.172.135:3579/migu3.index.php?id=958226822
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角1
-http://111.170.172.135:3579/migu3.index.php?id=958226841
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角2
-http://111.170.172.135:3579/migu3.index.php?id=958226851
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角3
-http://111.170.172.135:3579/migu3.index.php?id=958226867
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角4
-http://111.170.172.135:3579/migu3.index.php?id=958226887
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_明星视角5
-http://111.170.172.135:3579/migu3.index.php?id=958226917
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/4/22/100000001002106cb891.png" group-title="PEL", 09/19 17:40_2025PEL夏季赛 总决赛 第一天_2025PEL夏季赛 总决赛 第一天_地图流
-http://111.170.172.135:3579/migu3.index.php?id=958226925
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 19:00_1/4决赛_1/4决赛_1号桌
-http://111.170.172.135:3579/migu3.index.php?id=958023277
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 21:00_1/4决赛_1/4决赛_2号桌
-http://111.170.172.135:3579/migu3.index.php?id=958023326
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 19:00_1/4决赛_1/4决赛_解说
-http://111.170.172.135:3579/migu3.index.php?id=958023348
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/19 21:00_1/4决赛_1/4决赛_柏林
-http://111.170.172.135:3579/migu3.index.php?id=958244766
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/11/100000001123106aab38.png" group-title="国际大体联足球世界杯", 09/19 18:55_国际大体联足球世界杯_上法兰西综合理工大学vs北京师范大学_清流播出
-http://111.170.172.135:3579/migu3.index.php?id=958073293
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/5/100000001093106c8064.png" group-title="全国女子篮球锦标赛", 09/19 19:25_全国女子篮球锦标赛_新疆天山vs河南豫光金铅_清流播出
-http://111.170.172.135:3579/migu3.index.php?id=957927600
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png" group-title="NBL", 09/19 19:00_NBL总决赛G3_香港金牛 VS 长沙电信勇胜_解说
-http://111.170.172.135:3579/migu3.index.php?id=957995726
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/6/29/1000000010691064a6f5.png" group-title="NBL", 09/19 19:00_NBL总决赛G3_香港金牛 VS 长沙电信勇胜_清流播出
-http://111.170.172.135:3579/migu3.index.php?id=957995769
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="中国网球公开赛", 09/19 19:30_波多罗斯卡vs郑钦文_波多罗斯卡vs郑钦文_邱超
-http://111.170.172.135:3579/migu3.index.php?id=958072309
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛城市争霸赛", 09/19 19:30_余姚VS嘉兴经开区_余姚VS嘉兴经开区_2025浙江省城市篮球联赛: 余姚VS嘉兴经开区
-http://111.170.172.135:3579/migu3.index.php?id=958175114
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/7/16/1000000012931063812e.png" group-title="浙江省城市篮球联赛城市争霸赛", 09/19 19:30_台州VS温州_台州VS温州_2025浙江省城市篮球联赛: 台州VS温州
-http://111.170.172.135:3579/migu3.index.php?id=958175131
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/16/1000000013301068b8e2.png" group-title="贵阳城市足球邀请赛", 09/19 18:00_贵阳市vs泸州市_贵阳市vs泸州市_解说
-http://111.170.172.135:3579/migu3.index.php?id=958211676
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 09/19 19:20_中超联赛_武汉三镇 vs 河南_孙雨轩 徐云龙
-http://111.170.172.135:3579/migu3.index.php?id=958234613
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 09/19 19:20_中超联赛_武汉三镇 vs 河南_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958234594
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/4/100000001316106bfe97.png" group-title="湖南省足球联赛", 09/19 19:30_湖南省足球联赛_岳阳vs邵阳_清流播出
-http://111.170.172.135:3579/migu3.index.php?id=958176661
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 09/19 19:30_中超联赛_云南玉昆 vs 大连英博_李欣 董路
-http://111.170.172.135:3579/migu3.index.php?id=958234673
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="中超", 09/19 19:45_中超联赛_云南玉昆 vs 大连英博_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958234659
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/19 19:55_国际篮联洲际杯_阿尔阿赫利vs宇都宫皇者_解说
-http://111.170.172.135:3579/migu3.index.php?id=958199622
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/15/10000000132910662d9e.png" group-title="国际篮联洲际杯", 09/19 19:55_国际篮联洲际杯_阿尔阿赫利vs宇都宫皇者_现场原声
-http://111.170.172.135:3579/migu3.index.php?id=958199636
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/20 02:00_1/4决赛_1/4决赛_1号桌
-http://111.170.172.135:3579/migu3.index.php?id=958023427
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/20 02:00_1/4决赛_1/4决赛_2号桌
-http://111.170.172.135:3579/migu3.index.php?id=958023433
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg" group-title="斯诺克", 09/20 02:00_1/4决赛_1/4决赛_解说
-http://111.170.172.135:3579/migu3.index.php?id=958023444
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 09/20 02:15_德甲联赛_斯图加特 vs 圣保利_吴子越
-http://111.170.172.135:3579/migu3.index.php?id=958257719
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="德甲", 09/20 02:15_德甲联赛_斯图加特 vs 圣保利_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958257692
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg" group-title="英女超", 09/20 02:15_英女超_埃弗顿女足vs伦敦城雌狮女足_林梦鸽
-http://111.170.172.135:3579/migu3.index.php?id=958262031
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg" group-title="英女超", 09/20 02:15_英女超_埃弗顿女足vs伦敦城雌狮女足_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958261913
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg" group-title="英女超", 09/20 02:15_英女超_托特纳姆热刺女足vs曼城女足_吴桐
-http://111.170.172.135:3579/migu3.index.php?id=958262058
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2025/9/18/100000001333106f7427.jpg" group-title="英女超", 09/20 02:15_英女超_托特纳姆热刺女足vs曼城女足_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958262050
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 09/20 02:30_法甲联赛_里昂 vs 昂热_乔迁
-http://111.170.172.135:3579/migu3.index.php?id=958257977
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="法甲", 09/20 02:30_法甲联赛_里昂 vs 昂热_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958257964
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 09/20 02:30_意甲联赛_莱切 vs 卡利亚里_涂远
-http://111.170.172.135:3579/migu3.index.php?id=958257748
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="意甲", 09/20 02:30_意甲联赛_莱切 vs 卡利亚里_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958257738
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/20 02:45_西甲联赛_皇家贝蒂斯 vs 皇家社会_洪宇青
-http://111.170.172.135:3579/migu3.index.php?id=958258323
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 09/20 02:45_西甲联赛_皇家贝蒂斯 vs 皇家社会_赛场原声
-http://111.170.172.135:3579/migu3.index.php?id=958258315
-
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",晴彩广场舞「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",晴彩少年「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",晴彩竞技「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",晴彩篮球「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜K-𝟙「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜K-𝟚「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟜「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟝「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟞「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟟「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟠「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟡「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟘「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟙「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟚「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟛「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟜「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟝「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟞「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟟「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟠「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟙𝟡「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟘「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟙「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟚「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟛「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟜「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟝「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟞「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟟「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟠「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟚𝟡「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟘「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟙「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟚「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟛「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟜「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟝「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟞「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟟「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播 𝟛𝟠「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
