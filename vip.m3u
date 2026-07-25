@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="五星体育",⭐ [五星体育] VIP线路1 
+http://192.151.150.154/live/wxtyhd.m3u8
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="五星体育",⭐ [五星体育] VIP线路2
+https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001049/index.m3u8?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=01vY5fRxC8VyKfyEOYk0LDp9YLEjO1ni9keWsDQjKuMIoZn85guYrzPJq2lVflEJsKzv7hZB2LwF12v205NF2bD5fEe4EFtiz2Enx7GXcs9Sc0uXdIvWeRY&token=1783150886-753c13d86162259f-0-e3e00acb3224b08aae38a5d27cb0589f
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="五星体育",⭐ [五星体育] VIP线路3
+https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001049/index.m3u8?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk&streamkey=01vY5fRxC8VyKfyEOYk0LDp9YLEjO1ni9keWsDQjKuMIoZn85guYrzPJq2lVflEJsKzv7hZB2LwF12v205NF2bD5fEe4EFtiz2Enx7GXcs9Sc0uXdIvWeRY&token=1783150886-753c13d86162259f-0-e3e00acb3224b08aae38a5d27cb0589f
