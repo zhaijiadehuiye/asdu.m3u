@@ -37,9 +37,10 @@ http://82.156.243.185:54321/wxty.php
 https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",⭐ [五星体育] 线路3 (备)
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001018/index.m3u8?streamid=5d17da390f8e4805aae4a71868d4ef6c&
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",⭐ Apple TV 4K Dolby Vision F1
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",⭐ Apple TV 4K Dolby Vision F1
 http://82.156.243.185:55221/appletvf1.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育"，⭐ Sky Sports F1 
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",⭐ Sky Sports F1
 http://82.156.243.185:55221/appletvf1.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育"，⭐ Sky Sports F1 备用
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",⭐ Sky Sports F1 备用
 http://82.156.243.185:55221/appletvf1.m3u8
+
