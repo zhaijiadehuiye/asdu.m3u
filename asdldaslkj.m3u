@@ -1,26 +1,26 @@
 #EXTM3U
 #EXT-X-APP APTV
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 18:30:00_F1意大利站_F1意大利大奖赛第三次练习赛_金昊楠
-http://122.51.110.132:37643/txsport/100360:2100290/373062/1396678400.m3u8?txtoken=45685df7c2f956475714208c3a2e73efa92a2e864dcd72794345595a5b37d24fe621cf483468d2c59bf31f4983dc98fc3325c5b712cd2a6139204c8702734178a12152978a63c0208fb7d85fb5c8d3fb389feb5c61c9d9698c65afeb071449f5d820b30eb7786ec61c71968fe947cea173d140d5a383182267ab54c693
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 18:30:00_F1意大利站_F1意大利大奖赛第三次练习赛_车载镜头
-http://122.51.110.132:37643/txsport/100360:2100290/373062/1396678500.m3u8?txtoken=889292ee13ae8e05f0ab5e81c8b34111413a458f3d4ec981426ae1606721efc607160485d54460e885de3462ccb1231213e10f63c68ab252a97170c922f6c51e38e61c65dd195d714ea6221493b109f10a4e5529366577384c45070b35e1c46b3f5b779b2a03e6599cd1fe9f7cafc86663804c21871b980d67af69803c
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 18:30:00_F1意大利站_F1意大利大奖赛第三次练习赛_圈速信息
-http://122.51.110.132:37643/txsport/100360:2100290/373062/1396678600.m3u8?txtoken=07e222e66c7f3484b4bb04dc16b4322ef9116c1680b7c5ce7e0d6da68a625f833c49bac7d9734ee96c02610561740c6f5a454542b8661f3739fb002a8db017da7ce1153a610446cc8afd8bc83246dc24c10777a4b809c87721ed4f529ee1df89804cfcf00e89456f0f3457bd22cf174cd50a0a605818b01699bfa07505
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 18:30:00_F1意大利站_F1意大利大奖赛第三次练习赛_车手位置
-http://122.51.110.132:37643/txsport/100360:2100290/373062/1396678700.m3u8?txtoken=95e44fed582086d821f4ac333f297605ff5f30a3487629acd824f7e2ea81d5378b02b2774091f01c8a1ba5577af29136d7914b18039a340245976051cc4ba4ee412e55e49e0deb88c274a43d0468bc59b7dfc0c7405ee3da4b460e3dfa88cb78b0db7d71f660e7a08ff6b8d3191ed2cebc411e9351c39cca767fbf9512
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 18:30:00_F1意大利站_F1意大利大奖赛第三次练习赛_维修区
-http://122.51.110.132:37643/txsport/100360:2100290/373062/1781181800.m3u8?txtoken=7b4fc7639d74126b420dda17b3f6707c15ecc65192cdb9c99142da839e43600d4c64d2faa9d1dbbf874feb867118da3b1d9d7500c130bb6d5e1fdc8c7c75353326a87a62269ed8087ac19f7931f03e0936f38f87401d94d2d593f1f26515c0be7163086f52c2a064a1f0b5d1e883fc1c5dc4219a48677e9b68e6f68441
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 22:00:00_F1意大利站_F1意大利大奖赛排位赛_金昊楠
-http://122.51.110.132:37643/txsport/100360:2100291/373063/1781181900.m3u8?txtoken=e377862b6b15b53670693cdd9ef12105b30053a54c58844727b178beab1a4f25cf45158f7d0bb16afffb492dd6555ee2bdb2c7c1f36d573ddc924d99bf66f538ff177d74a3bd560772863bd0f09173259e268642df9d1809ed8e068b09a1ebe0c4a7befb1bda96a3ed1019dd6a8a548590c50bb91b3f1a40f5ea7ed336
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 22:00:00_F1意大利站_F1意大利大奖赛排位赛_圈速信息
-http://122.51.110.132:37643/txsport/100360:2100291/373063/1781182100.m3u8?txtoken=13684b6bb9b8da1e1f7dac33b417e6167729c2cf0700ab7a164c2f11cbf6ef6b4441f5cbdc684b7d74ea605b970a508d22f128070608271b49833c9e1721d44b1812c69c774f3bd681f2dcbe309f71a98c8606db5e0f58905cc4332d5921c4217f78b1a341af3d1ac6ca7d90085f0a42826f75c364d85824fdfd3d0728
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 22:00:00_F1意大利站_F1意大利大奖赛排位赛_车手位置
-http://122.51.110.132:37643/txsport/100360:2100291/373063/1396678800.m3u8?txtoken=d788e58f2ad1add944514795643bd591648f08b5d712c3fcc7633a0b13bad7fc8da42dc12b55c9e5c79a31e1191619ce186babdcdc691949abceff4e1fafb13e7c970da03e5c12198581a871b241b7ddd78dfae2bd8ca23d61356460ee26c635708e70e6f64f8f4e3c0a463e3bb970d640d4594b3a3fb84e30a0674448
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 22:00:00_F1意大利站_F1意大利大奖赛排位赛_维修区
-http://122.51.110.132:37643/txsport/100360:2100291/373063/1396678900.m3u8?txtoken=2e616caa26d97745c127918f6054bc214e66c3f78820762580c5700cd16b91b48fc62d76b40bb3be8718e16f576d3c91f059358c7f985534b2f8ed2c34a7a81a52fe077bfaebe0f34e353908c2079b39ffb4d852b3de1cfb71d243a5f8b96d6aadb233b4945beb939fa65446f08815cd59e37bcdaf93200ab509c556e7
+http://8.134.78.95:37643/txsport/100360:2100291/373063/1781181900.m3u8?txtoken=c4f4b1b60d64c037adddf3cb59cd6a8961bf037e7a878d7d051464333aa8c0c356e0fe9a7410341608e7c3b6f1cbfbc9ac5c91d83fd6c303204dd191b59a99cb09a06cde988024daade145a6c19566c0bb546aca2171d892c97a644abc83f1c6046fe528df53e14d80e327282b0dd2164763c51428f8eab222d765179b
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 22:00:00_F1意大利站_F1意大利大奖赛排位赛_车载镜头
-http://122.51.110.132:37643/txsport/100360:2100291/373063/1781182000.m3u8?txtoken=5a5bd4f375b7c40a3f3b8d88e385078a748be1553f567dbfe0a64037b3743d30ae1e36f79131e84c3222272272a61ebef70109e80547b371a66ac2aa5459593794a0a0c1d117e09933c2c78cef1b9980b1c979c56e4a0ce830d55abbbde105e4dd10990cf0c6e349c24899569789cde5f99f5085311fcb8143e1970e2d
+http://8.134.78.95:37643/txsport/100360:2100291/373063/1781182000.m3u8?txtoken=079a07d1d37a17c7d91a80364d4a755a4f081afdbee7dd38199ea8a2a5fc3c8a2c1c54bcdb5b4b25376ddcf9d2a393cc8602d386231a9e9376f19bcb16d9f98ba000e6bd7aed90df10c4aea115b6731203ad8f02f059ab913710cf78d57b6713034f6e3d69bb869a2fdc3cbc2c459020eaee6183f4d51498e348c7bbfa
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 22:00:00_F1意大利站_F1意大利大奖赛排位赛_圈速信息
+http://8.134.78.95:37643/txsport/100360:2100291/373063/1781182100.m3u8?txtoken=48a75c421784200b924055792c1f3f0b3a2e6fa7d8224705ca0a983d694b356ad1d4b59bcb55da87fd0ba1029c85200ae0bd1b499728050ec85b462ca9eec1161c619d0fda27629fab676c4bd02793f8c858373c521362edf0648c866d73eea2f307a1fe8763aa927b0bf9f31a64a8a8ef14a1a3edbd0f55b81563d11a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 22:00:00_F1意大利站_F1意大利大奖赛排位赛_车手位置
+http://8.134.78.95:37643/txsport/100360:2100291/373063/1396678800.m3u8?txtoken=1fec0572bba2aa572737faa5396f16c55fe331314c7ffed28f938d6225622e9c9b2b383895d434eedfa5d1fa0a8ebe8b3fa2c32a550e1db68e5b2462c3aba1736f481b6fe08d1e539719d3edc847ac1a5b164dcdeda73602f828dcd56c6f4115ad5e9a1e1e9faac47c8c9b1e0d2d46cf5491218ae8a2a2d866f5347f5c
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 22:00:00_F1意大利站_F1意大利大奖赛排位赛_维修区
+http://8.134.78.95:37643/txsport/100360:2100291/373063/1396678900.m3u8?txtoken=d3b731ee9862a011ddbfb9a2a0d8d4b4af64fbd843b90f326d4003c0618783b07eb05b2eebbfb58efa7fad06587dcc841ef45459134fa117011e41320f0b66e25fd020583b3af2e5f1916740a8cb0539c93bc71569de5ea6aab3b37d47a5cdea49137d5f0b5c6d951ffd6c93a3fa6ac4ef6a6880012ea86a2e1ebd3424
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-06 21:00:00_F1意大利站_F1意大利大奖赛正赛_金昊楠 邱超
+http://8.134.78.95:37643/txsport/100360:2100292/373064/1396679000.m3u8?txtoken=ca99b57bdbca99b59a5da8c9c34d9535031810b4d5f80dd7f146f10d65f44da8e2e3c44f255967ddb4747d3417ac2bae5737c91f5cfbdfe9f6e3c03a328e88cfcee89d333265d9d113f21a0b50b3f4e81cc50d84be6d5f57a73b8a6d342b3adc7118eac763e09ff732050723bc18b709e954835e3734776ce8def57b55
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-06 21:00:00_F1意大利站_F1意大利大奖赛正赛_维修区
+http://8.134.78.95:37643/txsport/100360:2100292/373064/1396679400.m3u8?txtoken=56b61a36b77a3e20d2ec03ad556448790e292a2b9e7c20ba65ab8a115c7a4056f9c5d27cbae9bcf90bbc0e4cd444fabc3c683b793827fce95661f56f409e5871526e826b676dbc9a5b7cc252bfd070e7046bd75adb8a8d35a66f3750d93f55d73343a4afbddd3c26133c6c817c101f39d124d1a4386d9c0803a1a4be1a
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-06 21:00:00_F1意大利站_F1意大利大奖赛正赛_车载镜头
+http://8.134.78.95:37643/txsport/100360:2100292/373064/1396679100.m3u8?txtoken=a8040dbca81ac02d3a3022cae284fcfacb1deee6ae11b0356a6ee52ea085fe36bd878269510b172aac19793704535af33e818a36783d61e883d4a83971dc391c0b98a5dc93d71f351fdf03ce42a37ac3b546baa7a6f938f4edacd5198e2af45fe96751a2b3144c14008ab5113dbfa872f2bd0659bcbe23c17362308c33
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-06 21:00:00_F1意大利站_F1意大利大奖赛正赛_圈速信息
+http://8.134.78.95:37643/txsport/100360:2100292/373064/1396679200.m3u8?txtoken=c5723065dd113e17c3ef2750de0dcb50727b559488cbcf4074260da9aa831ceeae7513531dde351d57fb2a37a9c24415381beb5e639147055f8835fabc8ca4d8dfbf3504f69bd6031945a5593f6252fb2a55a115ddabb75a68e07f4d89071f26f52fe9867d83ae53f3795e6dc0aba1b48042a91dc585d6722ad03ddd93
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-06 21:00:00_F1意大利站_F1意大利大奖赛正赛_车手位置
+http://8.134.78.95:37643/txsport/100360:2100292/373064/1396679300.m3u8?txtoken=87dd99721146eb885c467ce929b0e88870f28e62d0396b5f431b9a6dfd4a5b3fffd55f829bff6cdac2317d6fa31cda1258466fff650d0a8a87a18eb80530d4167bcf9bb142643300af430290ad93a3a8b279666bdbd9948808976183faa330b41a44c8aa5a6e684d571c1b14152742d6be094c3455b6a34bd57f256239
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1意大利站",2026-09-05 18:30:00_F1意大利站_F1意大利大奖赛第三次练习赛_金昊楠
 #EXTINF:-1 group-title="五星体育",🔴 提示：若画面卡顿/黑屏请切换线路
 http://cccimg.com/view.php/28753dc7719aebcd202dd61e0ab67ed4.mp4
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",⭐ 浏览器打开www.huya.com/31197969
@@ -33,14 +33,8 @@ http://82.156.243.185:54321/wxty.php
 https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",⭐ [五星体育] 线路3 (备)
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001018/index.m3u8?streamid=5d17da390f8e4805aae4a71868d4ef6c&
-
-
-#EXTINF:-1 tvg-name="Apple TV 4K Dolby Vision F1" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Apple TV 4K Dolby Vision F1
-http://82.156.243.185:55221/appletvf1.m3u8
-
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Sky Sports F1
 http://82.156.243.185:55221/appletvf1.m3u8
-
 #EXTINF:-1 tvg-name="Sky Sports F1 备用" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Sky Sports F1 备用
 http://82.156.243.185:55221/appletvf1.m3u8
 
