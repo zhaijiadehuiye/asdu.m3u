@@ -3,28 +3,26 @@
 #EXT-X-APTV-TYPE remote
 #EXTINF:-1 tvg-name="【续费及售后】扫码或搜微信号" group-title="续费及售后",微信号"tiyuyanjiusuo"添加客服
 http://cccimg.com/view.php/28753dc7719aebcd202dd61e0ab67ed4.mp4
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆大奖赛第三次练习赛_金昊楠
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛第三次练习赛_金昊楠
 http://39.108.185.162:32025/txsport/100360:2100280/373848/1781488000.m3u8?txtoken=6e164918848b06018ea98b9414cd79177b40c7abe9fe635be2cc19703f733859fa023487a53f1c8ec6b7ec00d5ab15ae5e1ac6b8bb66978640afbb44d0fa6eda463487a5a13365faa1f58225fadc0933ce26a0b40980f23cdda1678f5ddb63069175748246dddfdbc679f5420fa8229d7f49abe62aeb52866c194533e1
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆大奖赛第三次练习赛_车载镜头
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛第三次练习赛_车载镜头
 http://39.108.185.162:32025/txsport/100360:2100280/373848/1781488100.m3u8?txtoken=c176afc25a7db30386c154b947eec612ce6c9ceb27cddccfbed6c3724ade07ae4c39bc373a95766844473fde38d866bb02aafe11dcb93455e5ab4342e9fec5188cbb3505d98a904d54b092a1e33ddf7604e8f16d17e9aeff52916c0c44032f3e56570aa0422945deeeff974312f3365c911aba90af331f9b3abbcc6be7
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆大奖赛第三次练习赛_圈速信息
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛第三次练习赛_圈速信息
 http://39.108.185.162:32025/txsport/100360:2100280/373848/1397013700.m3u8?txtoken=d4d9478fd5d70d23434f91da5bc6788886bae8034bc62607a5ec888cde3de28b3fdb89dab4339f54960b240b636a9100f0fa11fec35aa424e622df5b0e0036785ccaedfd2f58145c781236f824db10545eb73276069c09a78fd7648a1c02caab106507cbdf44467ab28030b6bca88d3a9055482ea7027380527feadcdd
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆大奖赛第三次练习赛_车手位置
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛第三次练习赛_车手位置
 http://39.108.185.162:32025/txsport/100360:2100280/373848/1397013800.m3u8?txtoken=99112fdcab04b548815400b1b00eb5fd15297a1cf734562c0d7025c158fc1c735f332b6d7f19583f051a9726a5687098472e2912123b9e3660499acf47997e108ff5f57bc42bc716b37055a56af7727f98c5fe033dbbfb3cc644e6cec9be95cf729a439fd08b16643868fbb152ec6738e5f7ca7ff5ebc2c85138fc9488
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆大奖赛第三次练习赛_维修区
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 16:30:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛第三次练习赛_维修区
 http://39.108.185.162:32025/txsport/100360:2100280/373848/1397013900.m3u8?txtoken=966240f0deb268573adbb0e7f8e58a9d6d198558887d7683b4888622be78c715bcb8c70dabdb0cb56ce1529004afa2bd226629b0ecb9cdf64ccaa7e668afe55400e41c1c3c88cc0ebd9bc0a265de504d3c2cfe68ec10acc11543d5ddf50e73d9c194116f7790469c35a35d1567d842deb06909497bdaca163bcb2fdc5f
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆大奖赛排位赛_金昊楠
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛排位赛_金昊楠
 http://39.108.185.162:32025/txsport/100360:2100281/373849/1781488200.m3u8?txtoken=b7dbaf7268209dccf72f808d1ebc4d94e19a5cd3efea081a826da3c9efd75fde909838b254f284bf2d2189c84dc7e1b253e7306f00670348a134bc43b8f5f7d85206e6d7790262fc682ab9a565c8afce8d6bc112b8e5815038e794e76f16deff533e930112b408d160bb0e65d8935443b1136d4baa436963afce524b4f
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆大奖赛排位赛_维修区
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛排位赛_维修区
 http://39.108.185.162:32025/txsport/100360:2100281/373849/1397014100.m3u8?txtoken=4e8d2f068d76a3a14b7baed76cf85feb96bca1dfce91af29412d54c2ed20e09a9af2d1b37e80fe49ea02a5f46d4644453708a5b75b2aeff5d04f15432c1926b898c0a1c0677f6a7697491ca07f56f54e5fa2e33d95a5ec5686d074ff8e3b3335d7b530d4fdb2602bf5e11047f38608e52481f53b8f569c636fd1258235
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆大奖赛排位赛_车载镜头
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛排位赛_车载镜头
 http://39.108.185.162:32025/txsport/100360:2100281/373849/1397014000.m3u8?txtoken=fb5486d4b25b3ad33fb37b083723b6beca7a6f335ed1670feab825ada0bdfa6e0c39d427cb4164cf0925be847f26c56079d2ea7580c9d92ce38f1881cd897a4cbbb80ef1367ca0ce250d7d7a9da1337f90c05ddf950d47539139f2749e92b3e6413c29ed1324ca67f7988f42256c9c63d0c19695463961c2f6ab634119
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆大奖赛排位赛_圈速信息
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛排位赛_圈速信息
 http://39.108.185.162:32025/txsport/100360:2100281/373849/1781488300.m3u8?txtoken=61f984a1ba70afaca1987e54de2863d23934724f0ff3d38af98ac522fdaeafacb91ea340c58113a2ccc10781c13c867e8ea524038b1e91a00120a6fa2d296ebdc7c4dffa43d1dec49eb0b30368a7e44474847e37cdf66d24782cb380a94476a9715a088e96bdea2b0608d839735a3bedf4eca8749f15019b144abf5931
-#EXTINF:-1 group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆大奖赛排位赛_车手位置
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1阿塞拜疆站",2026-09-25 20:00:00_F1阿塞拜疆站_F1阿塞拜疆大奖赛排位赛_车手位置
 http://39.108.185.162:32025/txsport/100360:2100281/373849/1781488400.m3u8?txtoken=18fc7a50317eeab6efe366282abb40c8eb11f24b896b00a241460554b731810dc007e68fb9c4de6c799784c5764a0218bc5e37cc622205b3a42216aecf288cc3d93c7229d16679ed6ee967fe65665c99bc7290e478086e82f05360e8e404daa6f064bc1481474e6e337702d3bf93db83bb3c5d68019eb8b732d2bf3196
-
-
 #EXTINF:-1 group-title="五星体育",🔴 提示：若画面卡顿/黑屏请切换线路
 http://cccimg.com/view.php/28753dc7719aebcd202dd61e0ab67ed4.mp4
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",浏览器打开www.huya.com/31197969
