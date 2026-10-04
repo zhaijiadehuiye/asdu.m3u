@@ -25,20 +25,16 @@ http://39.108.185.162:32025/txsport/100360:2100226/373854/1781623800.m3u8?txtoke
 http://39.108.185.162:32025/txsport/100360:2100226/373854/1397158100.m3u8?txtoken=cf88b9976172ccc6eb870e86c7c5af8829f63b2538fc7afe3ebe5662c8c6c80db73555e5c1d4aef69c42b2a26773953514c168035b2c2054db488589a158168d090fa25d686282b827c0c3de688d4b8406913c68ac9abd421766dde2e07d61756d92a8abe1151d04c4d8bc0c7553823e3ef28fd8d16667fba9d7b7af8a
 #EXTINF:-1 group-title="F1巴林站",2026-10-03 16:00:00_F1巴林大奖赛排位赛_维修区
 http://39.108.185.162:32025/txsport/100360:2100226/373854/1397158200.m3u8?txtoken=29e9bd6b81ca7e32f759578d15622056873264496da2cd07aca72d41cb44b43df92d6c2f965c4c92412870fb5a9f31914f1eb62ec4b6db8cf23537cf568b0164703f4cc93e6363473a58afcf0bc5f7acea876dfa75d57a2e4338b36aca7e2b1617da6e383402f77426a73dd570a73c604064e163619d28f56e47907e32
-#EXTINF:-1 group-title="五星体育",🔴 提示：若画面卡顿/黑屏请切换线路
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",如果观看时黑屏，请等30秒重连
 http://cccimg.com/view.php/28753dc7719aebcd202dd61e0ab67ed4.mp4
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",浏览器打开www.huya.com/31197969
-https://pan.vma.cc/pan/v/1eaff0c8d8ea4d3b92b220137ba08723?ext=jpg
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",房间号烤冷面大王451密码:1944
-http://112.123.243.37:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] 线路1 (主)
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] 线路1 (比赛时有信号)
 http://82.156.243.185:54321/wxty.php
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] 线路2 (备)
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] 线路2 (比赛时有信号)
 https://cdn15.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] 线路3 (备)
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] 线路3 (比赛时有信号)
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001018/index.m3u8?streamid=5d17da390f8e4805aae4a71868d4ef6c&
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Sky Sports F1
 http://82.156.243.185:55221/appletvf1.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1 备用" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Sky Sports F1 备用
+#EXTINF:-1 tvg-name="Sky Sports F1 备用" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Apple TV 4K Dolby Vision F1
 http://82.156.243.185:55221/appletvf1.m3u8
 
