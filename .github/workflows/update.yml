@@ -1,0 +1,35 @@
+name: Refresh Timst playlist
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch public stream URLs
+        run: |
+          set -e
+          python3 scripts/fetch_sources.py --url https://timst.top/live-tv
+      - name: Validate generated M3U
+        run: |
+          awk 'BEGIN { entries=0; bad=0 }
+            /^#EXTINF/ { entries++; next }
+            /^https?:\/\// { next }
+            /^#/ { next }
+            NF { bad=1 }
+            END { if (bad || entries == 0) exit 1; print entries " entries" }' generated/timst.m3u
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- generated/timst.m3u; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add generated/timst.m3u
+          git commit -m "Refresh Timst playlist"
+          git push
