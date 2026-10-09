@@ -21,6 +21,13 @@ DEFAULT_API = ("https://timst.top/api/channels", "https://timst.top/api/live-upc
 URL_RE = re.compile(r'''https?://[^"'<>\s]+''', re.I)
 STREAM_RE = re.compile(r"\.(?:m3u8?|mpd)(?:[?#]|$)", re.I)
 KEY_RE = re.compile(r"(?:m3u8?|stream|source|manifest|playlist|file|url)", re.I)
+# The page randomizes these variable names on each response. Restrict the
+# decoder to numeric arrays and the same XOR/offset shape used by the player.
+OBFUSCATED_RE = re.compile(
+    r"var\s+_[A-Za-z0-9]+\s*=\[((?:\s*\d+\s*,?)+)\],"
+    r"_[A-Za-z0-9]+\s*=\s*(\d+),_[A-Za-z0-9]+\s*=\s*(\d+),_[A-Za-z0-9]+\s*=\s*",
+    re.S,
+)
 
 
 class PageParser(HTMLParser):
@@ -98,6 +105,18 @@ def candidates(text: str, base_url: str) -> list[tuple[str, str]]:
         walk_json(json.loads(text), base_url, out)
     except Exception:
         pass
+    # TimStreams' intermediary pages currently place a signed HLS URL inside
+    # an openly embedded, XOR/offset-obfuscated script. Decode only that page
+    # data; do not execute the script or bypass its player/authentication.
+    for match in OBFUSCATED_RE.finditer(text):
+        try:
+            values = [int(item) for item in match.group(1).split(",") if item.strip()]
+            key = int(match.group(2))
+            offset = int(match.group(3))
+            decoded = "".join(chr(((value ^ key) - offset + 256) % 256) for value in values)
+            out.extend(candidates(decoded, base_url))
+        except (ValueError, OverflowError):
+            continue
     return out
 
 
@@ -229,6 +248,11 @@ def main() -> int:
     out = ["#EXTM3U", "# Generated from public page/feed data; refresh to update expiring URLs."]
     for i, (url, label) in enumerate(entries, 1):
         out.append(attrs_for(label, url, url, i))
+        if urlparse(url).hostname == "judiaslevels.embeds.gay":
+            # The source is normally embedded by grandemx.org. Players that
+            # support VLC options can preserve that normal referrer context.
+            out.append("#EXTVLCOPT:http-referrer=https://grandemx.org/")
+            out.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
         out.append(url)
     # Never erase a previously generated playlist solely because the source is
     # temporarily unavailable or returned no usable streams.
