@@ -67,6 +67,7 @@ jobs:
             -sS -o /tmp/manifest.out -w "%{http_code}" "$STREAM_URL" || true)
           echo "manifest HTTP ${manifest_status}, $(wc -c </tmp/manifest.out 2>/dev/null || echo 0) bytes"
           echo "MANIFEST_STATUS=${manifest_status}" >> "$GITHUB_ENV"
+          export MANIFEST_STATUS="$manifest_status"
           set +e
           ffprobe -v error -rw_timeout 15000000 -user_agent "Mozilla/5.0" \
             -headers "Referer: ${STREAM_REFERRER}\r\n" \
@@ -75,6 +76,7 @@ jobs:
           probe_rc=$?
           set -e
           echo "FFPROBE_RC=${probe_rc}" >> "$GITHUB_ENV"
+          export FFPROBE_RC="$probe_rc"
           if [ "$probe_rc" -eq 0 ] && [ -s /tmp/ffprobe.out ]; then
             echo "HLS manifest accepted by ffprobe"
           else
