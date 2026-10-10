@@ -75,6 +75,7 @@ jobs:
 
           cat > "$RUNNER_TEMP/iptv-probe/check.js" <<'NODE'
           const { chromium } = require(process.env.RUNNER_TEMP + '/iptv-probe/node_modules/playwright');
+          const fs = require('fs');
 
           (async () => {
             const browser = await chromium.launch({headless: true});
@@ -132,8 +133,27 @@ jobs:
             }
             console.log('playlist submitted=' + filled);
             console.log('media responses=' + JSON.stringify(media.slice(0, 20)));
-            if (!filled) process.exitCode = 2;
+            fs.writeFileSync(process.env.RUNNER_TEMP + '/iptv-probe-result.json', JSON.stringify({
+              title: await page.title(),
+              url: page.url(),
+              controls: fields,
+              playlistSubmitted: filled,
+              mediaResponses: media.slice(0, 20)
+            }, null, 2));
+            if (!filled || media.length === 0) process.exitCode = 2;
             await browser.close();
-          })().catch(error => { console.error(error.stack || error); process.exitCode = 1; });
+          })().catch(error => {
+            fs.writeFileSync(process.env.RUNNER_TEMP + '/iptv-probe-result.json', JSON.stringify({error: String(error.stack || error)}, null, 2));
+            console.error(error.stack || error);
+            process.exitCode = 1;
+          });
           NODE
           node "$RUNNER_TEMP/iptv-probe/check.js"
+
+      - name: Upload probe report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptvplayerweb-probe
+          path: ${{ runner.temp }}/iptv-probe-result.json
+          if-no-files-found: warn
