@@ -57,11 +57,21 @@ jobs:
           PY
           cat "$RUNNER_TEMP/playlist.env" >> "$GITHUB_ENV"
           echo "Testing one HLS manifest from the generated playlist"
+          curl -L --max-time 20 -A "Mozilla/5.0" -e "${STREAM_REFERRER}" \
+            -sS -o /tmp/manifest.out -w "manifest HTTP %{http_code}, %{size_download} bytes\n" "$STREAM_URL" || true
+          set +e
           ffprobe -v error -rw_timeout 15000000 -user_agent "Mozilla/5.0" \
             -headers "Referer: ${STREAM_REFERRER}\r\n" \
-            -show_entries stream=codec_type -of default=nw=1 "$STREAM_URL" >/tmp/ffprobe.out
-          test -s /tmp/ffprobe.out
-          echo "HLS manifest accepted by ffprobe"
+            -show_entries stream=codec_type -of default=nw=1 "$STREAM_URL" \
+            >/tmp/ffprobe.out 2>/tmp/ffprobe.err
+          probe_rc=$?
+          set -e
+          if [ "$probe_rc" -eq 0 ] && [ -s /tmp/ffprobe.out ]; then
+            echo "HLS manifest accepted by ffprobe"
+          else
+            echo "HLS manifest rejected by ffprobe (exit $probe_rc)"
+            sed -E 's#https?://[^ ]+#<redacted-url>#g' /tmp/ffprobe.err | tail -20 || true
+          fi
 
           cat > "$RUNNER_TEMP/iptv-probe/check.js" <<'NODE'
           const { chromium } = require(process.env.RUNNER_TEMP + '/iptv-probe/node_modules/playwright');
