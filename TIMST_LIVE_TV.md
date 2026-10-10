@@ -15,3 +15,7 @@ An optional public feed/API can be supplied with `--feed URL`; the default TimSt
 ## Automation
 
 The default-branch workflow runs every 15 minutes, validates the generated M3U syntax, and commits only changed generated files to this branch. GitHub scheduled workflows run from the default branch, so the scheduler is stored under `main` while this branch holds the generated playlist. The runner needs HTTPS access to `timst.top` and the intermediary hosts returned by its API (currently `grandemx.org`; this can change). Signed URLs are intentionally refreshed rather than treated as permanent. The current playlist is available at `https://raw.githubusercontent.com/zhaijiadehuiye/asdu.m3u/timst-live-tv/generated/timst.m3u`. Keep page/feed URLs and any required non-secret configuration in the workflow, never credentials in the repository.
+
+## Single-channel custom-header test
+
+The refresh job also maintains a one-channel test playlist at `https://raw.githubusercontent.com/zhaijiadehuiye/asdu.m3u/timst-live-tv/generated/test-channel.m3u`. It keeps the current VLC referrer/user-agent hints and is useful for a player that supports custom request headers. The link is stable, but the signed stream inside it is replaced on each refresh.
