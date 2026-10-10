@@ -1,1018 +1,1030 @@
 #EXTM3U
 # Generated from public page/feed data; refresh to update expiring URLs.
-#EXTINF:-1 tvg-name="BBC Two" group-title="Timst TV" source="judiaslevels.embeds.gay",BBC Two
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/2bcc030c2a452b97b62518331154330a25d4c705c624e542e5003da97c1f6aa7/1791602905/bbctwo-uk.m3u8
-#EXTINF:-1 tvg-name="American Heroes Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",American Heroes Channel
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d87e86f958ac0725a821e64c619f5602a2fb93b85a02d44fd3e53046ab197d4c/1791602905/ahc-usa.m3u8
-#EXTINF:-1 tvg-name="ABC" group-title="Timst TV" source="judiaslevels.embeds.gay",ABC
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/bc9cb1360482805419ae1716864dc3e945a5d67019629106198de66eb16e4e40/1791602905/abc-usa.m3u8
-#EXTINF:-1 tvg-name="BHT 1 Bosnia" group-title="Timst TV" source="judiaslevels.embeds.gay",BHT 1 Bosnia
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d4343bfbe316005ae2eb71a421c75f83288948b73c9e55dd18bc286ae4e82974/1791602905/bhrt-ba.m3u8
-#EXTINF:-1 tvg-name="BBC One London" group-title="Timst TV" source="judiaslevels.embeds.gay",BBC One London
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/574851c4a4424cea291409a50f39e59282d4f884a7d4afab8332d74347235b59/1791602905/bbcone-uk.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Francais 1" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports Francais 1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d4a784f3d09069866be74aab72d639e7737eff9421f621e91cc84a5c3da1de27/1791602905/beinsports1-fr.m3u8
-#EXTINF:-1 tvg-name="AE" group-title="Timst TV" source="judiaslevels.embeds.gay",AE
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b0b1363e76e43afda1a0038c80ae9eef75c214bfe298936e8ed6c89733812024/1791602905/ae-usa.m3u8
-#EXTINF:-1 tvg-name="ACC Network" group-title="Timst TV" source="judiaslevels.embeds.gay",ACC Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/27ab8a6ebbd57624441c269b2085cc8c3231bbad8916d71b84961592960cae4c/1791602905/accn-usa.m3u8
-#EXTINF:-1 tvg-name="AXS TV" group-title="Timst TV" source="judiaslevels.embeds.gay",AXS TV
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/7068883a93ca2b7d241fe1402053f6e68bf9df2051339ec3fc4b34a8b54b951d/1791602905/axs-usa.m3u8
-#EXTINF:-1 tvg-name="AMC" group-title="Timst TV" source="judiaslevels.embeds.gay",AMC
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/ad914f845b3938c815ce282a0a803a5549cac7dd9b2cb600fa16f75919c472d7/1791602905/amc-usa.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Francais 2" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports Francais 2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e64684181068331f3661e7db183dab4a20ad1de13b1b6fab987ee59aa1169ee9/1791602905/beinsports2-fr.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Timst TV" source="judiaslevels.embeds.gay",Animal Planet
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3916f57e513d6e8021e9553c5499801ee8a0293b7aea6f9dc1114a25cc73ddf6/1791602905/animalplanet-usa.m3u8
 #EXTINF:-1 tvg-name="BBC America" group-title="Timst TV" source="judiaslevels.embeds.gay",BBC America
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/aa8216b091b2d46094de7679aa61665a77f4f2b5a31c35ea3e392e0e4ec6aeb3/1791602905/bbc-usa.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Francais 3" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports Francais 3
+https://judiaslevels.embeds.gay/main/secure/df6c7cfac50f1acbd226ada1f81a8c2e580003d25a0f67c4455c12fed4271e83/1791615213/bbc-usa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Francais 1" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports Francais 1
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/be607e803736a233f49838149810f1bd1899a1a4441bf07f5e95001519cb6072/1791602905/beinsports3-fr.m3u8
+https://judiaslevels.embeds.gay/main/secure/71cc74ddfe00a9c46d0857929ab47032c990fb8dba6dda603d7f31138bdd3f11/1791615213/beinsports1-fr.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Francais 2" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports Francais 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/867a38d95d03f5af13afbfc30b58a004b3b78359f360db8d55668d7332a91368/1791615213/beinsports2-fr.m3u8
 #EXTINF:-1 tvg-name="ARENA SPORT 1 BiH" group-title="Timst TV" source="judiaslevels.embeds.gay",ARENA SPORT 1 BiH
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/7804760b29b99cf849371265eaf060450c2e01b7ab1ba881e8ae3705d08c4919/1791602905/arena-sport-1-bih.m3u8
+https://judiaslevels.embeds.gay/main/secure/380156233a0c30666f01681452acbf19daaecbaf515c7252aa27cd4e4d61bf77/1791615213/arena-sport-1-bih.m3u8
+#EXTINF:-1 tvg-name="ABC" group-title="Timst TV" source="judiaslevels.embeds.gay",ABC
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/e752dc6e695c5e926e50188fe3a4ba8e105bc5bd17504c601b777088c0093c29/1791615213/abc-usa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Francais 3" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports Francais 3
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/2819b8cf67ad5ee96b38899862be7601e8a502e775f9507704b59d94b10103bc/1791615213/beinsports3-fr.m3u8
+#EXTINF:-1 tvg-name="ACC Network" group-title="Timst TV" source="judiaslevels.embeds.gay",ACC Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/2f1e2587fbfab658131c029c2b08390888283d6c184b907d455428ab9e525191/1791615213/accn-usa.m3u8
+#EXTINF:-1 tvg-name="BBC One London" group-title="Timst TV" source="judiaslevels.embeds.gay",BBC One London
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/4a2ac60af78ce50ea325d1493353e750ecf2302a2091be8e61872589f7b0e85c/1791615213/bbcone-uk.m3u8
 #EXTINF:-1 tvg-name="beIN Sports" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/6b56b4c6f705db7a62e0524a988dc833b79af545644d7142c1df1a902c3e0031/1791602905/beinsports-usa.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Extra 1" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Extra 1
+https://judiaslevels.embeds.gay/main/secure/5f0d4978e7b117154014dfeb2a4a392c7a0ed2a30e4d3a614422b25042aee1f9/1791615213/beinsports-usa.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Timst TV" source="judiaslevels.embeds.gay",Animal Planet
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b6eded572b4a25a2699555f7778146fc1e676b724013f8a7215bf3aebfae7207/1791602905/canalextra1-pl.m3u8
-#EXTINF:-1 tvg-name="Big Ten Network" group-title="Timst TV" source="judiaslevels.embeds.gay",Big Ten Network
+https://judiaslevels.embeds.gay/main/secure/45f2ba947efe4aeb1f485523c8b8eaff25cc2601bb3961e611c88e363c9be121/1791615213/animalplanet-usa.m3u8
+#EXTINF:-1 tvg-name="AXS TV" group-title="Timst TV" source="judiaslevels.embeds.gay",AXS TV
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e4f16423424955d9e56aba577811ffe69f41c0cac57bba5eb4f490d8e4237249/1791602905/big10-usa.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 2 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 2 PL
+https://judiaslevels.embeds.gay/main/secure/cacdcd082f68dd81d0323db823add8d70fbcbebfefc1ca69bcdefbe91f46a70a/1791615213/axs-usa.m3u8
+#EXTINF:-1 tvg-name="AMC" group-title="Timst TV" source="judiaslevels.embeds.gay",AMC
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/fd1bae65d4361cf90f63facfd4342bd0f6ddcfea7980ac8790401c845437d6a0/1791602905/canalsport2-pl.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport PL
+https://judiaslevels.embeds.gay/main/secure/93423a805fac41de66ec4cb6efb9810157b1b6cf75b8752e5db63b051f750cea/1791615213/amc-usa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 1" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 1
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3814b57449feb2a6e0adea58867b834cf76b8a89b3c9c62931f689ab1c0684ea/1791602905/canalsport-pl.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Golf AT" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Golf AT
+https://judiaslevels.embeds.gay/main/secure/a5894740f55f43506c5cedb07063dbefe1da78302ff5bc986e75361f27df91d4/1791615213/beinsports1-sa.m3u8
+#EXTINF:-1 tvg-name="AE" group-title="Timst TV" source="judiaslevels.embeds.gay",AE
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d94abdae7b81aefb1442ab4464eecfd049a10ac9fdcabf46ffec54c7e0981acc/1791602905/canal-golf-de.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 4 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 4 PL
+https://judiaslevels.embeds.gay/main/secure/b0dcaaae3dcc1b28ff988006a1beeeb8c56ebcc0382a344a7695ac75c0db334a/1791615213/ae-usa.m3u8
+#EXTINF:-1 tvg-name="BBC Two" group-title="Timst TV" source="judiaslevels.embeds.gay",BBC Two
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e8a47cc0a0e2cd69c5182e79a0dba96e0c45afcd56491ab9582a9c86372c8d0c/1791602905/canalsport4-pl.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 5 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 5 PL
+https://judiaslevels.embeds.gay/main/secure/3060f3f409b2fd9ce5107325790934368f85a1c3e197fb5ebabbc934942b4169/1791615213/bbctwo-uk.m3u8
+#EXTINF:-1 tvg-name="American Heroes Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",American Heroes Channel
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/72a53a0d3f235f6c6d82e1a4ad07490cd72e99bb34a0af0f822fa7affc1d4d2e/1791602905/canalsport5-pl.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Extra 2" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Extra 2
+https://judiaslevels.embeds.gay/main/secure/d79d2487cb7f5121868a8166811276f4f7a06873fd013820b1cc8c2daa2388fb/1791615213/ahc-usa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 7" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 7
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/cec7cbb9fe303805343c1e41d1385c817a0d6479bf68c773afcc91938d0887ec/1791602905/canalextra2-pl.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 3 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 3 PL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/6a43a18875864e0d596e4a919ec5f52c8e332d5a7d4210725fef04ffacaf3ca8/1791602905/canalsport3-pl.m3u8
-#EXTINF:-1 tvg-name="Boomerang" group-title="Timst TV" source="judiaslevels.embeds.gay",Boomerang
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/026118744b403a90dfa68c8df56bd42274bb31016fc3a20bf4f27464fbdd04a1/1791602905/boomerang-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/b2a163ecd1fa09164b2f9953e7c686d9c04a3233e04e238ac5864d79045076f5/1791615214/beinsports7-sa.m3u8
 #EXTINF:-1 tvg-name="Bravo" group-title="Timst TV" source="judiaslevels.embeds.gay",Bravo
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5e41f910bada03301f93d948c43c4af610cd9f10e2c315d62fdc66f3dd794243/1791602905/bravo-usa.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 6 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 6 PL
+https://judiaslevels.embeds.gay/main/secure/efedef15ad75edfac949cbc44ac355c42438203ba77a19ccd3013ee7ac08edfb/1791615214/bravo-usa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 6" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 6
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f17f5c28081431273048972ea5b6664fa3c554e1fec69a1b51c962ac6dc2f446/1791602905/canalsport6-pl.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 2 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 2 CZ
+https://judiaslevels.embeds.gay/main/secure/e36a626886d32b4ccc7fc3ef10fa31e18e93f177f176ce6d305dba23ef7a4712/1791615214/beinsports6-sa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 3" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 3
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/22cd1c1e0c27606a7a27acc6e619d4a8d1362f9c73898fc09db5b40a3eb8d02d/1791602905/canal-sport-2-cz.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 4 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 4 CZ
+https://judiaslevels.embeds.gay/main/secure/4fa55021aef786989723762b0e2e2393ad4ee0cd9a1831b91ff18f2a4ec03430/1791615214/beinsports3-sa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 8" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 8
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/883b664355c21994ea07be3a9db6217db8498b2841ec454a65dded22377aff37/1791602905/canal-sport-4-cz.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport CZ
+https://judiaslevels.embeds.gay/main/secure/d5d81b6c4da8ac26a9eae7f21bc5023af959132159d3f477348d7b7ea2fdf297/1791615214/beinsports8-sa.m3u8
+#EXTINF:-1 tvg-name="Boomerang" group-title="Timst TV" source="judiaslevels.embeds.gay",Boomerang
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3ef6ae1be1ac71b9315235f353694c96ab289a888f9b44caddf1c34582387649/1791602905/canal-sport-cz.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 3 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 3 CZ
+https://judiaslevels.embeds.gay/main/secure/55642ffb11c18fcc46cdfc2e077f0a8e66a38f62e66ae689bb8125401f6faadb/1791615214/boomerang-usa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 9" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 9
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/83756ca8685a87b0db112373f303e46d4fd53d21d42f87c9588b29ec917ee588/1791602905/canal-sport-3-cz.m3u8
-#EXTINF:-1 tvg-name="CBS" group-title="Timst TV" source="judiaslevels.embeds.gay",CBS
+https://judiaslevels.embeds.gay/main/secure/c3ce8e9d765fc8131e1ec772da71fdea948326c2c7a7083e187809ee1e9aecb3/1791615214/beinsports9-sa.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Extra 2" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Extra 2
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/682d7bec3a140d43cff5474010aff93f65967a1a958fef53278dd78c4db5af2e/1791602905/cbs-usa.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 7 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 7 CZ
+https://judiaslevels.embeds.gay/main/secure/bff458c57fe2e3d1353d2775ced3c148e6b6977280c846e9c3c593a8cedc2e74/1791615214/canalextra2-pl.m3u8
+#EXTINF:-1 tvg-name="BHT 1 Bosnia" group-title="Timst TV" source="judiaslevels.embeds.gay",BHT 1 Bosnia
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/8aafc9e9195f97aeef3b26d3e8d92b46412f5298a2dc514bdc8994f402bdf295/1791602905/canal-sport-7-cz.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="Timst TV" source="judiaslevels.embeds.gay",Cartoon Network
+https://judiaslevels.embeds.gay/main/secure/0dc9e48d6a5da85e122573cdbcc3181b10836e03a2ae7b8359346010d0bd80b7/1791615214/bhrt-ba.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport PL
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d803f52b65434518e73016e91aee34c8564a666541670fcb78326d802ed1ada0/1791602905/cartoonnetwork-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/a19c30cc02a56d226acfb98cd5e7a4f712fa41c8588547329c4cdd571f14a693/1791615214/canalsport-pl.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 2" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ee88fdd7920ca8f759cd341620d9b547f9c3ed42ad5574135b177a5a84e45604/1791615214/beinsports2-sa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 5" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 5
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/be6c551cd88c815bc60c6d0799b35803fd823decaec7f5bd3b14d3eb40c1a9e3/1791615214/beinsports5-sa.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Extra 1" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Extra 1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/31c107a852117d70518be54a250fac80ea70c19d407550136e0c210cac9d9f70/1791615214/canalextra1-pl.m3u8
+#EXTINF:-1 tvg-name="Big Ten Network" group-title="Timst TV" source="judiaslevels.embeds.gay",Big Ten Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ffbb4c00f4e1a954d6fc221fde751777563d75f892170795ad2123bd62e59817/1791615214/big10-usa.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Golf AT" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Golf AT
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a68a98a1d2e022ae2a6b902180a09ad77fd6fba4782cb4439934658b6aafc78e/1791615214/canal-golf-de.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 4" group-title="Timst TV" source="judiaslevels.embeds.gay",beIN Sports MENA 4
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b3f68cf14aa68d60242451fb5d422317d44c5f64c30c2aea6184fd1dd6919f3e/1791615214/beinsports4-sa.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 3 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 3 PL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/beea1ffbb1c835b83967f68ecdea48d2960fdde22d219605bd424a96e92efcc1/1791615214/canalsport3-pl.m3u8
 #EXTINF:-1 tvg-name="CANAL+ Sport 8 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 8 CZ
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/937d69645f7a2b33809ddc1dd5147fe11b12598c72e120c27ce0313f80f8ab99/1791602905/canal-sport-8-cz.m3u8
-#EXTINF:-1 tvg-name="CBeebies" group-title="Timst TV" source="judiaslevels.embeds.gay",CBeebies
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e5fca81cf038cec09ef3c4eba3dda32ce91250d54cae72361559249881333e97/1791602905/cbeebies-uk.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 5 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 5 CZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/520bd9f8430ae6a71381eb86d4fbf9b371ba9622d31e8f36617f31dd77248428/1791602905/canal-sport-5-cz.m3u8
+https://judiaslevels.embeds.gay/main/secure/fde25d0a5d08a1a79bbf898cf38bae14903ea23dc3afe8a7ad2600eeb36c6e58/1791615214/canal-sport-8-cz.m3u8
 #EXTINF:-1 tvg-name="CANAL+ Sport 6 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 6 CZ
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/6ce4f4cb64283b96b662440fa3447e19951553d0238cc62baaccd8300fc79112/1791602905/canal-sport-6-cz.m3u8
-#EXTINF:-1 tvg-name="CNBC" group-title="Timst TV" source="judiaslevels.embeds.gay",CNBC
+https://judiaslevels.embeds.gay/main/secure/817cd4241b7cc3ff932d9215b9b30229215659201152d5c4e42102eef7dee131/1791615214/canal-sport-6-cz.m3u8
+#EXTINF:-1 tvg-name="CBeebies" group-title="Timst TV" source="judiaslevels.embeds.gay",CBeebies
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e00ad35b3c3c6f5ce6f557fd4eac531e115bcabe4bb89145d717ecaac7182304/1791602905/cnbc-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/f73be2d4f816b427b0c422270d32028403c108245b17d1b9c69b588fa3274059/1791615214/cbeebies-uk.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 5 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 5 PL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c3a3946018eb8975b9fbf77cc83c20d15d27320fdb7ae593cc30d4543c3446d8/1791615214/canalsport5-pl.m3u8
+#EXTINF:-1 tvg-name="CBS" group-title="Timst TV" source="judiaslevels.embeds.gay",CBS
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1a16ffa654f3dcfbabedda8bcf6d54387eb4adc75e42957f4b58321f8fbbd4f0/1791615214/cbs-usa.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 4 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 4 PL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b9373cf14dfb3e62cd4ce6bf87159e6ab34b70e8dae55b6b51709f21eb7c7ee3/1791615214/canalsport4-pl.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Timst TV" source="judiaslevels.embeds.gay",Cartoon Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/8ea53ee2d1f1be609f5fbe883e3977c01e00ae413edff2407090c964854fadb2/1791615214/cartoonnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/d001da456f8145eef9d310e29f5ea4679aa3510e4b70177fde4da791a2a2bd31/1791615214/canal-sport-cz.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 2 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 2 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c4eab175d6ab5e8dc29eb8d02b164b9844cb19519a3d0405e10e0a833494f8e5/1791615214/canal-sport-2-cz.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 3 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 3 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/79d889c5f5e9c19b633503ccb9d62f4d3ddebe1c893f112be0262ed13b2a86a2/1791615214/canal-sport-3-cz.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 6 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 6 PL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/974493e44237defcf6e298a1c32a04c7a7b725d16027439c7879f05aeafde61e/1791615214/canalsport6-pl.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 2 PL" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 2 PL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/4026e69647430d17f1a7c33839f4d1dc11deb0a563a966a523f09fabc3b000fe/1791615214/canalsport2-pl.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 4 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 4 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/3907dcf57bcb996d45a1fb897b5ea956324488fe824aa32c4baf4b293365456c/1791615214/canal-sport-4-cz.m3u8
 #EXTINF:-1 tvg-name="CBS Sports Network" group-title="Timst TV" source="judiaslevels.embeds.gay",CBS Sports Network
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/db3ba524298c6c0e21281cba2e767ad49b4c5b7342e88735661f466791b84c6b/1791602905/cbssn-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/a0df920f61f460f435b480b5030308a1913bd4a7a5adc76340041eae99ae0510/1791615214/cbssn-usa.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 5 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 5 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/5930a6eec67687386dfb90acfc3241a948767bc678f3c6959d75261f5d9d7784/1791615214/canal-sport-5-cz.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 7 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",CANAL+ Sport 7 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/06e55e8b55c4dfcc37ec5ff33beb6196a70c763515f3a2767af5508a255fc8f3/1791615214/canal-sport-7-cz.m3u8
+#EXTINF:-1 tvg-name="CNBC" group-title="Timst TV" source="judiaslevels.embeds.gay",CNBC
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/af388d55c5ef617095c6cac2c0e23e6911fbca7bc6d6bab68db4bf083030bb30/1791615214/cnbc-usa.m3u8
 #EXTINF:-1 tvg-name="CW" group-title="Timst TV" source="judiaslevels.embeds.gay",CW
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5be3f85023b7c0bd7647c11ba7ae09569f8b9327009c4d7be3f848a137fc1d77/1791602905/cw-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/4b45111f0a9dfe1552a2f09acc0b67494604af927301a2fb0073ae1b3ddabaf8/1791615214/cw-usa.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" group-title="Timst TV" source="judiaslevels.embeds.gay",Comedy Central
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b4c0f9948a0ce7398e62394d63d391e1b3db89ef2e7ca2c6d6faef6a9ad8a9f0/1791602905/comedycentral-usa.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 Spain" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 Spain
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/bf4db3b6d187ce183f44c3d9cfcb3a71ca0faa1774f845a562243f0fe63b9a71/1791602905/dazn1-es.m3u8
-#EXTINF:-1 tvg-name="DAZN 2 Spain" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 2 Spain
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/beef631b4d03a17e7c0af427ac0ea44c96d9ae969c87df9050437884a17768ad/1791602905/dazn2-es.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 Italia" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 Italia
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/a565030b3d6cbfc1abec5f4adb1045dbdc76bb69e191fa7509511f665329114f/1791602906/dazn1-it.m3u8
-#EXTINF:-1 tvg-name="DAZN 2 Germany" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 2 Germany
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/71701c9481271338a0259d27898b511b9e6bebf88e8ed5d94dc8f55ee245cb74/1791602906/dazn2-de.m3u8
-#EXTINF:-1 tvg-name="Discovery Family" group-title="Timst TV" source="judiaslevels.embeds.gay",Discovery Family
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/778ea337f8ea3cf9dd31ee11c352469ba76f46c25303e08d2bca34e0aaecb5d3/1791602906/discoveryfamily-usa.m3u8
-#EXTINF:-1 tvg-name="DAZN F1" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN F1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/bbb4318915e2fc814f73506bd15e450c9a9058ece818b85f3e920c5c4c002a24/1791602906/daznf1-es.m3u8
-#EXTINF:-1 tvg-name="Discovery Turbo" group-title="Timst TV" source="judiaslevels.embeds.gay",Discovery Turbo
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/04f03e78e1ec360c29eee3e03f58f28d426b489e4edcae14c2414fbb1ab3e376/1791602906/discoveryturbo-usa.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 USA" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 USA
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/2e23b8a2b5ba3f0b3c3f4466ddbc3084905875d6d6c2fa380f05d36a5e5a38cf/1791602906/dazn1-usa.m3u8
-#EXTINF:-1 tvg-name="Disney Junior" group-title="Timst TV" source="judiaslevels.embeds.gay",Disney Junior
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b6722f5313d5dcf5a22adbeb0bf64e626dcb93edef2d723d50bb4bfb3c6b8b58/1791602906/disneyjunior-usa.m3u8
-#EXTINF:-1 tvg-name="Disney Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",Disney Channel
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d8250877887091f7501a681362ab1f822a7491d88c2463c7a7b02cd2ea169884/1791602906/disneychannel-usa.m3u8
-#EXTINF:-1 tvg-name="DAZN LaLiga" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN LaLiga
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/a3d57bd9d792b31d7ea62c3782c9beee83edc72748310fe48d583adc9d887db2/1791602906/daznlaliga-es.m3u8
-#EXTINF:-1 tvg-name="Disney XD" group-title="Timst TV" source="judiaslevels.embeds.gay",Disney XD
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5def9ce945f52db547b01896c444c9c47caef305c1f429341a39d3e4630c894e/1791602906/disneyxd-usa.m3u8
-#EXTINF:-1 tvg-name="ESPN" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPN
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/ddc68bd3ccf1f20d93f5359ea3a8903fd3696d73ea9ed8920e65be97d7072e3f/1791602906/espn-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/0f354b9e56dc8e9531a802f43e77c03d52f43d19fb8390a0d20dc3d416960e58/1791615214/comedycentral-usa.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",Discovery Channel
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/cad7e2a9a4ecc6522455a8ed6c189fb820bde96a9acebb6949de6845b19a9975/1791602906/discovery-usa.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 Portugal" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 Portugal
+https://judiaslevels.embeds.gay/main/secure/581954862429d0bd9e0da956a5051792ff65c75b1a0a6784d9b7697bcf42e09c/1791615214/discovery-usa.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 Italia" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 Italia
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e2356e5339f622fe40946b15da7a12d3b87e949ed2712566b884e2bff41fe697/1791602906/dazn1-pt.m3u8
+https://judiaslevels.embeds.gay/main/secure/7831cf715a5835956c9b9a17dad2b06ba5e5b3706d3fb5ba3e2e1fea56f524f6/1791615214/dazn1-it.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 Germany" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 2 Germany
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b9176bbc84cef8fd284ce3753e50042b10cfc03c69f3b9ce3aac6ec0e69b4674/1791615214/dazn2-de.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo" group-title="Timst TV" source="judiaslevels.embeds.gay",Discovery Turbo
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/60beb520bdc3c22a348aa1451897ff59780542847cb04dfaef77d6b1665bfe14/1791615214/discoveryturbo-usa.m3u8
+#EXTINF:-1 tvg-name="DAZN F1" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN F1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/259cf78821d9078d51ed54cf6d3f9122632eb9731c538f16ffe9c5b8c81387cf/1791615214/daznf1-es.m3u8
 #EXTINF:-1 tvg-name="Digi Sport 1 RO" group-title="Timst TV" source="judiaslevels.embeds.gay",Digi Sport 1 RO
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/432462f8a7e5a5c21399efb24897dfb6b790a0c1e7a1429978e7292b60219720/1791602906/digi-sport-1-ro.m3u8
-#EXTINF:-1 tvg-name="ESPN2" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPN2
+https://judiaslevels.embeds.gay/main/secure/48ce1cc379768fc04ed5fed10da71b66489bfeb418f825931fc04847f9a17828/1791615214/digi-sport-1-ro.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 Portugal" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 Portugal
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/bd878a547da746533e98145a8a7f689d6962a26cc10ccd9275efa4e021680a75/1791602906/espn2-usa.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 4" group-title="Timst TV" source="judiaslevels.embeds.gay",Eleven Sports 4
+https://judiaslevels.embeds.gay/main/secure/91385a1fa1092ac80269215912ecd2fe5c0f0449c925c3e5105e78881f5a221f/1791615214/dazn1-pt.m3u8
+#EXTINF:-1 tvg-name="DAZN LaLiga" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN LaLiga
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/aea75c66e74a9740599dff9d99d1b7492cf73abdd22695eca75d1ab49b2f9f8b/1791602906/elevensports4-pl.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Eleven Sports 3
+https://judiaslevels.embeds.gay/main/secure/96331489dcf7cb5f79275b4faf873e27cc14e7d574406c08ee9cdc8fd09b44a4/1791615214/daznlaliga-es.m3u8
+#EXTINF:-1 tvg-name="Discovery Family" group-title="Timst TV" source="judiaslevels.embeds.gay",Discovery Family
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e3e648677f0c938471e0c8aaff4184ee42f20fc83b9eb298775dbd412afb8d42/1791602906/elevensports3-pl.m3u8
-#EXTINF:-1 tvg-name="ESPN Deportes" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPN Deportes
+https://judiaslevels.embeds.gay/main/secure/34538c4a2770eb2898fc64ef3f0f7f3f399ea8af3727bb7e95c952e9f8724576/1791615214/discoveryfamily-usa.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 Spain" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 Spain
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3d8ea0be13944c4393bf1788b3038b85278d7eea8c3e3bf6cf561cfbf449e5ce/1791602906/espndeportes-usa.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 1" group-title="Timst TV" source="judiaslevels.embeds.gay",Eleven Sports 1
+https://judiaslevels.embeds.gay/main/secure/cb3009e4588ed60c64c203c9b947ff6d380c2b2e847730fadb32e3df34b5992e/1791615214/dazn1-es.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 Spain" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 2 Spain
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/896c88b5d9a718dfe48768588cb2cd989bd84952e60c6dd75e5037e9a1513daa/1791602906/elevensports1-pl.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Eleven Sports 2
+https://judiaslevels.embeds.gay/main/secure/274da60bb4d52d87f6a88812e988b01f124e4513f9438d0c4b8bace1fdba2fa5/1791615214/dazn2-es.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 USA" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 USA
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b9ff59614dffb16449bcabdf628416744acfda606cf21569e99f403b6aa1596b/1791602906/elevensports2-pl.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/9b21b68d49c972ae505e0b3606dba595c42332e68e131e03af0c0cc87b2cc1bd/1791602906/fox-sports-1.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 501 (Cricket)" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 501 (Cricket)
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3d4709483d5b3c92112bbdac4d7f00b5d20fc93f7ac7966788121533ff117e57/1791602906/fox-sports-501.m3u8
-#EXTINF:-1 tvg-name="Fox Deportes" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Deportes
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/313eb02ace20a416c751d1efd23144bec1909f2b81f67904383218b230375b24/1791602906/foxdeportes-usa.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/a8f87af233109f5d104d09c54925e43e952c6d90889f1e9ee307453309a1e083/1791602906/fox-sports-2.m3u8
-#EXTINF:-1 tvg-name="Food Network" group-title="Timst TV" source="judiaslevels.embeds.gay",Food Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d615762618f5f08a6e5b233f44a27a32b407bba9d9abdae831e5dce080870c2c/1791602906/foodnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 502 (League)" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 502 (League)
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d9a51d7c0e542a0fb09df3ccdfbcce309bdeb7233cb2c07b0b4759aeb52b561f/1791602906/fox-sports-502.m3u8
-#EXTINF:-1 tvg-name="Fox" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/85bbd93dc5ae6c8cbacbb6a51cf0381c7565127388669e594ed52dbd41b1edb4/1791602906/fox-usa.m3u8
-#EXTINF:-1 tvg-name="ESPNEWS" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPNEWS
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/ec41d7c9ef8fbad28220c1121cfae1643a6094d9ecd2b713ba8c4773368f422a/1791602906/espnews-usa.m3u8
-#EXTINF:-1 tvg-name="ESPNU" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPNU
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e46aef2cf24c21ec81565c11f142245b17d02c45d06b0b8d49e773ef5a4405f6/1791602906/espnu-usa.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 503" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 503
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/65984fdb86880d00c75131869e2b3b2f38be98bbe9acb1f7142f45d7ae7f8b5f/1791602906/fox-sports-503.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 505" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 505
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/457da17f33fbf984343dfd55d976ef822efaa1ad2b944995ab3822b9a341d190/1791602906/fox-sports-505.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 504 (Footy)" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 504 (Footy)
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b797e442fc6da9858950a17ce34cad4e66cb512ba0d1d35c0d28f30f904b5053/1791602906/fox-sports-504.m3u8
-#EXTINF:-1 tvg-name="FXM" group-title="Timst TV" source="judiaslevels.embeds.gay",FXM
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/87400894668d8d9199786e025821880a3d61fedb1385eb19a78df280c9046082/1791602906/fxm-usa.m3u8
-#EXTINF:-1 tvg-name="FX" group-title="Timst TV" source="judiaslevels.embeds.gay",FX
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/a31c8446ab5e05938b38216a0dd9c673617dbcfa45173d199fea54370c162352/1791602906/fx-usa.m3u8
-#EXTINF:-1 tvg-name="Freeform" group-title="Timst TV" source="judiaslevels.embeds.gay",Freeform
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/43aa76b4003b93ae6827f035e7b5f886efdd41a79cba9dbb1e35b16ba098d863/1791602906/freeform-usa.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 506" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 506
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/700e0ea829c8c3db211fe89c8413cfb25170188d1e4dac0e3959d71b16163d87/1791602906/fox-sports-506.m3u8
-#EXTINF:-1 tvg-name="Go3 Sport 1" group-title="Timst TV" source="judiaslevels.embeds.gay",Go3 Sport 1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/48f4940b736102de6c15356cd9ff5d36a4571a83b5b8c6b9dc093a6b170387fe/1791602906/go3sport1-lt.m3u8
-#EXTINF:-1 tvg-name="HBO" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/ec4fa350467595caa03c90ea1fac986be05da34be00d5fae528caecec66395bc/1791602906/hbo-usa.m3u8
-#EXTINF:-1 tvg-name="GOLF Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",GOLF Channel
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/73d10246656ac56149abbb775dfd1d7da5ee993e13f48252138c2ec4917c2245/1791602906/golfchannel-usa.m3u8
-#EXTINF:-1 tvg-name="Go3 Sport 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Go3 Sport 3
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4a873e315a9a514fe6a15e9ecc15a5e0b76ba57f0df29893f1dc5d23787efef6/1791602906/go3sport2-lt.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 507" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 507
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b211d90f9c19d4050b44682a6f846f8632d0f49da0bcb455b39a3ae77902b1ad/1791602906/fox-sports-507.m3u8
-#EXTINF:-1 tvg-name="HBO Comedy" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO Comedy
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f0792bbf661c33de7e439c078d9d9584a9db5512621c282f1fd0bc757489ec01/1791602906/hbocomedy-usa.m3u8
-#EXTINF:-1 tvg-name="HBO Drama" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO Drama
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/cc6f082b181e264d414d879528abf1e656320e2611a7167e2cfe25413587ecb2/1791602906/hbodrama-usa.m3u8
-#EXTINF:-1 tvg-name="HBO Movies" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO Movies
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3fc44ace3a6f396affff814fb0a89304cf4ddb88e5891abcd8c20eb1c663dcc7/1791602906/hbomovies-usa.m3u8
-#EXTINF:-1 tvg-name="Hub Sports 1 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 1 Singapore
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/9c1ceb45f6327890c1f51d53e60f13b853dd8b19f032751be33fe95c95451bdb/1791602906/hub-sports-1-sg.m3u8
-#EXTINF:-1 tvg-name="HGTV" group-title="Timst TV" source="judiaslevels.embeds.gay",HGTV
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b19855d807cb7f8ad88405d06b86f13e78e6f8345ca36a89085715ec942c724b/1791602906/hgtv-usa.m3u8
-#EXTINF:-1 tvg-name="Hub Sports 5 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 5 Singapore
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f7985c4afafcac11947be16118726d016dac5e1890c89fac075a5efbe3dcd5d6/1791602906/hub-sports-5-sg.m3u8
-#EXTINF:-1 tvg-name="Hub Sports 2 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 2 Singapore
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/bb941ec35fbc1ea8a24aa9f52731707dbdc28e60fbbbf5b273ddc8b4f54f1a3c/1791602906/hub-sports-2-sg.m3u8
-#EXTINF:-1 tvg-name="HBO Latino" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO Latino
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3def13df70ca32a956686ed900b08c14d8c9f2cb252db5acb326f75929d9925c/1791602906/hbolatino-usa.m3u8
-#EXTINF:-1 tvg-name="Hub Sports 4 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 4 Singapore
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3a55d4d93169c9b1645fcf8d7419fba3177156c915689e4e2a5a9922f6769c78/1791602907/hub-sports-4-sg.m3u8
-#EXTINF:-1 tvg-name="ITV 1 UK" group-title="Timst TV" source="judiaslevels.embeds.gay",ITV 1 UK
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/67d69eee523284c92ef1964ca085b364616db99e075e829b2f90d2aa4ca0b907/1791602907/itv1-uk.m3u8
-#EXTINF:-1 tvg-name="ITV 4 UK" group-title="Timst TV" source="judiaslevels.embeds.gay",ITV 4 UK
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/906773a8414be0951ded0c9229bd3599dedb7d5a9e23aa88e2da18aabfcf304b/1791602907/itv4-uk.m3u8
-#EXTINF:-1 tvg-name="ITV 3 UK" group-title="Timst TV" source="judiaslevels.embeds.gay",ITV 3 UK
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/22d2724f6099e1c9d1fe0c0f3ef2bcfa8a50a3435f1184615cc6c5779c9a4787/1791602907/itv3-uk.m3u8
-#EXTINF:-1 tvg-name="FXX" group-title="Timst TV" source="judiaslevels.embeds.gay",FXX
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d24b65e76ac0a5c0696d9fd64d2431bde0e23e409881eb330d55b334b904480a/1791602907/fxx-usa.m3u8
-#EXTINF:-1 tvg-name="ITV 2 UK" group-title="Timst TV" source="judiaslevels.embeds.gay",ITV 2 UK
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/efda8f3d5680f1c28f292d521a16858131bfe5e3d2198c57dd697261dea01dcb/1791602907/itv2-uk.m3u8
-#EXTINF:-1 tvg-name="M4 Sport HU" group-title="Timst TV" source="judiaslevels.embeds.gay",M4 Sport HU
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/8be3070c8f0b9dcf1c9596dac1079f05a8a0840718f16619488bde7a6b35dc67/1791602907/m4-sports-hu.m3u8
-#EXTINF:-1 tvg-name="Hub Sports 3 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 3 Singapore
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/ed51b4319358030208af2323935d477ec348c911f49ebfcaec6e54abaa00719f/1791602907/hub-sports-3-sg.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 2 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 2 GR
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/8da6d25b41dc8dcb24b679909cdc7bdc6d9685c1ae13e3ac6ff3668b405f7502/1791602907/magenta-sport2-gr.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 1 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 1 GR
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/851a9380b9e679fb7b5787b627f7e4b0870081673a045d88d37046231ff159ac/1791602907/magenta-sport1-gr.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 3 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 3 GR
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4ea70cedbeca50bdb65a934d95c412fc8cb8dd0d7ebafd4b812d79be6484c386/1791602907/magenta-sport3-gr.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 4 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 4 GR
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4c1624b3e3e547833b222f880551930b6036d9d5e04bfe1204a621ab9a078735/1791602907/magenta-sport4-gr.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 6 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 6 GR
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/6c111e8d0f0ad8f92f4bba90bea6561e14936bccb55a484300d102602fa03199/1791602907/magenta-sport6-gr.m3u8
-#EXTINF:-1 tvg-name="MLB Network" group-title="Timst TV" source="judiaslevels.embeds.gay",MLB Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/be5118d2e4db40cbccbb2596145c80756ce4e22baa7c84b0188d7e1ad24f70d4/1791602907/mlbnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="Movistar Deportes 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar Deportes 3
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/feea83e1cbe252d6d67f7036cf7c0b7ea0a2cea9da9de03ced904d5b567cfe79/1791602907/movistardeportes3-es.m3u8
-#EXTINF:-1 tvg-name="Max Sports 1 Bulgaria" group-title="Timst TV" source="judiaslevels.embeds.gay",Max Sports 1 Bulgaria
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/c909ac97ca987dccdeb10335bf3a03b500fe01f668de864dbc7aebe504723c19/1791602907/maxsport1bg.m3u8
-#EXTINF:-1 tvg-name="Magenta Sport 5 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 5 GR
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/45c0eac9de1c34d57c0d4ac7ff60fa89c07b0bc032deca19914f8725bf69b8ea/1791602907/magenta-sport5-gr.m3u8
-#EXTINF:-1 tvg-name="Max Sports 2 Bulgaria" group-title="Timst TV" source="judiaslevels.embeds.gay",Max Sports 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/14b3abdfbd99b19f74d2a2613386c15e8db2f8b68fc86167b59c1bfb1c6d0c70/1791602907/maxsport2bg.m3u8
-#EXTINF:-1 tvg-name="Movistar LaLiga" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar LaLiga
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/1f85886403a7c1d20fec99d2f7ee62bd5c4829680783b4d41172dd43945a780a/1791602907/movistarlaliga-es.m3u8
-#EXTINF:-1 tvg-name="Movistar Deportes 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar Deportes 2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/89af8e6a3528d09a7af992b1c39388ccc70175e79b05ca77facbd386dd800900/1791602907/movistardeportes2-es.m3u8
-#EXTINF:-1 tvg-name="MS Golf 1 DE" group-title="Timst TV" source="judiaslevels.embeds.gay",MS Golf 1 DE
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5f0ca4c6b977cf26e618a5a1e0c23bb061237f2bda3eb606c7fb7393d0353cea/1791602907/ms-golf1-de.m3u8
-#EXTINF:-1 tvg-name="MotoGP Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",MotoGP Channel
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/753271ca45d82c4e7ca474983b3b4cca952252ed31b1582ec83663eb37e59971/1791602907/motpgp-tv.m3u8
-#EXTINF:-1 tvg-name="Movistar Plus" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar Plus
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/2353f1d8ded10e52b0f9c9881effe309a8cd0775cc4cbaa2ecdb647b4d551583/1791602907/movistarplus-es.m3u8
-#EXTINF:-1 tvg-name="Movistar Deportes" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar Deportes
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/8fa996e025cf6e9ddd73d25386ed11c7c69e1c67d8625ecf62895d42d7d4ed64/1791602907/movistardeportes-es.m3u8
-#EXTINF:-1 tvg-name="MTV" group-title="Timst TV" source="judiaslevels.embeds.gay",MTV
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/74f776102984fa2da5dd8d2c8a68eaafb045c7fe0f7b8cd35b150c60527b1594/1791602907/mtv-usa.m3u8
-#EXTINF:-1 tvg-name="NFL Network" group-title="Timst TV" source="judiaslevels.embeds.gay",NFL Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/477610b03af3edcd463809eb9360113c4431f34fc3d7c6398a0f37028493a597/1791602907/nflnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="NBC Sports Bay Area" group-title="Timst TV" source="judiaslevels.embeds.gay",NBC Sports Bay Area
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5e2ccf1a1b3adc03c4899bd975e300a79b50fd950f9e5fea6a4005112e3ff80e/1791602907/nbc-sports-bayarea.m3u8
-#EXTINF:-1 tvg-name="Nova Sport 1 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 1 CZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/c911f48851664d763a7043cba649844cd06f88b32c2d6906dd442d0145aeb9c1/1791602907/novasport1-cz.m3u8
-#EXTINF:-1 tvg-name="NBA TV" group-title="Timst TV" source="judiaslevels.embeds.gay",NBA TV
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/659307dff5f7e4e7e279d8cbca4fbb88ee40882ee5a08f8459b2ec6b417f901c/1791602907/nbatv-usa.m3u8
-#EXTINF:-1 tvg-name="NBC" group-title="Timst TV" source="judiaslevels.embeds.gay",NBC
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/8640f324fc385ce862375599219bd0100b6e2507af5601b5c4c26438be2166dd/1791602907/nbc-usa.m3u8
-#EXTINF:-1 tvg-name="NBC Sports Philadelphia" group-title="Timst TV" source="judiaslevels.embeds.gay",NBC Sports Philadelphia
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/30b0f083a2c8c99f69c5940b9d8cbb720e600261d42a709cfa67a08b90e0a891/1791602907/nbc-sports-philly.m3u8
-#EXTINF:-1 tvg-name="Nova Sport 4 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 4 CZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/ff24ea6a3f4d2a5837a4d0b8905083c4c82f2469b7c6edb3448f1e68d3623a88/1791602907/novasport4-cz.m3u8
-#EXTINF:-1 tvg-name="Nova Sport 3 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 3 CZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/fd0303bbd24a45b5861a0e3dfbedc1bcb6439cb10ab44a0da232f2d22d96cdba/1791602907/novasport3-cz.m3u8
-#EXTINF:-1 tvg-name="Nova Sport 5 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 5 CZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/284951fa8f9df42e18d60b2f2d32c8daf2240569cb0bdbfb9c73763f69d681f7/1791602907/novasport5-cz.m3u8
-#EXTINF:-1 tvg-name="Nova Sport 6 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 6 CZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/aeef3e39279abf6e5d11457abecbdd5b6ccbb0c89013d1b9a3fbcb0d3a679aad/1791602907/novasport6-cz.m3u8
-#EXTINF:-1 tvg-name="Nova Sport 2 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 2 CZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/9075870cf0cc510974ffc27b8e2e89f2a94122c87b32cc9b6b08a17b9e11e011/1791602907/novasport2-cz.m3u8
-#EXTINF:-1 tvg-name="NHL Network" group-title="Timst TV" source="judiaslevels.embeds.gay",NHL Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d1ec07e79c43e222d1a7bf068a6d89a73f76d80af53b0cbc99a06b7db060ad26/1791602907/nhlnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" group-title="Timst TV" source="judiaslevels.embeds.gay",Nickelodeon
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4d4004e25e28b57227310fae35701a12c673ed2e2421d6100fd0dc59f41a1144/1791602907/nickelodeon-usa.m3u8
-#EXTINF:-1 tvg-name="Nicktoons" group-title="Timst TV" source="judiaslevels.embeds.gay",Nicktoons
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/cdb2500dcb70ab009dbd8f9d85b81d6a0a6687da81bb37663a80e5cb19ac68c9/1791602907/nicktoons-usa.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport 1" group-title="Timst TV" source="judiaslevels.embeds.gay",Polsat Sport 1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/193585acd6e716f5c3b0363c03966c527af1ea07961beed0381bbe871f702486/1791602907/polsatsport1-pl.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport Fight" group-title="Timst TV" source="judiaslevels.embeds.gay",Polsat Sport Fight
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/c8c5b9d54142c39b6f4156531dbb60247b746b7a003411ce5aa16711c7d89069/1791602907/polsatsportfight-pl.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Polsat Sport 3
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/fea37c3752a6ea9065e3da551ee87da0710022f25ee1f861ea2ab4ee3950248a/1791602907/polsatsport3-pl.m3u8
-#EXTINF:-1 tvg-name="ORF 1 Austria" group-title="Timst TV" source="judiaslevels.embeds.gay",ORF 1 Austria
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4727066c9fa63779f6b6c574098ed505e7e625578d2d5b543ea894e20af43d45/1791602907/orf1-at.m3u8
-#EXTINF:-1 tvg-name="Premier Sports 1 IE" group-title="Timst TV" source="judiaslevels.embeds.gay",Premier Sports 1 IE
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/bc21decc4cd8d78be1f86553da8943efa08bc4076a5950ce63f74b2762576cc1/1791602907/premiersports1-ie.m3u8
-#EXTINF:-1 tvg-name="Nick Jr." group-title="Timst TV" source="judiaslevels.embeds.gay",Nick Jr.
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/2f834a862007f8880977623f1ff9fca5959deffb4528e2f56976698e83d59242/1791602907/nickjr-usa.m3u8
-#EXTINF:-1 tvg-name="Premier Sports 2 IE" group-title="Timst TV" source="judiaslevels.embeds.gay",Premier Sports 2 IE
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3e1ddf1cbdf05416d6c0ddbf841c8a0d9a537828d38379cf20c720bead517093/1791602907/premiersports2-ie.m3u8
-#EXTINF:-1 tvg-name="Premiere" group-title="Timst TV" source="judiaslevels.embeds.gay",Premiere
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/fa69671e042ec0946e6758b6fbb59c4693115e10788adf896d5a79877f9ab95f/1791602907/premiere-br.m3u8
-#EXTINF:-1 tvg-name="RTL (Germany)" group-title="Timst TV" source="judiaslevels.embeds.gay",RTL (Germany)
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/972e15a4cb984310feb9547bddf0151054af0548049ede3ee2b7f1dca6b4f40a/1791602907/rtl-de.m3u8
-#EXTINF:-1 tvg-name="RACER Network" group-title="Timst TV" source="judiaslevels.embeds.gay",RACER Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/896b95878bfee45d4de5fcc94840dc47003fe25290505617c064d6591951d9c6/1791602907/racernetwork-usa.m3u8
-#EXTINF:-1 tvg-name="SEC Network" group-title="Timst TV" source="judiaslevels.embeds.gay",SEC Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/545f55075b90d155d08fab920a8bf3d3ec1a90def1eb21dc7646f40138dc241d/1791602907/secnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="MS Golf 2 DE" group-title="Timst TV" source="judiaslevels.embeds.gay",MS Golf 2 DE
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b6f5566fe5e4777b64182fd8be1afcbb4ca4fe4aec1c52e6ed05a80f9c707fe2/1791602907/ms-golf2-de.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Polsat Sport 2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f94d08c6fe5ea2475cfff13b3bdc3e5cb192a2ad9b7d83ffd7fbfe67afacb4b2/1791602907/polsatsport2-pl.m3u8
-#EXTINF:-1 tvg-name="Showtime 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime 2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/14c14a3dd9c0180c9a3ebdd50398544694dc71f5f337caaa6f8130ccb3c3e9bc/1791602907/showtime2-usa.m3u8
-#EXTINF:-1 tvg-name="Showtime" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b83b42a19bc8527829196d7ebecb3f9aa2502ff72cc4f5d83660fdb0e3ae4547/1791602907/showtime-usa.m3u8
-#EXTINF:-1 tvg-name="Showtime Next" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime Next
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b5ad3f652be6ecac5f16e6bef7c3d1a65cb2f63edbbcfee96437bb5d99b5f4a8/1791602907/showtimenext-usa.m3u8
-#EXTINF:-1 tvg-name="Showtime Extreme" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime Extreme
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/264b3fd07fcbaa0cf98c39ee8989c08fd73ca489a53bdb0a54f41410d0800937/1791602907/showtimeextreme-usa.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 24" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 24
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f545fae5fa7f2d4b151c60f2a71d90e8f9f01672743255d2dce15c9f6417660b/1791602907/skysport24-it.m3u8
-#EXTINF:-1 tvg-name="Showtime Women" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime Women
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/33d96b232c4346b5f01e7d8e91d7625aa0b71e5abad5a8b893202f42bada0488/1791602907/showtimewomen-usa.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 2 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 2 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/0931e91415b7625a6d8b0e4e9ec8cdcce59728a2cd2a74b473daa15793f4075d/1791602907/skysport2-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 6 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 6 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e106dcafd294e332219712f79910ddcf17bf7cb97ab31bdd8469f8151b3d3bfb/1791602907/skysport6-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 1 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 1 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/41c54845c2b0e24db609df0277d148bd2547444690590c6926fe387f8aee7895/1791602907/skysport1-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 3 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 3 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/9bd0b2e06bedc22da5fd3c7cd681918bd10bfaa8ce54bcfbab85bd29aa5cf836/1791602907/skysport3-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 4 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 4 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/c16a75f7e41f8dd6606d4658b2955371ee780c3f63bc8c842a90fc149376145e/1791602908/skysport4-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 7 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 7 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/e20b84abe890f94828f750897a35d7b15eb3d6ca307d756d55e1b08bae4095de/1791602908/skysport7-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 9 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 9 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/994929f417927b4ac093dbc6ba8b597292f8d42b44f6d6c9e2f964a8f47bd0d5/1791602908/skysport9-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 8 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 8 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/028e50387edbd36b5220e05bc9f6bc78d611900abdb537f17949b47d471c7660/1791602908/skysport8-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Select NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Select NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/0f8a9e4f5fc20ce103b87bc16df24bef162fd4e8f3a9f925c730b434b3bb9bd9/1791602908/skysportselect-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Arena IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Arena IT
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/41eeabb5bb70fcaf91ebb11d00427b131811d4eb228f9d8358a925b30a2d73a8/1791602908/skysportarena-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Calcio IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Calcio IT
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4fa924e57be56874f237b9cf06369d064d95477f15b81b8e8acc4279c54f0f7f/1791602908/skysportcalcio-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Max IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Max IT
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b95f1bf6dfad04f252e9c911ed6a31ced167fa40551b766814b721884e7ba204/1791602908/skysportmax-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Uno" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Uno
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d17a2d8537bfde09acc2d66a122ccdb0fdf8ae1aa20be46cf87eca7f189e2e49/1791602908/skysportuno-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sport MotoGP IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport MotoGP IT
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/39d6d0e3823f35f98c0f6113abb1205f98c14ccde86cc1d7623539f8fe75dd58/1791602908/skysportmotogp-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sport F1 Italia" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport F1 Italia
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/825bef38c760ed7b5ef541ca36316896b89fcf28b2f53accf0324001c3e1de3e/1791602908/sky-sport-f1-italia.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Bundesliga
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/68bc189f442eee0702c64de1fdaa3dc310ad547e1f542078d8f6cf5af2e4dee0/1791602908/skysportbundesliga-de.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/9a648d8a03a91a727e9705aa5a26be4a13cc54ef37af2fb28f207d2b34a4b7eb/1791602908/skysportscricket-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b19af51a2fe4de8c897e3ca780978577df2eaeac80cd77dec2d07c418e4ae4f9/1791602908/skysportf1-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Action" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Action
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/de83841480ba45cf52524e12b2761b5f12caf4ba84bc5fe849784fdb4b9171ec/1791602908/skysportsaction-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/41893cb319492c04494865a9be544b8c46b3ccc5128e3f1e4feefe98e4144533/1791602908/skysportsf1-uk.m3u8
-#EXTINF:-1 tvg-name="Showtime Family Zone" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime Family Zone
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d7db4f332d6aff7aeb3afbff1f921391edede68d68cb15ed61110974c596db52/1791602908/showtimefamilyzone-usa.m3u8
-#EXTINF:-1 tvg-name="Sky Sports+" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports+
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d16756ae38a269ecbac10b79c96f92f2692182a3f0385e090837ffbd7ef71c63/1791602908/skysportsplus-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Tennis IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Tennis IT
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/d834912586a25ef48f10755b9d40b610ef6dac223b2461aa0ebd5d675ee72a1a/1791602908/skysporttennis-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/59ba56aa4e1e90ffc1ff86bdb5b3e02bcae32d509e0c1bf53e2e445be9a808f8/1791602908/skysportsf1uhd-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/45ad4f0c7a2b705e69c17c266e1b3bb3c5b9c11841f0c9442ce647e185421982/1791602908/skysportf1-de.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Football" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Football
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/0bb62f90e2b7b55d4f98028225ac1037bbd978370d630924d7976537d5b68036/1791602908/skysportsfootball-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Golf" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Golf
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/6bf79fd46b2300d2ef2f9283cf2d8784bdff15977b2ca4733c8a81f1cefe0478/1791602908/skysportsgolf-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Mix" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Mix
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/36cde4e568b420cffccbdcaef27bd40a417fdad354cc53a890d383a750992974/1791602908/skysportsmix-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Main Event" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/af82cf8208ddd938a5274749f399b2a37f8a880003154c7ddd9a71c98ccdfe11/1791602908/skysportsmainevent-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Racing" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Racing
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/c64be0404d10eb79e852f970489e608dbb1a5567c51e823581886e9116ae9a48/1791602908/skysportsracing-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Main Event" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/fc718f609ca83fb724688d1b8592059fa30381733cce64b88e5d855ee3bf19b1/1791602908/skysportsmaineventuhd-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 5 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 5 NZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3a3b6297c32e0dcb64071f69e44d50ee01710b4fd6af998a74ca193140491ffc/1791602908/skysport5-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Premier League" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/220a19c486e125261f5e0f2c16b5e34a36a01bfead9f2a0ec0dd0a8f3b88dbf2/1791602908/skysportspremierleague-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports News" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports News
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/1e5638efd94fe0586c05c2abebb09dfc17d33969c11c87dae6c2388db299c2e0/1791602908/skysportsnews-uk.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Network" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/2adfd12c790ffbf43b0851ab2825fd5ac5f816fc57a2fa6542e6d6da708ce5b4/1791602908/sonysportsnetwork-in.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Network 4" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network 4
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/75e3821f762f761c26aeb9e064b0acf9d07ee680a38541c4c49494ccdb1f4c64/1791602908/sonysportsnetwork4-in.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Tennis" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Tennis
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/dbb68051cfe8049dfc44110f6b5c279321ff0681f9a7dfd296c036397aa4b0fe/1791602908/skysportstennis-uk.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Network 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network 3
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/a97c576465e4876a75b869e188e80f7dec33cf4a07f178d91a68d6f5065228e5/1791602908/sonysportsnetwork3-in.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Network 5" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network 5
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/97c8c0718c5c23c367a7b4f2727cb1d455fbd2793f8a6e45a0534f6fa840b9b9/1791602908/sonysportsnetwork5-in.m3u8
-#EXTINF:-1 tvg-name="SPORTDIGITAL FUSSBALL" group-title="Timst TV" source="judiaslevels.embeds.gay",SPORTDIGITAL FUSSBALL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/1948469cedbf5e16b144ba15f93f79d784cd2acdb9590757d45a22c1886dddaf/1791602908/sportdigitalfussball-de.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Network 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network 2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3cc80664004ecc51846bb22ab027f6228e6dc78f1276d31c48ad8f0b9f980a37/1791602908/sonysportsnetwork2-in.m3u8
-#EXTINF:-1 tvg-name="Sport TV1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5109745e01edca1b3b08dee4e3a2ca7e25b78847501e753cb7991b6a56e824e1/1791602908/sporttv1-pt.m3u8
-#EXTINF:-1 tvg-name="Sport TV2" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/107cc52a2811976e2219e13e342d7635de807a19dcf1e109c77ec077e8e8f75d/1791602908/sporttv2-pt.m3u8
-#EXTINF:-1 tvg-name="Sport TV4" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV4
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/aedae2d6c2053b585ff131c4627412df73622db46aff72a2b3be9c65d761f760/1791602908/sporttv4-pt.m3u8
-#EXTINF:-1 tvg-name="STARZ" group-title="Timst TV" source="judiaslevels.embeds.gay",STARZ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/687dc8b983630785e59681c5f34634c5bc0afcc93a813e003c9024ade4d6651e/1791602908/starz-usa.m3u8
-#EXTINF:-1 tvg-name="STARZ Comedy" group-title="Timst TV" source="judiaslevels.embeds.gay",STARZ Comedy
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3178c8cb5934505787ca80b1c7c3cf0644c985bcbd9051fcdde7c3a7686a8fd9/1791602908/starzcomedy-usa.m3u8
-#EXTINF:-1 tvg-name="TBS" group-title="Timst TV" source="judiaslevels.embeds.gay",TBS
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/8af76971bb0da90736d047dce983317c95473529a0c6c59f412801824b6b0caf/1791602908/tbs-usa.m3u8
-#EXTINF:-1 tvg-name="Sport TV3" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV3
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5f7ec63eb3b77fa69cf166342cd778b8f3a81b133ab7ec622750f804aff2b7dd/1791602908/sporttv3-pt.m3u8
-#EXTINF:-1 tvg-name="STARZ Cinema" group-title="Timst TV" source="judiaslevels.embeds.gay",STARZ Cinema
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4edc3b0bb9b93a122b605f0cbf40b12aad830c2e1a5d19df384d9cb42bf7a3fc/1791602908/starzcinema-usa.m3u8
-#EXTINF:-1 tvg-name="Sport TV5" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV5
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/37e676117d4f22a9531628f7b7952b700a9d9169e1d8514819265cf851e58254/1791602908/sporttv5-pt.m3u8
-#EXTINF:-1 tvg-name="SYFY" group-title="Timst TV" source="judiaslevels.embeds.gay",SYFY
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/aa2c72385dc347e407cc26c0fc03714c059978f0ed566e34433b8e1c3a9b964a/1791602908/syfy-usa.m3u8
-#EXTINF:-1 tvg-name="Teenick" group-title="Timst TV" source="judiaslevels.embeds.gay",Teenick
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/6262c0006a24cac5b821f4d054fa0082bcad84dd147a26f5f8e8462dfb281eff/1791602908/teenick-usa.m3u8
-#EXTINF:-1 tvg-name="STARZ Kids and Family" group-title="Timst TV" source="judiaslevels.embeds.gay",STARZ Kids and Family
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/0052c44614d7fb919768b69b3dfaaae484d9d9d9a8138c9c1761981fe4309607/1791602908/starzkidsfamily-usa.m3u8
-#EXTINF:-1 tvg-name="The Weather Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",The Weather Channel
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/aad5133505ff216a05cfdd33ecedfced103cd34fa5edd32a5a98e41fb023feb7/1791602908/twc-usa.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",Tennis Channel
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/9bf1ad289c7b3d6369a1915ee9f39e45a2e5f6d4aa0871a0d085b57d90698d85/1791602908/tennischannel-usa.m3u8
-#EXTINF:-1 tvg-name="Telemundo" group-title="Timst TV" source="judiaslevels.embeds.gay",Telemundo
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4c436a50b4bd5fc106e3e6556df5def78df10d6c03ff66e33084f6b9ffbf3562/1791602908/telemundo-usa.m3u8
-#EXTINF:-1 tvg-name="TNT" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/a14809565470620a9800637050dd893406fe8c178e39da6be125d94710e0e8fd/1791602908/tnt-usa.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 1" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/fe1a28c6c6a2f240c45fc9d289aee19a649fee7db469d21d740f84c74d2a6b20/1791602908/tntsports1-uk.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 1" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4c0d7cb5c4bab0a100eecfcecbc34f0ec948162adb519dbc1dfa4dc3082ec2d8/1791602908/tntsportsultimate-uk.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 3" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 3
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5b22990426fbc800f6cfe5604934b24b479572da8071003d8f5a616224f97df8/1791602908/tntsports3-uk.m3u8
-#EXTINF:-1 tvg-name="Tring Sport 2 AL" group-title="Timst TV" source="judiaslevels.embeds.gay",Tring Sport 2 AL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/2cbb5617572671d98ea692e0e55b3bf070cfe9467399cb6b3592c5c4acac7372/1791602908/tring-sport-2-al.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 2" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/1861b902a79550fb737ac02d38de18caf602cd65e683b043cb934be953b54b61/1791602908/tntsports2-uk.m3u8
-#EXTINF:-1 tvg-name="Tring Sport 1 AL" group-title="Timst TV" source="judiaslevels.embeds.gay",Tring Sport 1 AL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/177e2805534fd3da1e76f5d264cbf437816b11cf0bb9750463d8b435fea97a17/1791602908/tring-sport-1-al.m3u8
-#EXTINF:-1 tvg-name="Tring Sport 5 AL" group-title="Timst TV" source="judiaslevels.embeds.gay",Tring Sport 5 AL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/b96a48391d3b56c97a245fc1116f0ad8b76a4c017d8c6edff0d03e313c1a4abc/1791602908/tring-sport-5-al.m3u8
-#EXTINF:-1 tvg-name="Tring Sport 4 AL" group-title="Timst TV" source="judiaslevels.embeds.gay",Tring Sport 4 AL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/6f6f8505fdcf9e25082befe96ff7e4c26b88c8cedcd7a73660e44b0a1f0408e1/1791602908/tring-sport-4-al.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 4" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 4
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/908272ebcb7cecd1fd505195af973dbb8f126b5b50d7511f5766402ee73fbcae/1791602908/tntsports4-uk.m3u8
-#EXTINF:-1 tvg-name="TruTV" group-title="Timst TV" source="judiaslevels.embeds.gay",TruTV
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/3e7511cb29b1e0d8c625db858c1324a53dbb073a243005343ca36df5b996ad28/1791602909/trutv-usa.m3u8
-#EXTINF:-1 tvg-name="TV Klan Albania" group-title="Timst TV" source="judiaslevels.embeds.gay",TV Klan Albania
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/79dde0279ad8f9d1ffb348eb5199c5c08b824c06786c77f80485df3041c1423d/1791602909/tv-klan-al.m3u8
-#EXTINF:-1 tvg-name="TSN1" group-title="Timst TV" source="judiaslevels.embeds.gay",TSN1
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4522973b4210029a695a47e73d272caad9320149e67626734ac0c89d866fa5ca/1791602909/tsn1-ca.m3u8
-#EXTINF:-1 tvg-name="TUDN" group-title="Timst TV" source="judiaslevels.embeds.gay",TUDN
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/84e797e2d862bfd47842cb3124ad991aac4dee9cec6a672f545b903a41dfaa4e/1791602909/tudn-usa.m3u8
-#EXTINF:-1 tvg-name="TYC Sports Internacional" group-title="Timst TV" source="judiaslevels.embeds.gay",TYC Sports Internacional
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/c5788b6d452824551e0092311cd2d33c59df869fb08ace3a07103f18431bd243/1791602909/tycsports-usa.m3u8
-#EXTINF:-1 tvg-name="Unite8 Sports 1 / ZEE CAFÉ" group-title="Timst TV" source="judiaslevels.embeds.gay",Unite8 Sports 1 / ZEE CAFÉ
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/c43cd3d90ef97cfe7f599b57ca231d4f647aae99da6bde83041ffa2395bd217f/1791602909/unite8-sports-in.m3u8
-#EXTINF:-1 tvg-name="USA Network" group-title="Timst TV" source="judiaslevels.embeds.gay",USA Network
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4de11af7234ae0bd1fdf5405574979ec6db61db4cfc69a1a9250d60a8d621d05/1791602909/usanetwork-usa.m3u8
-#EXTINF:-1 tvg-name="UFC Fight Pass 24/7" group-title="Timst TV" source="judiaslevels.embeds.gay",UFC Fight Pass 24/7
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/47cfea841a09be58cc88f141fea6ff936c6b3159adcd96b3e6ea38e87c71ca94/1791602909/ufc-fight-pass.m3u8
-#EXTINF:-1 tvg-name="Willow Cricket" group-title="Timst TV" source="judiaslevels.embeds.gay",Willow Cricket
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/7966084a0bb191fa1d81abe3d16298f0b7605bc09450ced6c4c78f39fac8538d/1791602909/willow-usa.m3u8
-#EXTINF:-1 tvg-name="WAPA America" group-title="Timst TV" source="judiaslevels.embeds.gay",WAPA America
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/82b114e21f56875397b246a1049e7f57349b9511b7314f407fd5cdb47d3f31ff/1791602909/wapaamerica-usa.m3u8
-#EXTINF:-1 tvg-name="WAPA Deportes" group-title="Timst TV" source="judiaslevels.embeds.gay",WAPA Deportes
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/70a21e58cd92bb6d11dde6cd3e9e1eb892daba7015abf7c87ee826d08ad525d4/1791602909/wapadeportes-usa.m3u8
-#EXTINF:-1 tvg-name="Ziggo Sport 2 NL" group-title="Timst TV" source="judiaslevels.embeds.gay",Ziggo Sport 2 NL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/894eb100f2f068135a018153a7e17dcaa1a778cf17873f1751b507b9e502998d/1791602909/ziggo-sport-2-nl.m3u8
-#EXTINF:-1 tvg-name="Ziggo Sport 1 NL" group-title="Timst TV" source="judiaslevels.embeds.gay",Ziggo Sport 1 NL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/c1daab120e5e4f63cd1d55d2cf68e6df279796083b59342d2756bfec84aba1ab/1791602909/ziggo-sport-1-nl.m3u8
-#EXTINF:-1 tvg-name="Willow Cricket 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Willow Cricket 2
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/510239f83eb29ec975026103a3f135372eb11aa73a9a3e78a53d6f5779a4eb9b/1791602909/willow2-usa.m3u8
-#EXTINF:-1 tvg-name="Ziggo Sport 3 NL" group-title="Timst TV" source="judiaslevels.embeds.gay",Ziggo Sport 3 NL
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4724aebb419f21f1c477912ab319b9764727c24d873bcde121cce56e275560b9/1791602909/ziggo-sport-3-nl.m3u8
-#EXTINF:-1 tvg-name="10.9.26 | Oswego Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",10.9.26 | Oswego Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5e0ea50847e0a7a4e764a529380d4b0d8181d53669070d37fca57f02b471e08e/1791602909/dirtvision-10-9-26-oswego-speedway.m3u8
-#EXTINF:-1 tvg-name="SMART Modified Tour at Tri-County Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",SMART Modified Tour at Tri-County Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/15ce5dbde085142c45dce3de7c537a7f9d5cc9469f84ed4ca6a2286c538e2c5e/1791602909/flo-344227.m3u8
-#EXTINF:-1 tvg-name="Florida State Seminoles @ Louisville Cardinals" group-title="Timst TV" source="judiaslevels.embeds.gay",Florida State Seminoles @ Louisville Cardinals
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/bef6c226045b57ca91711f5a21997542c0d24fcd54f504e4e62f56b3188cee59/1791602909/espn-usa.m3u8
-#EXTINF:-1 tvg-name="Lucas Oil Late Model Dirt Series at Eldora Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Lucas Oil Late Model Dirt Series at Eldora Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/46e579347819c000df418f2422abcd2403332d1010178abb111056edb2079232/1791602909/flo-318913.m3u8
-#EXTINF:-1 tvg-name="Lucas Oil Late Model Dirt Series at Eldora Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Lucas Oil Late Model Dirt Series at Eldora Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/75aff621a85b83e4c7f14761c31bc1dda225a321fb2a8ce0aebf64b552cc783e/1791602909/flo-393966.m3u8
-#EXTINF:-1 tvg-name="STSS SuperNationals at Afton Motorsports Park" group-title="Timst TV" source="judiaslevels.embeds.gay",STSS SuperNationals at Afton Motorsports Park
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f34c6c5ca7b948714568581cae109bfac80afa75203afd81673f4974140f17e1/1791602909/flo-345397.m3u8
-#EXTINF:-1 tvg-name="Canadian Super DIRT Weekend at Cornwall Motor Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Canadian Super DIRT Weekend at Cornwall Motor Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/75e2629abd00c9555f1baaaf620e3af18353f8dd1a1c4bfd3915ffed4d72f8e1/1791602909/flo-392902.m3u8
-#EXTINF:-1 tvg-name="New York Rangers @ Washington Capitals" group-title="Timst TV" source="judiaslevels.embeds.gay",New York Rangers @ Washington Capitals
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/5b7dd2d7e2c6f18b7ab95c7d74078201f94f45e13ae8ef4ca6601d0c76f590ce/1791602909/nhlnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="10.9.26 | Mansfield Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",10.9.26 | Mansfield Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/22cac26db61fe8f4c351bd467592b2c85d49ae4d63021d572999624b0aed5e6a/1791602909/dirtvision-10-9-26-mansfield-speedway.m3u8
-#EXTINF:-1 tvg-name="USAC AMSOIL National Sprint Cars at Lawrenceburg Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",USAC AMSOIL National Sprint Cars at Lawrenceburg Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/1b28453228eb3bbdf5b8f0236a5678ea76b2aecc06351ce14b4c39501979f5a8/1791602909/flo-337892.m3u8
-#EXTINF:-1 tvg-name="Rod Wittkopf Memorial at 141 Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Rod Wittkopf Memorial at 141 Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/6e09b07cf1354731a75b103309eb29231315a54f280eeaf56f91944c2bd21d83/1791602909/flo-318044.m3u8
-#EXTINF:-1 tvg-name="Seattle Kraken @ Detroit Red Wings" group-title="Timst TV" source="judiaslevels.embeds.gay",Seattle Kraken @ Detroit Red Wings
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/745ba2c9fc9a891321d35ded850a5eebc2b7c8458b87e5ed4ca90537ec2835a5/1791602909/nhl-401892465.m3u8
-#EXTINF:-1 tvg-name="Big Buck 50 &amp; Fall Nationals at Lucas Oil Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Big Buck 50 &amp; Fall Nationals at Lucas Oil Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/651106d976a735f44e130fea0256e656e7b5ed70ef346cf6ab3587bb31e1027b/1791602909/flo-324390.m3u8
-#EXTINF:-1 tvg-name="Washington State Cougars @ Utah State Aggies" group-title="Timst TV" source="judiaslevels.embeds.gay",Washington State Cougars @ Utah State Aggies
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f867b6a1697bb7c0ed4bced933d4583c9cfd15ed1f18be68210073219ed4f8c0/1791602909/cw-usa.m3u8
-#EXTINF:-1 tvg-name="Wyoming Cowboys @ San José State Spartans" group-title="Timst TV" source="judiaslevels.embeds.gay",Wyoming Cowboys @ San José State Spartans
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/46b71e015ff4e09cd4691708297b53acc56c7dace9280a922ac24e78855c5f44/1791602909/cbssn-usa.m3u8
-#EXTINF:-1 tvg-name="NASCAR Weekly Racing at Hickory Motor Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",NASCAR Weekly Racing at Hickory Motor Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/84b5555aca31f6842daab35aabc9207863d933f1e70657327ebb895655e68e3c/1791602909/flo-356179.m3u8
-#EXTINF:-1 tvg-name="HLR Heartland of America Showdown at Lakeside Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",HLR Heartland of America Showdown at Lakeside Speedway
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/443198f771736f4fbe5e88f4cb5393ef58e24d9a24e86ba79da1a2bb3a05ba67/1791602909/flo-316446.m3u8
-#EXTINF:-1 tvg-name="Pittsburgh Penguins @ Columbus Blue Jackets" group-title="Timst TV" source="judiaslevels.embeds.gay",Pittsburgh Penguins @ Columbus Blue Jackets
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/7435df376a06a4db1415f6679f099e8587386c13ed87c258fa335af4552da337/1791602909/nhl-401892467.m3u8
-#EXTINF:-1 tvg-name="Anaheim Ducks @ Winnipeg Jets" group-title="Timst TV" source="judiaslevels.embeds.gay",Anaheim Ducks @ Winnipeg Jets
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f2292999153a67c256066719eb49e989b7a9abe54667b18ae3d4d5ede9e52e85/1791602909/nhl-401892468.m3u8
-#EXTINF:-1 tvg-name="Memphis Grizzlies @ Chicago Bulls" group-title="Timst TV" source="judiaslevels.embeds.gay",Memphis Grizzlies @ Chicago Bulls
-#EXTVLCOPT:http-referrer=https://grandemx.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/59acf37660759b517745b6dab44f2587c6e8e96876a778881ee53d1476bdf844/1791602909/nba-401908940.m3u8
+https://judiaslevels.embeds.gay/main/secure/99ebf976db5442c54f9b49bd3ba77706bb5bf38db9c39255824c0f71a221c713/1791615214/dazn1-usa.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 Germany" group-title="Timst TV" source="judiaslevels.embeds.gay",DAZN 1 Germany
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/dc1d81217905d76471930b57de3a4cbcc6732e373de0a8c9a4cd4c39ca1ec515/1791602925/dazn1-de.m3u8
+https://judiaslevels.embeds.gay/main/secure/6a2bf9a68628cedc0187ae233fa3745f042030e96c7e5870e14697a714d5046d/1791615214/dazn1-de.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Eleven Sports 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/23e0597ad6c43d2c871c8c0e17f276829ad99eb2cf7a24668a29a9faeaab08b8/1791615215/elevensports2-pl.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",Disney Channel
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/9dbe3d7a6af5a5b57c65e698354fb203c5f71d1daa45f3910882dccafdd9e611/1791615215/disneychannel-usa.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Timst TV" source="judiaslevels.embeds.gay",Disney Junior
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/d21b5813e6f758c6246abb48c23d60238c024b77c4bcec043400a2b6025891e6/1791615215/disneyjunior-usa.m3u8
+#EXTINF:-1 tvg-name="Disney XD" group-title="Timst TV" source="judiaslevels.embeds.gay",Disney XD
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ec0f7db730ae72927c0c097109be5358d5dfc208ec108bf318378900072c30fa/1791615215/disneyxd-usa.m3u8
+#EXTINF:-1 tvg-name="ESPNEWS" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPNEWS
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/924183a88fd008f0619364723991c2b3558821645586e8621c3d6bdaecffa1f0/1791615215/espnews-usa.m3u8
+#EXTINF:-1 tvg-name="ESPN Deportes" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPN Deportes
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/e6c7c8125297407b46e146b90bec4c42fb1db9ef6a70f3913a2f3f8756c4a99e/1791615215/espndeportes-usa.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 1" group-title="Timst TV" source="judiaslevels.embeds.gay",Eleven Sports 1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/617e4d17b813a10e131f172e25f71938512c5dc11523100d3f744121a6d41f33/1791615215/elevensports1-pl.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Eleven Sports 3
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/720df265accb85d0d71c70efb75555371297df621e5663122f8f8bc576562442/1791615215/elevensports3-pl.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 4" group-title="Timst TV" source="judiaslevels.embeds.gay",Eleven Sports 4
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ca49a34f93636bbe1b18ba25c2fa3c6e54220b6f61097307ab1d9ff3f383ec9c/1791615215/elevensports4-pl.m3u8
+#EXTINF:-1 tvg-name="ESPNU" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPNU
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f849fddf0e97ffde9ca06f7ddce2affbe012da2a8f22d464cc9d94dccd3da52c/1791615215/espnu-usa.m3u8
+#EXTINF:-1 tvg-name="Food Network" group-title="Timst TV" source="judiaslevels.embeds.gay",Food Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c6cd6d5e43ee3959bddffa1836d15acd29ced5390268833bd2537d72eb555c02/1791615215/foodnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="ESPN2" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPN2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ad72259835b6097336c3da5a415fff5cd72903664963427d483f26717c95607b/1791615215/espn2-usa.m3u8
+#EXTINF:-1 tvg-name="Fox" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/da3b7badc4dc19f5615e6b8c94da7e51a21350bb988fd31a16334d94eb88e2c7/1791615215/fox-usa.m3u8
+#EXTINF:-1 tvg-name="ESPN" group-title="Timst TV" source="judiaslevels.embeds.gay",ESPN
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/19eb88132eef5b9a0c5b0e881e04d544a55d297e0e55d356750e14a3c8fd3f34/1791615215/espn-usa.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 503" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 503
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/4fe0fee5a503cdbab81f20800fa4a20f237dd6152ac7a4eb3a11cee1394369cc/1791615215/fox-sports-503.m3u8
+#EXTINF:-1 tvg-name="Fox Deportes" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Deportes
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/fd395a87ceee30c7d40bd9aa1c336ff265819f9b663f5a4de2597c3a5e078ff6/1791615215/foxdeportes-usa.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 502 (League)" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 502 (League)
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/2aff560389257f0960339e542de2decad5c3427306489e07830586f6385eb679/1791615215/fox-sports-502.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 504 (Footy)" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 504 (Footy)
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/67dec4db912053dfa9a779596f77cd9c5b70cd7d9c6b01c6fbe5e7b644025694/1791615215/fox-sports-504.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 501 (Cricket)" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 501 (Cricket)
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/50b4af952af02e08e280babc87c264d5d03ac2e22fa465d24e667ba409824ef6/1791615215/fox-sports-501.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 505" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 505
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f7a32e3e1ab13eea21514d16d7201a543dc0246baf3ba3be6ccf61eb6c1e67ff/1791615215/fox-sports-505.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c3c8c2be67cccf18d15ee0b74cd838586edfa992c6936c4b8c88dc01e49003ee/1791615215/fox-sports-2.m3u8
+#EXTINF:-1 tvg-name="FX" group-title="Timst TV" source="judiaslevels.embeds.gay",FX
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/3d3c0b67129372bd432011dfabcfa3c4769e3b2d00064bee4492d702f37181cf/1791615215/fx-usa.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 506" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 506
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/fddeb754e5e432cd9015ce4241ba47657e33cb741aa8f8f38bda59a332771bf2/1791615215/fox-sports-506.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 507" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 507
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/6c1a1933d79e251b9b3c20c75f7334998c0c206cb909cc7bb397032557837e67/1791615215/fox-sports-507.m3u8
+#EXTINF:-1 tvg-name="Freeform" group-title="Timst TV" source="judiaslevels.embeds.gay",Freeform
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/9c044b2a228157635e8a5a592f3725194e79595777319b3da5a0ba995b5fcaad/1791615215/freeform-usa.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Go3 Sport 3
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/419e2f8cc1e619c26df8183e3493eb7c627aadf80a48073b642b5998c46519e0/1791615215/go3sport2-lt.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 1" group-title="Timst TV" source="judiaslevels.embeds.gay",Go3 Sport 1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1caf5b44a16bcc1bf2de8b3f45ef092613840b2ea2931a88dc7800f9e2c620b9/1791615215/go3sport1-lt.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Timst TV" source="judiaslevels.embeds.gay",Fox Sports 1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/4ca8055788c0983a311280b7a0f569e41a774858f12a6a75c3b16c668c6ed2da/1791615215/fox-sports-1.m3u8
+#EXTINF:-1 tvg-name="HGTV" group-title="Timst TV" source="judiaslevels.embeds.gay",HGTV
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/3b44f653ebb93730249930a9738474d37077df77f6e76fa193f130310a422538/1791615215/hgtv-usa.m3u8
+#EXTINF:-1 tvg-name="HBO Latino" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO Latino
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/4e73403e7a59fe97984aa4e557306f78e8c2c4757da958887f113978c5ac7198/1791615215/hbolatino-usa.m3u8
+#EXTINF:-1 tvg-name="FXM" group-title="Timst TV" source="judiaslevels.embeds.gay",FXM
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b0b22c20e15e5b428e34e291482360e56cbace208f68ef32fda3007e9e4c9c49/1791615215/fxm-usa.m3u8
+#EXTINF:-1 tvg-name="FXX" group-title="Timst TV" source="judiaslevels.embeds.gay",FXX
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/6c995c7fee7a7ac4125ec9f40be2ca4de37fb88b0256073790203678348e09dc/1791615215/fxx-usa.m3u8
+#EXTINF:-1 tvg-name="HBO Comedy" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO Comedy
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/e0116dd3388c2d1f33d27047052bae4a41d8ada7b78b38454b084f3f4930eba7/1791615215/hbocomedy-usa.m3u8
+#EXTINF:-1 tvg-name="HBO" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/69c8ecded4baae47c83a64bb36d2fa2b6ec11dc35986d69372452d41fc7ac810/1791615215/hbo-usa.m3u8
+#EXTINF:-1 tvg-name="HBO Drama" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO Drama
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f98ecf5863e88230c6012a053b74d5c8bfbd4ce6d17a17457220c581fac0aa46/1791615215/hbodrama-usa.m3u8
+#EXTINF:-1 tvg-name="GOLF Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",GOLF Channel
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/34f831fc7ef9e641d3db4839e49df8c94abd30e0ea2cddde7d179a5e14d9927d/1791615215/golfchannel-usa.m3u8
+#EXTINF:-1 tvg-name="HBO Movies" group-title="Timst TV" source="judiaslevels.embeds.gay",HBO Movies
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f6947fd49159e67a71d45bd9a0bc88bd24c11db02822f0419f14c872ef1be6dd/1791615215/hbomovies-usa.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 3 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 3 Singapore
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/819c6de774b55845a484532ed688e78c016a9eedaf8418f54ba01f8017515822/1791615215/hub-sports-3-sg.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 4 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 4 Singapore
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/015341b69ae316b1abe5f1f98bd41a0fe83f6fa87b48339e3ac9c45acb38dbe1/1791615215/hub-sports-4-sg.m3u8
+#EXTINF:-1 tvg-name="ITV 3 UK" group-title="Timst TV" source="judiaslevels.embeds.gay",ITV 3 UK
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/8503520c91d832a0d3034d916743849a138aca4c39298e2d0e5e211bdeba88e9/1791615215/itv3-uk.m3u8
+#EXTINF:-1 tvg-name="ITV 2 UK" group-title="Timst TV" source="judiaslevels.embeds.gay",ITV 2 UK
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/617f91286e16d52bd0a512a84d9588de1d84dc4eefdd52ce93a909f36852deb5/1791615215/itv2-uk.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 1 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 1 Singapore
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/17be49418209e94daa299c1836315eb606c632474b084269856fcfc41703eb88/1791615215/hub-sports-1-sg.m3u8
+#EXTINF:-1 tvg-name="ITV 4 UK" group-title="Timst TV" source="judiaslevels.embeds.gay",ITV 4 UK
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/058283816c432ef79ac236747efb9591d01d8c43337ae5321b78626cfff1ca13/1791615215/itv4-uk.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 1 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 1 GR
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/5d8c3ac7ec59989184f9d11e5fdbf767d7882edebb99366bf8f1068a736eddda/1791615215/magenta-sport1-gr.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 5 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 5 Singapore
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f7c9211c0349d25224c9d2d4937e7ac61fb66880223f4b23b56e2cf61115faa7/1791615215/hub-sports-5-sg.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 5 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 5 GR
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1ddb702030768f8d2b00fc6046e38223d272027dfcf0e7ad64e1df707b47a281/1791615215/magenta-sport5-gr.m3u8
+#EXTINF:-1 tvg-name="M4 Sport HU" group-title="Timst TV" source="judiaslevels.embeds.gay",M4 Sport HU
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/225535a87ad37e29e6b5b2323a0d316579708212f5123b474381a01e15b886d1/1791615215/m4-sports-hu.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 4 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 4 GR
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c28c83f3ce8c81504c4ca75aedf5467f0692391e24c97883428af8ba41f44fd6/1791615215/magenta-sport4-gr.m3u8
+#EXTINF:-1 tvg-name="Max Sports 1 Bulgaria" group-title="Timst TV" source="judiaslevels.embeds.gay",Max Sports 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a1557bd38567df6009a73f1b0c51616f09c940818baffdf1fb82186cdf0da91b/1791615215/maxsport1bg.m3u8
+#EXTINF:-1 tvg-name="Max Sports 2 Bulgaria" group-title="Timst TV" source="judiaslevels.embeds.gay",Max Sports 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/0ccc6440f0d6c81585271889fdf3a5acd5da28d968e6e47986c057ae8d4ddd4f/1791615215/maxsport2bg.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 6 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 6 GR
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c7090217288b3143b914317f67f3b3ba7c0d8d83878347240d8fecf5ab5a27e3/1791615215/magenta-sport6-gr.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 3 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 3 GR
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/51951c53f94f48028f02e53a8a78f0a86210f8492e667de15745b38e9e218657/1791615215/magenta-sport3-gr.m3u8
+#EXTINF:-1 tvg-name="MotoGP Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",MotoGP Channel
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/9548701d3f31412f9696383c82f43c74bf7105a46a889eeec0d73d66549c22f6/1791615215/motpgp-tv.m3u8
+#EXTINF:-1 tvg-name="MLB Network" group-title="Timst TV" source="judiaslevels.embeds.gay",MLB Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/788b94874f0004fd611c901407eb69ca6ff18ad985f2a575e70727361a2c7d51/1791615215/mlbnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="Magenta Sport 2 GR" group-title="Timst TV" source="judiaslevels.embeds.gay",Magenta Sport 2 GR
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f01811ce692b4e28050323370c53ade63ea586534a15aab234026930ce4f968c/1791615215/magenta-sport2-gr.m3u8
+#EXTINF:-1 tvg-name="ITV 1 UK" group-title="Timst TV" source="judiaslevels.embeds.gay",ITV 1 UK
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/16474cf4f4e693b15b38766965c92b97880a353cb8ac7ad482e2e3be954c50d5/1791615215/itv1-uk.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 2 Singapore" group-title="Timst TV" source="judiaslevels.embeds.gay",Hub Sports 2 Singapore
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c1e7524517603b56a90397420ba4d88cb8229af285ef0eb951e58e9352cca029/1791615215/hub-sports-2-sg.m3u8
+#EXTINF:-1 tvg-name="Movistar Plus" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar Plus
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/de01db67b1eb6492febb8f9c9d7698c92a9dabf1317a0868090a224d2eaa3037/1791615215/movistarplus-es.m3u8
+#EXTINF:-1 tvg-name="Movistar Deportes 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar Deportes 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/502e803cd6ee4c91474ec544af800d0451f0305ff0c369eacd9c56a492edb73c/1791615215/movistardeportes2-es.m3u8
+#EXTINF:-1 tvg-name="Movistar Deportes 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar Deportes 3
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/3a50bf9871b3d71a039df9a66e40f7f460c89ef7afbc06ebce08cb0fd701a237/1791615215/movistardeportes3-es.m3u8
+#EXTINF:-1 tvg-name="NBC" group-title="Timst TV" source="judiaslevels.embeds.gay",NBC
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/07e584abcb524869d64a83dcc2bb26caf8c6c6fc152157e1f58bce0f73a90330/1791615215/nbc-usa.m3u8
+#EXTINF:-1 tvg-name="MS Golf 1 DE" group-title="Timst TV" source="judiaslevels.embeds.gay",MS Golf 1 DE
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b31b6535681f965a947b57ce30e8b19b7953c2b152395d1e93c55efabfe5f238/1791615215/ms-golf1-de.m3u8
+#EXTINF:-1 tvg-name="MTV" group-title="Timst TV" source="judiaslevels.embeds.gay",MTV
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/cd1872edb6997c1d64204aac6e5ab2ab6f75660621aba65a858ea2a916975192/1791615215/mtv-usa.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 2 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 2 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/934172d6e3f8c81901c2bb25f7d72736e9ffbe30965c7b0ae15ef86855710044/1791615215/novasport2-cz.m3u8
+#EXTINF:-1 tvg-name="MS Golf 2 DE" group-title="Timst TV" source="judiaslevels.embeds.gay",MS Golf 2 DE
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/3bd818b3b59aed1a4e1dc9adeaea7c136efc887b64a0e9ad221931bec0e9d720/1791615215/ms-golf2-de.m3u8
+#EXTINF:-1 tvg-name="Movistar Deportes" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar Deportes
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c1002d497d4a99f61bff2ee34a2e37929bb511c364d8ad88cb38f6c6f32ea8f1/1791615215/movistardeportes-es.m3u8
+#EXTINF:-1 tvg-name="NBA TV" group-title="Timst TV" source="judiaslevels.embeds.gay",NBA TV
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/bf3e030105e7a53e3aef991a93e76250b0c3b2dfa7e5934360af5514749ac884/1791615215/nbatv-usa.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Bay Area" group-title="Timst TV" source="judiaslevels.embeds.gay",NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ebf5cc8d9a3070564c135dcec2f8f58b01f9c6116c6dbc1dda96fd7470888914/1791615215/nbc-sports-bayarea.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 3 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 3 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/9a5a1a7b5282272589d5783222337fb1191939bdba0bbd8bff20ebc5e8c6231e/1791615215/novasport3-cz.m3u8
+#EXTINF:-1 tvg-name="Movistar LaLiga" group-title="Timst TV" source="judiaslevels.embeds.gay",Movistar LaLiga
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b73f52d9f27bb70fd59db8ddb43b0caf791f1bb8a8f729ee07a8ad32d1a6638f/1791615215/movistarlaliga-es.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Philadelphia" group-title="Timst TV" source="judiaslevels.embeds.gay",NBC Sports Philadelphia
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/48132b0b9c8fb73d946e1706444957c67c5402d3ff7c0e0e5b320171606ab992/1791615215/nbc-sports-philly.m3u8
+#EXTINF:-1 tvg-name="NFL Network" group-title="Timst TV" source="judiaslevels.embeds.gay",NFL Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/e02bb0407b47709943ab8d537dba85d58b3a36faea6403cbee84524b2a8770d7/1791615215/nflnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="ORF 1 Austria" group-title="Timst TV" source="judiaslevels.embeds.gay",ORF 1 Austria
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/2d43e59ec777bf758b3fb727eab0f12972c2d5ebacb3b4a215e97abeb0875833/1791615215/orf1-at.m3u8
+#EXTINF:-1 tvg-name="NHL Network" group-title="Timst TV" source="judiaslevels.embeds.gay",NHL Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/233a26c80266fbd281fccdc9fd6f824b1b4ce3bf092370c6d64a6e622448c9d9/1791615215/nhlnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="Nick Jr." group-title="Timst TV" source="judiaslevels.embeds.gay",Nick Jr.
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/665cb2ece03b6694b59db656d29624e9f063bd23f7014448c3fc1ac81f4eadda/1791615215/nickjr-usa.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 1 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 1 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/68b0ef1693f7d449e2c037f5328bb7b8dea71fb1c009798aa780649b4c0f2a3d/1791615215/novasport1-cz.m3u8
+#EXTINF:-1 tvg-name="Nicktoons" group-title="Timst TV" source="judiaslevels.embeds.gay",Nicktoons
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a0f94b757b546dca31738550a487a3d20bbff1b8b0480d68924f47d97aa3e8f2/1791615215/nicktoons-usa.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 6 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 6 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/83a4a8656fe9f067564a854c20babd94c7eba2aff034e27c48f420ead4ab72db/1791615215/novasport6-cz.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 5 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 5 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/8997dbe7717473197c3b9a2187465ab731b843ce418bc004232e5193e99dec26/1791615215/novasport5-cz.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 4 CZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Nova Sport 4 CZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a2507ba48174483e997637a2a898e28938efe599b8e91977824929784348367c/1791615215/novasport4-cz.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport 1" group-title="Timst TV" source="judiaslevels.embeds.gay",Polsat Sport 1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/4b2782d080e7d2f1c103ff1c1358fc65ee8a993018a76ce26b9bfd6f21679df4/1791615215/polsatsport1-pl.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Timst TV" source="judiaslevels.embeds.gay",Nickelodeon
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1d8e22edbe5018d11f4ad0593eff039ce0fcfd28bacab2981379735225466441/1791615215/nickelodeon-usa.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Polsat Sport 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/eac10ba30a9ddc18e5b3876f481c7a613f2c09e376873385564cdf4314a6f162/1791615215/polsatsport2-pl.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Polsat Sport 3
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/85bd0633a40be3fc424b440d4c564183c23b983b39d1cb415789e9bcdd90d43a/1791615215/polsatsport3-pl.m3u8
+#EXTINF:-1 tvg-name="Premiere" group-title="Timst TV" source="judiaslevels.embeds.gay",Premiere
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/658b3f32a026bc1fcc82dadd3713d0ccf7d0a6e1e6e2672ccb8d95da9a60244f/1791615215/premiere-br.m3u8
+#EXTINF:-1 tvg-name="Premier Sports 2 IE" group-title="Timst TV" source="judiaslevels.embeds.gay",Premier Sports 2 IE
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/d71c2aa5e17cb8b44c51abfd8e483402df7a40146eea9a51c115559dafaceab4/1791615215/premiersports2-ie.m3u8
+#EXTINF:-1 tvg-name="Showtime" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/15770dc22e3e8f8591107f8a98389759645b504f77e54e6395afbc0b95655ff1/1791615215/showtime-usa.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport Fight" group-title="Timst TV" source="judiaslevels.embeds.gay",Polsat Sport Fight
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/dd2bc86cbd8906a2d7c5b94b84f75bfb6905697f4312910a6f6b638772a564e2/1791615215/polsatsportfight-pl.m3u8
+#EXTINF:-1 tvg-name="Premier Sports 1 IE" group-title="Timst TV" source="judiaslevels.embeds.gay",Premier Sports 1 IE
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a2697037b8119c71505088a5e7ad535d0929dbe97c4718220cd09e237ac0e06f/1791615215/premiersports1-ie.m3u8
+#EXTINF:-1 tvg-name="SEC Network" group-title="Timst TV" source="judiaslevels.embeds.gay",SEC Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/8cd4bbc11208480f2424e65d197576e0761a625df5eea0c753dd8b4595147158/1791615215/secnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="RACER Network" group-title="Timst TV" source="judiaslevels.embeds.gay",RACER Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f52b692211c49d1b7b46a2fb263b943a2d348bab2735be4b36462f6ab528cbb9/1791615215/racernetwork-usa.m3u8
+#EXTINF:-1 tvg-name="Showtime Extreme" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime Extreme
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f4c26c8d6d0758c3d3874eb2f6adcd95d653b2e0be4fe1fa7a77693bd0726ddf/1791615215/showtimeextreme-usa.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 24" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 24
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/7f098852a68ac7972fc1ef46e3e5d6504265459d2033a0bcfdfd6e33e185a7b9/1791615215/skysport24-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b0c96e8b4adafc1821388808a8e585e0264892b5fe5c2964d200837ced7dada6/1791615216/skysport1-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 2 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1dd07ee8dd2c7a2b1f25f721294c66632cec92be5fb8e1497c3a72640b5782d6/1791615216/skysport2-nz.m3u8
+#EXTINF:-1 tvg-name="Showtime Family Zone" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime Family Zone
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1e11ddd2562ca9e0574104bd2ad1e812ee2c9024655b2c59d3a4d48dd45a53c9/1791615216/showtimefamilyzone-usa.m3u8
+#EXTINF:-1 tvg-name="RTL (Germany)" group-title="Timst TV" source="judiaslevels.embeds.gay",RTL (Germany)
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/25e407711f7e52e14af2afa166761188d98904772ecb7019b9a9b03b0a26b5ea/1791615216/rtl-de.m3u8
+#EXTINF:-1 tvg-name="Showtime Women" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime Women
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/5cc89fbd89fc98a328d3f62398f4022db239a30156a184b5c26b6904a932a942/1791615216/showtimewomen-usa.m3u8
+#EXTINF:-1 tvg-name="Showtime 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/0874d50ff85fda94a053f22a4a3ebefb86a3050d432b1712bd9ecc6b1e62ad2e/1791615216/showtime2-usa.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 4 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 4 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/25b9932205c1f6973c05db506002391c46fb5f89032972c1a8974bb60c9f530c/1791615216/skysport4-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 5 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 5 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ee0ed5473d8e536835049841aadcc291254fc56a49a1b833cd05639eeb5e8c23/1791615216/skysport5-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 3 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 3 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/137d95b8276123474071927e0881cd4beb173fa5bb5d69d401d73dc7b63b43f1/1791615216/skysport3-nz.m3u8
+#EXTINF:-1 tvg-name="Showtime Next" group-title="Timst TV" source="judiaslevels.embeds.gay",Showtime Next
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/343e28981a2e475db96b67043e9edaef09e67bf5628dc6d5ef29fd5f5e0bc3fd/1791615216/showtimenext-usa.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Arena IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Arena IT
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/6a3b3a87bc469ca1924a3bdc9b383acce2fbeb62717156415f07642fd3c9f475/1791615216/skysportarena-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 9 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 9 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1917e891749263483dbb4bc3f77d2b56932e34dc656f7f6f08fa08d1cdfab7e7/1791615216/skysport9-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 7 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 7 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/49ebf78c31e60ff3e97c89deb63986416fcb882573fb4c67f6dceea7fefc91d4/1791615216/skysport7-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Tennis IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Tennis IT
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ba639619c4b85a46e1f2b7e4cc4dfb23ebc1da9831e2dbb76e83afb1c24e7c23/1791615216/skysporttennis-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 8 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 8 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/bb3d5f53ee32c56fe451a4b556ad6da4006669426642dae895dacf9559103015/1791615216/skysport8-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport MotoGP IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport MotoGP IT
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a02e30ba7babaa859ff5eeefdb578e2d380de1aeefc80d2cc9ff6b37d4430459/1791615216/skysportmotogp-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sport F1 Italia" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport F1 Italia
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/aacf2e60580566d2fb4824b0a6c91564c3638238fcb36d3c51acbea9a157cde6/1791615216/sky-sport-f1-italia.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 6 NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport 6 NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/6a8291597127f55d3022d1e9b0f88af4d1c37ba71b8af3cfd4f04289a6e3f251/1791615216/skysport6-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Calcio IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Calcio IT
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/88332a8c8477045fa13ada9589eef60276b81452212ec0e3e7cfca1fa10cb466/1791615216/skysportcalcio-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Bundesliga
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/7b0e4a5f8c2aae0f4597de1635cedb9e5342f167bb7e9297ea867195aa36b729/1791615216/skysportbundesliga-de.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Max IT" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Max IT
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/32f94764c00a6c163f90ba239b6162fe2c555ddcf5554338a109c7e7acb81d05/1791615216/skysportmax-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sports+" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports+
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/16e2db806cd53836e904188106eee91feadf50942dc13aef5a404a43ffc4399c/1791615216/skysportsplus-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Action" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Action
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/08283cb91725f8117b9c87141446117923bc921b4ac1f402b8b72f1c4af8a9fd/1791615216/skysportsaction-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Select NZ" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Select NZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/91b3c6c02d8c69e337d7298aed09b4e81944c01dc350f45013f747a4a4ff6ea5/1791615216/skysportselect-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f20036fa567bc4d552077843a09f1a21ba2c59486e78bbd8250478f5ee80538c/1791615216/skysportf1-de.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Uno" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sport Uno
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/73ac64c5288c28033e0caf946365c00825e616ee69c13fa78df98d8aebb886f7/1791615216/skysportuno-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports News
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b6041be3f630e25d1328a308add0fda40a82b72ef85d36636d32d5cfdaf74b8f/1791615216/skysportsnews-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/203573d4afa6e66d80eb9c0c22c7f277795f5756f947557b783372ec41b47531/1791615216/skysportscricket-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Main Event" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b02f7951e0d90ee06000bc194c92af2a92759ee20d23bee1cfd385f9e8177bcd/1791615216/skysportsmainevent-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Main Event" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/0a765f4972a999558db3257fdd05479ef919e1d267e286cfef350a649d282a79/1791615216/skysportsmaineventuhd-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Football" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/f804b87675f7b6b2cdb965e8570cdcfc97ab90a7e4ce8fc4e4fa3dae02a2a7b5/1791615216/skysportsfootball-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Tennis" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/bc3632c2c10dea446f324a60878c985c9bd96dc1e2dde46d351ed43f9da40529/1791615216/skysportstennis-uk.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Network 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/48a5e816707a81487afb0892aeb575c7ed6daab63d4c9613496019a56e0e1e39/1791615216/sonysportsnetwork2-in.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b9c140abf1941eb6ddb38ee1429f7f80061f35e094bad06d672d30ba6555935c/1791615216/skysportf1-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/fbc6dcdba0a721d439cabab28661a32cad2036711c3a3e1851adff41f754d157/1791615216/skysportsf1-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c085ecf053639bf3f65f0effb5cb3fb437d638093e3bf00b818d2c2b70468f51/1791615216/skysportsf1uhd-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Golf" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/0cb65d5028bac664c0e0c4432568af0eaa9aa1bc17033602023dbef1358d17e4/1791615216/skysportsgolf-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Premier League" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/05dcc9e63a5735cd93abfb8abf338002523738ce922dcece254e2d1d67254190/1791615216/skysportspremierleague-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Racing" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Racing
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/80ca649fdc892d5ed1d9b47d93b3b126da824bc30d55a2ac27f56e06c1e1139f/1791615216/skysportsracing-uk.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Network" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/10b2ec15d1316190fee2b26b8269a8dd2fe087b09afc41f7cd37fbbbf1a92f25/1791615216/sonysportsnetwork-in.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Network 3" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network 3
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/4a78b6b59fd0b3074fa179b6bd8fe3a587c962f5c90b0b8739d3f18baa649315/1791615216/sonysportsnetwork3-in.m3u8
+#EXTINF:-1 tvg-name="SPORTDIGITAL FUSSBALL" group-title="Timst TV" source="judiaslevels.embeds.gay",SPORTDIGITAL FUSSBALL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/568dfb6f5698615049ab7b86089fe17e16f2295689469004093b647118604c70/1791615216/sportdigitalfussball-de.m3u8
+#EXTINF:-1 tvg-name="Sport TV5" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV5
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/eda887a92bbe27b809e9dbc995ab7ab6f0beab96aba0e5590db18609e6ee3820/1791615216/sporttv5-pt.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Network 5" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network 5
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/323d41bc219eec4ae9ca4541f105818acd4dea93a0d5dfd91b7ed38e1e2b2336/1791615216/sonysportsnetwork5-in.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Network 4" group-title="Timst TV" source="judiaslevels.embeds.gay",Sony Sports Network 4
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/cf13a464c4aeff0e2b95523eb6b7142cdba540847850278287381e944f538c34/1791615216/sonysportsnetwork4-in.m3u8
+#EXTINF:-1 tvg-name="STARZ Kids and Family" group-title="Timst TV" source="judiaslevels.embeds.gay",STARZ Kids and Family
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/da09058e1255305b4437cb3bf6fc3f998b34034554d2e2a00813ad24f2a5d7e4/1791615216/starzkidsfamily-usa.m3u8
+#EXTINF:-1 tvg-name="STARZ Cinema" group-title="Timst TV" source="judiaslevels.embeds.gay",STARZ Cinema
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/6b5f45f72c398db47c69ab0102dd1b0c0b0eb9058946d96484002691ed84b62a/1791615216/starzcinema-usa.m3u8
+#EXTINF:-1 tvg-name="Sport TV2" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/d967cfa28ae1c89efacad57598be3fabe163e8c2100fe58497448e9569d78aec/1791615216/sporttv2-pt.m3u8
+#EXTINF:-1 tvg-name="Sport TV3" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV3
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/3d17cbb0b38f163a428bdc2eeff2050c39efcb8c670abda6c8a32b6a8c99ef65/1791615216/sporttv3-pt.m3u8
+#EXTINF:-1 tvg-name="Sport TV4" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV4
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/7f670b43135df68f610619df01f8f22018c336fef7091999522e35dd1184d2eb/1791615216/sporttv4-pt.m3u8
+#EXTINF:-1 tvg-name="STARZ Comedy" group-title="Timst TV" source="judiaslevels.embeds.gay",STARZ Comedy
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/3c33fa329c9010a2183c98f6b03f23129c093f23c30a5d2023be1a96fcac4827/1791615216/starzcomedy-usa.m3u8
+#EXTINF:-1 tvg-name="Sport TV1" group-title="Timst TV" source="judiaslevels.embeds.gay",Sport TV1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ee57e41ae241fab8334edbb2c6a7c878c1ea7a638b247e225e982906ced00a66/1791615216/sporttv1-pt.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 2" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/84124d3e044166598aae5f0807f496c086233682e86bf3836837ee7d8ad1d04f/1791615216/tntsports2-uk.m3u8
+#EXTINF:-1 tvg-name="Teenick" group-title="Timst TV" source="judiaslevels.embeds.gay",Teenick
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/e78c9e6c494c73bdea582c68692cd50b6c0a883dee5fe5078f06d63d5737d860/1791615216/teenick-usa.m3u8
+#EXTINF:-1 tvg-name="SYFY" group-title="Timst TV" source="judiaslevels.embeds.gay",SYFY
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a563d4c6eb8229bf356ca4e95ecd81e476a45964f653ae388d7ea789b6a1014f/1791615216/syfy-usa.m3u8
+#EXTINF:-1 tvg-name="STARZ" group-title="Timst TV" source="judiaslevels.embeds.gay",STARZ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/9c8e99ee89c6f1650974c665a5b2bc1898fecf674d27b1e6a458eaabad08078c/1791615216/starz-usa.m3u8
+#EXTINF:-1 tvg-name="Telemundo" group-title="Timst TV" source="judiaslevels.embeds.gay",Telemundo
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/7800c4b40abff2ca6400657b8199e87ccd2088eac8e6477128fd3a7adb4bc559/1791615216/telemundo-usa.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 4
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/2a286264ecef5b5ff3e6e9a4225dc07f507b6fddd60250d1fa6c1d9b6ede7001/1791615216/tntsports4-uk.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",Tennis Channel
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/970ad7c1cc4c3f6376f71265f6f45607c98bddecee5d0fe6cc16b4462ab12134/1791615216/tennischannel-usa.m3u8
+#EXTINF:-1 tvg-name="TBS" group-title="Timst TV" source="judiaslevels.embeds.gay",TBS
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/2f86272cf3770c1993c364956724047b9e106581c6f4309e7f821826b2a73fb7/1791615216/tbs-usa.m3u8
+#EXTINF:-1 tvg-name="TNT" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/89877eba74b639aef70a4d39d2a79c57c881c4dd32f91c6a67d0794917660e43/1791615216/tnt-usa.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 1 AL" group-title="Timst TV" source="judiaslevels.embeds.gay",Tring Sport 1 AL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/c7795bbcfb223bbac7d279d38a81ff8761a71c917a55855cb6c2b01606f3aec2/1791615216/tring-sport-1-al.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Mix" group-title="Timst TV" source="judiaslevels.embeds.gay",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/4984dc5463b15a6435025787a9f7b0148e35b7418bb834d37b0217111a738f97/1791615216/skysportsmix-uk.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/39a437ba532424397f14163f439a7bbb201637ed5fd6c4662635ea4fef0f0d19/1791615216/tntsports1-uk.m3u8
+#EXTINF:-1 tvg-name="The Weather Channel" group-title="Timst TV" source="judiaslevels.embeds.gay",The Weather Channel
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b05b072184ac7c215781194f6c954451ae8cf3617feee207e1ad6ddc426dbfa9/1791615216/twc-usa.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/2dff7e81e4b43a6375a0e711c561660e6da237b31bf996e0649560ca7a0cf04e/1791615216/tntsportsultimate-uk.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 2 AL" group-title="Timst TV" source="judiaslevels.embeds.gay",Tring Sport 2 AL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1c4b2f76d8665f23aecde5444d205f74ecdfa11410707a977573fe03a1c7ea07/1791615216/tring-sport-2-al.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 3" group-title="Timst TV" source="judiaslevels.embeds.gay",TNT Sports 3
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/215af6c73dc1373f728b1ae84e47ad50208a587ddc89b275b973f6198e6ee04d/1791615216/tntsports3-uk.m3u8
+#EXTINF:-1 tvg-name="TSN1" group-title="Timst TV" source="judiaslevels.embeds.gay",TSN1
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a0419567842ef0338ab0dd581593d58788503bd3f71288ddc6c28ed8c236e0fa/1791615216/tsn1-ca.m3u8
+#EXTINF:-1 tvg-name="TruTV" group-title="Timst TV" source="judiaslevels.embeds.gay",TruTV
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1e6f0b2a39c8e72e9a36eb9fad409e3154051ed04fc4db6e86f48b8ebc1e9250/1791615216/trutv-usa.m3u8
+#EXTINF:-1 tvg-name="TUDN" group-title="Timst TV" source="judiaslevels.embeds.gay",TUDN
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/86380b9bdff898d100188bd45906c8ff406e3039677f61262db461051395eb7a/1791615216/tudn-usa.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 4 AL" group-title="Timst TV" source="judiaslevels.embeds.gay",Tring Sport 4 AL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/a285393ceb128454a4fe43b2d000ad4e2b8f5b890dac71fed84694542363e2b4/1791615216/tring-sport-4-al.m3u8
+#EXTINF:-1 tvg-name="Tring Sport 5 AL" group-title="Timst TV" source="judiaslevels.embeds.gay",Tring Sport 5 AL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b60ba8016fd62e33c63e379873828da6782173b28452e11884c55b31932a40bc/1791615216/tring-sport-5-al.m3u8
+#EXTINF:-1 tvg-name="TV Klan Albania" group-title="Timst TV" source="judiaslevels.embeds.gay",TV Klan Albania
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/712458229749856b0d82fd4565875e6b921415bf52852f967208b881e6f38978/1791615216/tv-klan-al.m3u8
+#EXTINF:-1 tvg-name="TYC Sports Internacional" group-title="Timst TV" source="judiaslevels.embeds.gay",TYC Sports Internacional
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/84e04f336d8cfa825af2bc4903fdb6a3483d9d329fda835e025d970643907b7e/1791615216/tycsports-usa.m3u8
+#EXTINF:-1 tvg-name="UFC Fight Pass 24/7" group-title="Timst TV" source="judiaslevels.embeds.gay",UFC Fight Pass 24/7
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/6950b3a337a1784cc62ac4089e184821a92d3d669860557a248f412a6b6b0559/1791615216/ufc-fight-pass.m3u8
+#EXTINF:-1 tvg-name="USA Network" group-title="Timst TV" source="judiaslevels.embeds.gay",USA Network
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/7c3cbbab276f1a0fa1346c75ccfd923a02cb01281d2b1cf7be712a18f87eb1f4/1791615216/usanetwork-usa.m3u8
+#EXTINF:-1 tvg-name="Willow Cricket 2" group-title="Timst TV" source="judiaslevels.embeds.gay",Willow Cricket 2
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/98d977ce882955b1d90171bb558dbc2e5a34faac6ae2961b9f47726ba4e85c5e/1791615216/willow2-usa.m3u8
+#EXTINF:-1 tvg-name="Unite8 Sports 1 / ZEE CAFÉ" group-title="Timst TV" source="judiaslevels.embeds.gay",Unite8 Sports 1 / ZEE CAFÉ
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/931d2fa8b39f8c80b14e1bcbfb06ca9ef37b18a044faf2e437f5a11962ba9e03/1791615216/unite8-sports-in.m3u8
+#EXTINF:-1 tvg-name="Willow Cricket" group-title="Timst TV" source="judiaslevels.embeds.gay",Willow Cricket
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/cd0e4a2a1fde614ad2916247707c31aa6f9be1343abac29d9b37832e793a2d24/1791615216/willow-usa.m3u8
+#EXTINF:-1 tvg-name="WAPA America" group-title="Timst TV" source="judiaslevels.embeds.gay",WAPA America
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/cd3d7d57928f7b65e3ef51f019eff5d8ab3cc137bc7df08c5e6a30a275166269/1791615216/wapaamerica-usa.m3u8
+#EXTINF:-1 tvg-name="Ziggo Sport 3 NL" group-title="Timst TV" source="judiaslevels.embeds.gay",Ziggo Sport 3 NL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/54675bbf0e73046a61e41ac7b47223cc62df9f598d662c82cbd867234c833f17/1791615216/ziggo-sport-3-nl.m3u8
+#EXTINF:-1 tvg-name="Canadian Super DIRT Weekend at Cornwall Motor Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Canadian Super DIRT Weekend at Cornwall Motor Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/b29df59bf9183b3afa02fcb4c0109a865dd0084d5604a72cb0238547a67af5f7/1791615216/flo-392902.m3u8
+#EXTINF:-1 tvg-name="WAPA Deportes" group-title="Timst TV" source="judiaslevels.embeds.gay",WAPA Deportes
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1a85922365915aff26e817ff89ec9274297458b4cf64a16020ebb2c4e259ca82/1791615216/wapadeportes-usa.m3u8
+#EXTINF:-1 tvg-name="10.9.26 | Oswego Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",10.9.26 | Oswego Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ffcdd2d02c0ae9b3e61fa9126a7997d90fd64ccec1d038bb65d86d04a01c6d89/1791615216/dirtvision-10-9-26-oswego-speedway.m3u8
+#EXTINF:-1 tvg-name="Ziggo Sport 1 NL" group-title="Timst TV" source="judiaslevels.embeds.gay",Ziggo Sport 1 NL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/0026e377bf16b7d03ec31dd7cee846a97496e30bd2a3526c863bcf33893fb170/1791615216/ziggo-sport-1-nl.m3u8
+#EXTINF:-1 tvg-name="SMART Modified Tour at Tri-County Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",SMART Modified Tour at Tri-County Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/730196a8e12b6c41d750d2b1a1722a213f2bdaec709754e8b47b4cb2366da410/1791615216/flo-344227.m3u8
+#EXTINF:-1 tvg-name="Ziggo Sport 2 NL" group-title="Timst TV" source="judiaslevels.embeds.gay",Ziggo Sport 2 NL
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/1bedd6a2ddc5b27e692c98a16e4d2ba5daf9536400ab3c0194412d471b41d3cf/1791615216/ziggo-sport-2-nl.m3u8
+#EXTINF:-1 tvg-name="Rod Wittkopf Memorial at 141 Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Rod Wittkopf Memorial at 141 Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/aaf9dc27bf1c623f3d78c1569c4111bd50aa884053be847afdfa31822251a84f/1791615216/flo-318044.m3u8
+#EXTINF:-1 tvg-name="Lucas Oil Late Model Dirt Series at Eldora Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Lucas Oil Late Model Dirt Series at Eldora Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/d2aaaa0b122e4a10337662a58de92e92d3bc6ab6a3c0ca8a449d6602b37ffcd7/1791615216/flo-318913.m3u8
+#EXTINF:-1 tvg-name="Iowa State Cyclones @ BYU Cougars" group-title="Timst TV" source="judiaslevels.embeds.gay",Iowa State Cyclones @ BYU Cougars
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/bb5ab193e5375eae0156b8d36a282305892cb5a58f82ae9b76dcc2b3be29e579/1791615216/espn-usa.m3u8
+#EXTINF:-1 tvg-name="USAC AMSOIL National Sprint Cars at Lawrenceburg Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",USAC AMSOIL National Sprint Cars at Lawrenceburg Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/aa312565b4ce6e024183ac10481d643cbdffe1fc3c4691c80a11dc2f7f0f4439/1791615216/flo-337892.m3u8
+#EXTINF:-1 tvg-name="Lucas Oil Late Model Dirt Series at Eldora Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Lucas Oil Late Model Dirt Series at Eldora Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/d474f43ef6dbbe24ffb1da4681a28b65d7e6cb9d5be6214fe4d8311b479da61c/1791615216/flo-393966.m3u8
+#EXTINF:-1 tvg-name="HLR Heartland of America Showdown at Lakeside Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",HLR Heartland of America Showdown at Lakeside Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/3323915f5832fc8286e024b58a943c08cb0bb3960851545c15078cd16edf1544/1791615216/flo-316446.m3u8
+#EXTINF:-1 tvg-name="Wyoming Cowboys @ San José State Spartans" group-title="Timst TV" source="judiaslevels.embeds.gay",Wyoming Cowboys @ San José State Spartans
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/79019f79bed253c9d70ea8a115e868d60acd5b86f89fdd0c3d4bb41dc07fe8d4/1791615216/cbssn-usa.m3u8
+#EXTINF:-1 tvg-name="Big Buck 50 &amp; Fall Nationals at Lucas Oil Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",Big Buck 50 &amp; Fall Nationals at Lucas Oil Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/988d48edaa3875efcd1a65f98171ed3b3ff9221bd80f0bcfad0843e688379d38/1791615216/flo-324390.m3u8
+#EXTINF:-1 tvg-name="STSS SuperNationals at Afton Motorsports Park" group-title="Timst TV" source="judiaslevels.embeds.gay",STSS SuperNationals at Afton Motorsports Park
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/52b19676fdfa8c3eed00ab3c91f9ad3f1df5f32b892277e799337733b5447061/1791615216/flo-345397.m3u8
+#EXTINF:-1 tvg-name="NASCAR Weekly Racing at Hickory Motor Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",NASCAR Weekly Racing at Hickory Motor Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/ffdb705961321ee82621a7aa7bbd9fd33b61076efea059040f670e58b7227c3f/1791615216/flo-356179.m3u8
+#EXTINF:-1 tvg-name="10.9.26 | Mansfield Speedway" group-title="Timst TV" source="judiaslevels.embeds.gay",10.9.26 | Mansfield Speedway
+#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://judiaslevels.embeds.gay/main/secure/06c1cb89da7f32630f3221c6cd79a4b9e7f059526e6dec5e8e267157745493e2/1791615216/dirtvision-10-9-26-mansfield-speedway.m3u8
