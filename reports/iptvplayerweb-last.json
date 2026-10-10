@@ -166,7 +166,7 @@
     {
       "i": 15,
       "tag": "BUTTON",
-      "text": "AXAXS TVTimst TV",
+      "text": "ABABCTimst TV",
       "aria": "",
       "href": ""
     },
@@ -180,7 +180,7 @@
     {
       "i": 17,
       "tag": "BUTTON",
-      "text": "ABABCTimst TV",
+      "text": "ACACC NetworkTimst TV",
       "aria": "",
       "href": ""
     },
@@ -194,7 +194,7 @@
     {
       "i": 19,
       "tag": "BUTTON",
-      "text": "BHBHT 1 BosniaTimst TV",
+      "text": "BEbeIN Sports Francais 1Timst TV",
       "aria": "",
       "href": ""
     },
@@ -208,7 +208,7 @@
     {
       "i": 21,
       "tag": "BUTTON",
-      "text": "BBBBC TwoTimst TV",
+      "text": "AMAmerican Heroes ChannelTimst TV",
       "aria": "",
       "href": ""
     },
@@ -222,7 +222,7 @@
     {
       "i": 23,
       "tag": "BUTTON",
-      "text": "ACACC NetworkTimst TV",
+      "text": "BEbeIN SportsTimst TV",
       "aria": "",
       "href": ""
     },
@@ -236,7 +236,7 @@
     {
       "i": 25,
       "tag": "BUTTON",
-      "text": "BEbeIN SportsTimst TV",
+      "text": "BBBBC One LondonTimst TV",
       "aria": "",
       "href": ""
     },
@@ -250,7 +250,7 @@
     {
       "i": 27,
       "tag": "BUTTON",
-      "text": "BEbeIN Sports Francais 1Timst TV",
+      "text": "BBBBC TwoTimst TV",
       "aria": "",
       "href": ""
     },
@@ -264,7 +264,7 @@
     {
       "i": 29,
       "tag": "BUTTON",
-      "text": "BEbeIN Sports Francais 3Timst TV",
+      "text": "AEAETimst TV",
       "aria": "",
       "href": ""
     },
@@ -278,7 +278,7 @@
     {
       "i": 31,
       "tag": "BUTTON",
-      "text": "AMAmerican Heroes ChannelTimst TV",
+      "text": "BBBBC AmericaTimst TV",
       "aria": "",
       "href": ""
     },
@@ -292,7 +292,7 @@
     {
       "i": 33,
       "tag": "BUTTON",
-      "text": "BIBig Ten NetworkTimst TV",
+      "text": "ARARENA SPORT 1 BiHTimst TV",
       "aria": "",
       "href": ""
     },
@@ -306,7 +306,7 @@
     {
       "i": 35,
       "tag": "BUTTON",
-      "text": "AEAETimst TV",
+      "text": "BEbeIN Sports Francais 2Timst TV",
       "aria": "",
       "href": ""
     },
@@ -334,7 +334,7 @@
     {
       "i": 39,
       "tag": "BUTTON",
-      "text": "AMAMCTimst TV",
+      "text": "BHBHT 1 BosniaTimst TV",
       "aria": "",
       "href": ""
     }
