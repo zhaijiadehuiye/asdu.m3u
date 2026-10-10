@@ -87,6 +87,8 @@ jobs:
             const browser = await chromium.launch({headless: true});
             const page = await browser.newPage({userAgent: 'Mozilla/5.0'});
             const media = [];
+            const failures = [];
+            const consoleErrors = [];
             page.on('response', response => {
               const type = response.headers()['content-type'] || '';
               const url = response.url();
@@ -96,6 +98,17 @@ jobs:
                   media.push(`${response.status()} ${parsed.hostname} ${type.split(';', 1)[0] || 'unknown'}`);
                 } catch {}
               }
+            });
+            page.on('requestfailed', request => {
+              try {
+                const parsed = new URL(request.url());
+                if (/m3u8|mpegurl|video|audio|embeds/i.test(request.url())) {
+                  failures.push(`${parsed.hostname} ${request.failure()?.errorText || 'request failed'}`);
+                }
+              } catch {}
+            });
+            page.on('console', message => {
+              if (message.type() === 'error') consoleErrors.push(message.text().slice(0, 300));
             });
             await page.goto('https://www.iptvplayerweb.com/', {waitUntil: 'domcontentloaded', timeout: 45000});
             await page.waitForTimeout(3000);
@@ -159,9 +172,17 @@ jobs:
               }
             }
             if (clickedChannel) await page.waitForTimeout(15000);
+            const videoState = await page.locator('video').evaluateAll(nodes => nodes.map(node => ({
+              readyState: node.readyState,
+              networkState: node.networkState,
+              currentSrc: node.currentSrc ? new URL(node.currentSrc, location.href).protocol : '',
+              error: node.error ? node.error.code : null
+            }))).catch(() => []);
             console.log('playlist submitted=' + filled);
             console.log('channel clicked=' + clickedChannel);
             console.log('media responses=' + JSON.stringify(media.slice(0, 20)));
+            console.log('request failures=' + JSON.stringify(failures.slice(0, 20)));
+            console.log('video state=' + JSON.stringify(videoState));
             fs.writeFileSync(process.env.RUNNER_TEMP + '/iptv-probe-result.json', JSON.stringify({
               title: await page.title(),
               url: page.url(),
@@ -169,7 +190,10 @@ jobs:
               postControls: postControls.slice(0, 40),
               playlistSubmitted: filled,
               channelClicked: clickedChannel,
-              mediaResponses: media.slice(0, 20)
+              mediaResponses: media.slice(0, 20),
+              requestFailures: failures.slice(0, 20),
+              consoleErrors: consoleErrors.slice(0, 20),
+              videoState
             }, null, 2));
             if (!filled || !clickedChannel || media.length === 0) process.exitCode = 2;
             await browser.close();
