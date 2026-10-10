@@ -1,1 +1,357 @@
-{"error":"probe did not produce a report"}
+{
+  "title": "IPTV Player Online — Play M3U, M3U8 & Xtream in Your Browser",
+  "url": "https://www.iptvplayerweb.com/",
+  "controls": [
+    {
+      "i": 0,
+      "tag": "INPUT",
+      "type": "url",
+      "name": "",
+      "id": "",
+      "placeholder": "Paste an M3U / M3U8 link or a stream URL",
+      "text": ""
+    },
+    {
+      "i": 1,
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": "Open"
+    },
+    {
+      "i": 2,
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": "Upload"
+    },
+    {
+      "i": 3,
+      "tag": "INPUT",
+      "type": "file",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": ""
+    },
+    {
+      "i": 4,
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": "Try demo channels"
+    },
+    {
+      "i": 5,
+      "tag": "INPUT",
+      "type": "file",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": ""
+    }
+  ],
+  "postControls": [
+    {
+      "i": 0,
+      "tag": "A",
+      "text": "▶IPTV Player Web",
+      "aria": "",
+      "href": "/"
+    },
+    {
+      "i": 1,
+      "tag": "A",
+      "text": "Channels",
+      "aria": "",
+      "href": "/channels"
+    },
+    {
+      "i": 2,
+      "tag": "A",
+      "text": "Best",
+      "aria": "",
+      "href": "/best"
+    },
+    {
+      "i": 3,
+      "tag": "A",
+      "text": "Tools",
+      "aria": "",
+      "href": "/tools"
+    },
+    {
+      "i": 4,
+      "tag": "A",
+      "text": "Devices",
+      "aria": "",
+      "href": "/for"
+    },
+    {
+      "i": 5,
+      "tag": "A",
+      "text": "Apps",
+      "aria": "",
+      "href": "/apps"
+    },
+    {
+      "i": 6,
+      "tag": "A",
+      "text": "Guides",
+      "aria": "",
+      "href": "/guides"
+    },
+    {
+      "i": 7,
+      "tag": "A",
+      "text": "Pro",
+      "aria": "",
+      "href": "/desktop-app"
+    },
+    {
+      "i": 8,
+      "tag": "BUTTON",
+      "text": "Open",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 9,
+      "tag": "BUTTON",
+      "text": "Upload",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 10,
+      "tag": "BUTTON",
+      "text": "Try demo channels",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 11,
+      "tag": "BUTTON",
+      "text": "↻ raw.githubusercontent.com",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 12,
+      "tag": "BUTTON",
+      "text": "+ Add TV guide",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 13,
+      "tag": "BUTTON",
+      "text": "✕",
+      "aria": "Close playlist",
+      "href": ""
+    },
+    {
+      "i": 14,
+      "tag": "BUTTON",
+      "text": "★ Favorites",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 15,
+      "tag": "BUTTON",
+      "text": "AXAXS TVTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 16,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 17,
+      "tag": "BUTTON",
+      "text": "ABABCTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 18,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 19,
+      "tag": "BUTTON",
+      "text": "BHBHT 1 BosniaTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 20,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 21,
+      "tag": "BUTTON",
+      "text": "BBBBC TwoTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 22,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 23,
+      "tag": "BUTTON",
+      "text": "ACACC NetworkTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 24,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 25,
+      "tag": "BUTTON",
+      "text": "BEbeIN SportsTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 26,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 27,
+      "tag": "BUTTON",
+      "text": "BEbeIN Sports Francais 1Timst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 28,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 29,
+      "tag": "BUTTON",
+      "text": "BEbeIN Sports Francais 3Timst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 30,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 31,
+      "tag": "BUTTON",
+      "text": "AMAmerican Heroes ChannelTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 32,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 33,
+      "tag": "BUTTON",
+      "text": "BIBig Ten NetworkTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 34,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 35,
+      "tag": "BUTTON",
+      "text": "AEAETimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 36,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 37,
+      "tag": "BUTTON",
+      "text": "ANAnimal PlanetTimst TV",
+      "aria": "",
+      "href": ""
+    },
+    {
+      "i": 38,
+      "tag": "BUTTON",
+      "text": "★",
+      "aria": "Add favorite",
+      "href": ""
+    },
+    {
+      "i": 39,
+      "tag": "BUTTON",
+      "text": "AMAMCTimst TV",
+      "aria": "",
+      "href": ""
+    }
+  ],
+  "playlistSubmitted": true,
+  "channelClicked": true,
+  "manifestStatus": "",
+  "ffprobeExitCode": "",
+  "mediaResponses": [],
+  "requestFailures": [],
+  "consoleErrors": [],
+  "videoState": [
+    {
+      "readyState": 0,
+      "networkState": 0,
+      "currentSrc": "",
+      "error": null
+    }
+  ]
+}
