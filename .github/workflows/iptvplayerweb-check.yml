@@ -1,0 +1,124 @@
+name: Check Timst playlist in IPTVPlayerWeb
+
+on:
+  workflow_dispatch:
+    inputs:
+      playlist_url:
+        description: Public M3U URL to load in IPTVPlayerWeb
+        required: true
+        default: https://raw.githubusercontent.com/zhaijiadehuiye/asdu.m3u/timst-live-tv/generated/timst.m3u
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      PLAYLIST_URL: ${{ inputs.playlist_url }}
+    steps:
+      - name: Install browser probe
+        run: |
+          mkdir -p "$RUNNER_TEMP/iptv-probe"
+          npm install --prefix "$RUNNER_TEMP/iptv-probe" --no-save playwright@1.52.0
+          "$RUNNER_TEMP/iptv-probe/node_modules/.bin/playwright" install chromium
+
+      - name: Probe playlist and IPTVPlayerWeb
+        run: |
+          python3 - <<'PY'
+          import os
+          import re
+          import urllib.request
+
+          url = os.environ["PLAYLIST_URL"]
+          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+          text = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+          entries = len(re.findall(r"^#EXTINF", text, re.M))
+          streams = re.findall(r"^https?://[^\s]+", text, re.M)
+          if not entries or not streams:
+              raise SystemExit("playlist has no EXTINF/HTTP entries")
+          referrer = ""
+          lines = text.splitlines()
+          for i, line in enumerate(lines):
+              if line.startswith("#EXTVLCOPT:http-referrer="):
+                  referrer = line.split("=", 1)[1].strip()
+              if line.startswith("http"):
+                  break
+          with open(os.environ["RUNNER_TEMP"] + "/playlist.env", "w") as f:
+              f.write("STREAM_URL=" + streams[0] + "\n")
+              f.write("STREAM_REFERRER=" + referrer + "\n")
+          print(f"playlist entries={entries}, stream candidates={len(streams)}")
+          PY
+          cat "$RUNNER_TEMP/playlist.env" >> "$GITHUB_ENV"
+          echo "Testing one HLS manifest from the generated playlist"
+          ffprobe -v error -rw_timeout 15000000 -user_agent "Mozilla/5.0" \
+            -headers "Referer: ${STREAM_REFERRER}\r\n" \
+            -show_entries stream=codec_type -of default=nw=1 "$STREAM_URL" >/tmp/ffprobe.out
+          test -s /tmp/ffprobe.out
+          echo "HLS manifest accepted by ffprobe"
+
+          cat > "$RUNNER_TEMP/iptv-probe/check.js" <<'NODE'
+          const { chromium } = require(process.env.RUNNER_TEMP + '/iptv-probe/node_modules/playwright');
+
+          (async () => {
+            const browser = await chromium.launch({headless: true});
+            const page = await browser.newPage({userAgent: 'Mozilla/5.0'});
+            const media = [];
+            page.on('response', response => {
+              const type = response.headers()['content-type'] || '';
+              const url = response.url();
+              if (/m3u8|mpegurl|video|audio/i.test(type + url)) {
+                try {
+                  const parsed = new URL(url);
+                  media.push(`${response.status()} ${parsed.hostname} ${type.split(';', 1)[0] || 'unknown'}`);
+                } catch {}
+              }
+            });
+            await page.goto('https://www.iptvplayerweb.com/', {waitUntil: 'domcontentloaded', timeout: 45000});
+            await page.waitForTimeout(3000);
+            console.log('page title=' + await page.title());
+            console.log('page url=' + page.url());
+            const fields = await page.locator('input,textarea,select,button').evaluateAll(nodes => nodes.map((node, i) => ({
+              i,
+              tag: node.tagName,
+              type: node.getAttribute('type') || '',
+              name: node.getAttribute('name') || '',
+              id: node.id || '',
+              placeholder: node.getAttribute('placeholder') || '',
+              text: (node.textContent || '').trim().slice(0, 80)
+            })));
+            console.log('controls=' + JSON.stringify(fields));
+            const target = process.env.PLAYLIST_URL;
+            const input = page.locator('input,textarea').filter({hasNot: page.locator('[type="password"]')});
+            const count = await input.count();
+            let filled = false;
+            for (let i = 0; i < count; i++) {
+              const el = input.nth(i);
+              const meta = await el.evaluate(node => ((node.name || '') + ' ' + (node.id || '') + ' ' + (node.placeholder || '') + ' ' + (node.type || '')).toLowerCase());
+              if (/m3u|playlist|url|link|source|file/.test(meta) || count === 1) {
+                await el.fill(target);
+                filled = true;
+                break;
+              }
+            }
+            if (filled) {
+              const buttons = page.locator('button, input[type="submit"], [role="button"]');
+              const bc = await buttons.count();
+              for (let i = 0; i < bc; i++) {
+                const b = buttons.nth(i);
+                const label = await b.evaluate(node => ((node.textContent || '') + ' ' + (node.getAttribute('aria-label') || '') + ' ' + (node.getAttribute('title') || '')).toLowerCase());
+                if (/load|open|import|play|start|submit|add/.test(label) || bc === 1) {
+                  await b.click().catch(() => {});
+                  break;
+                }
+              }
+              await page.waitForTimeout(15000);
+            }
+            console.log('playlist submitted=' + filled);
+            console.log('media responses=' + JSON.stringify(media.slice(0, 20)));
+            if (!filled) process.exitCode = 2;
+            await browser.close();
+          })().catch(error => { console.error(error.stack || error); process.exitCode = 1; });
+          NODE
+          node "$RUNNER_TEMP/iptv-probe/check.js"
