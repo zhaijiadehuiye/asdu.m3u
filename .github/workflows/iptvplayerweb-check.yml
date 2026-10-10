@@ -137,16 +137,39 @@ jobs:
               }
               await page.waitForTimeout(15000);
             }
+            const postControls = await page.locator('button,a,[role="button"]').evaluateAll(nodes => nodes.map((node, i) => ({
+              i,
+              tag: node.tagName,
+              text: (node.textContent || '').trim().replace(/\s+/g, ' ').slice(0, 100),
+              aria: node.getAttribute('aria-label') || '',
+              href: node.tagName === 'A' ? (node.getAttribute('href') || '') : ''
+            })).filter(item => item.text || item.aria));
+            console.log('post controls=' + JSON.stringify(postControls.slice(0, 40)));
+            let clickedChannel = false;
+            const knownControls = /^(open|upload|try demo channels|play|pause|close|settings|menu)$/i;
+            for (const item of postControls) {
+              if (!item.text || knownControls.test(item.text) || /github|privacy|terms|donate/i.test(item.text)) continue;
+              const candidate = page.locator('button,a,[role="button"]').nth(item.i);
+              if (await candidate.isVisible().catch(() => false)) {
+                await candidate.click().catch(() => {});
+                clickedChannel = true;
+                break;
+              }
+            }
+            if (clickedChannel) await page.waitForTimeout(15000);
             console.log('playlist submitted=' + filled);
+            console.log('channel clicked=' + clickedChannel);
             console.log('media responses=' + JSON.stringify(media.slice(0, 20)));
             fs.writeFileSync(process.env.RUNNER_TEMP + '/iptv-probe-result.json', JSON.stringify({
               title: await page.title(),
               url: page.url(),
               controls: fields,
+              postControls: postControls.slice(0, 40),
               playlistSubmitted: filled,
+              channelClicked: clickedChannel,
               mediaResponses: media.slice(0, 20)
             }, null, 2));
-            if (!filled || media.length === 0) process.exitCode = 2;
+            if (!filled || !clickedChannel || media.length === 0) process.exitCode = 2;
             await browser.close();
           })().catch(error => {
             fs.writeFileSync(process.env.RUNNER_TEMP + '/iptv-probe-result.json', JSON.stringify({error: String(error.stack || error)}, null, 2));
