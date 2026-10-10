@@ -1,0 +1,62 @@
+{
+  "title": "IPTV Player Online — Play M3U, M3U8 & Xtream in Your Browser",
+  "url": "https://www.iptvplayerweb.com/",
+  "controls": [
+    {
+      "i": 0,
+      "tag": "INPUT",
+      "type": "url",
+      "name": "",
+      "id": "",
+      "placeholder": "Paste an M3U / M3U8 link or a stream URL",
+      "text": ""
+    },
+    {
+      "i": 1,
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": "Open"
+    },
+    {
+      "i": 2,
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": "Upload"
+    },
+    {
+      "i": 3,
+      "tag": "INPUT",
+      "type": "file",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": ""
+    },
+    {
+      "i": 4,
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": "Try demo channels"
+    },
+    {
+      "i": 5,
+      "tag": "INPUT",
+      "type": "file",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "text": ""
+    }
+  ],
+  "playlistSubmitted": true,
+  "mediaResponses": []
+}
