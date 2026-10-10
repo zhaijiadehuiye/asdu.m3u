@@ -341,5 +341,15 @@
   ],
   "playlistSubmitted": true,
   "channelClicked": true,
-  "mediaResponses": []
+  "mediaResponses": [],
+  "requestFailures": [],
+  "consoleErrors": [],
+  "videoState": [
+    {
+      "readyState": 0,
+      "networkState": 0,
+      "currentSrc": "",
+      "error": null
+    }
+  ]
 }
