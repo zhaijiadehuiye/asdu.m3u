@@ -7,21 +7,25 @@ on:
         description: Public M3U URL to load in IPTVPlayerWeb
         required: true
         default: https://raw.githubusercontent.com/zhaijiadehuiye/asdu.m3u/timst-live-tv/generated/timst.m3u
+  workflow_run:
+    workflows: ["Refresh Timst live TV branch"]
+    types: [completed]
 
 permissions:
   contents: write
 
 jobs:
   check:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 8
     env:
-      PLAYLIST_URL: ${{ inputs.playlist_url }}
+      PLAYLIST_URL: ${{ inputs.playlist_url || 'https://raw.githubusercontent.com/zhaijiadehuiye/asdu.m3u/timst-live-tv/generated/timst.m3u' }}
     steps:
       - name: Check out source branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
+          ref: timst-live-tv
           fetch-depth: 0
 
       - name: Install media probe
@@ -234,4 +238,4 @@ jobs:
           git add reports/iptvplayerweb-last.json
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Record IPTVPlayerWeb probe result"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+          git push origin HEAD:timst-live-tv
