@@ -18,6 +18,11 @@ jobs:
     env:
       PLAYLIST_URL: ${{ inputs.playlist_url }}
     steps:
+      - name: Install media probe
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+
       - name: Install browser probe
         run: |
           mkdir -p "$RUNNER_TEMP/iptv-probe"
