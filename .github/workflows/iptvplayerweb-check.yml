@@ -148,7 +148,9 @@ jobs:
             let clickedChannel = false;
             const knownControls = /^(open|upload|try demo channels|play|pause|close|settings|menu)$/i;
             for (const item of postControls) {
-              if (!item.text || knownControls.test(item.text) || /github|privacy|terms|donate/i.test(item.text)) continue;
+              if (item.tag !== 'BUTTON' || !item.text || knownControls.test(item.text) || /github|privacy|terms|donate/i.test(item.text)) continue;
+              // Playlist channel cards include their group label; skip navigation and favorites.
+              if (!/timst tv/i.test(item.text) && !/channel|sport|news|tv/i.test(item.text)) continue;
               const candidate = page.locator('button,a,[role="button"]').nth(item.i);
               if (await candidate.isVisible().catch(() => false)) {
                 await candidate.click().catch(() => {});
