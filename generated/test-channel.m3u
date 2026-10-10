@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="ABC" group-title="Timst Test" source="judiaslevels.embeds.gay",ABC
+#EXTINF:-1 tvg-name="beIN Max 4 Francais" group-title="Timst Test" source="judiaslevels.embeds.gay",beIN Max 4 Francais
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/68873b2d89c78995ef549ff934d3a2916ab97b9844a7899e4132c7e8b38ae6cc/1791656863/abc-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/ce37dabb122955e037ba51a6c8e0a8c7f648033f2c73975769f9de15a558dd96/1791671098/beinmax4-fr.m3u8
