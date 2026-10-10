@@ -63,8 +63,10 @@ jobs:
           PY
           cat "$RUNNER_TEMP/playlist.env" >> "$GITHUB_ENV"
           echo "Testing one HLS manifest from the generated playlist"
-          curl -L --max-time 20 -A "Mozilla/5.0" -e "${STREAM_REFERRER}" \
-            -sS -o /tmp/manifest.out -w "manifest HTTP %{http_code}, %{size_download} bytes\n" "$STREAM_URL" || true
+          manifest_status=$(curl -L --max-time 20 -A "Mozilla/5.0" -e "${STREAM_REFERRER}" \
+            -sS -o /tmp/manifest.out -w "%{http_code}" "$STREAM_URL" || true)
+          echo "manifest HTTP ${manifest_status}, $(wc -c </tmp/manifest.out 2>/dev/null || echo 0) bytes"
+          echo "MANIFEST_STATUS=${manifest_status}" >> "$GITHUB_ENV"
           set +e
           ffprobe -v error -rw_timeout 15000000 -user_agent "Mozilla/5.0" \
             -headers "Referer: ${STREAM_REFERRER}\r\n" \
@@ -72,6 +74,7 @@ jobs:
             >/tmp/ffprobe.out 2>/tmp/ffprobe.err
           probe_rc=$?
           set -e
+          echo "FFPROBE_RC=${probe_rc}" >> "$GITHUB_ENV"
           if [ "$probe_rc" -eq 0 ] && [ -s /tmp/ffprobe.out ]; then
             echo "HLS manifest accepted by ffprobe"
           else
@@ -190,6 +193,8 @@ jobs:
               postControls: postControls.slice(0, 40),
               playlistSubmitted: filled,
               channelClicked: clickedChannel,
+              manifestStatus: process.env.MANIFEST_STATUS || '',
+              ffprobeExitCode: process.env.FFPROBE_RC || '',
               mediaResponses: media.slice(0, 20),
               requestFailures: failures.slice(0, 20),
               consoleErrors: consoleErrors.slice(0, 20),
