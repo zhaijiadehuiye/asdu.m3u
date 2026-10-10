@@ -19,19 +19,42 @@ jobs:
           fetch-depth: 0
       - name: Refresh signed HLS URLs
         run: python3 scripts/fetch_sources.py --url https://timst.top/live-tv --timeout 20 --workers 16
-      - name: Validate generated playlist
+      - name: Create single-channel custom-header test playlist
         run: |
-          awk 'BEGIN { entries=0; bad=0 }
-            /^#EXTINF/ { entries++; next }
-            /^https?:\/\// { next }
-            /^#/ { next }
-            NF { bad=1 }
-            END { if (bad || entries == 0) exit 1; print entries " entries" }' generated/timst.m3u
+          python3 - <<'PY'
+          from pathlib import Path
+          src = Path("generated/timst.m3u").read_text().splitlines()
+          out = ["#EXTM3U", "# Single-channel custom-header test; refreshed with the main playlist."]
+          for i, line in enumerate(src):
+              if not line.startswith("#EXTINF"):
+                  continue
+              out.append(line.replace('group-title="Timst TV"', 'group-title="Timst Test"'))
+              j = i + 1
+              while j < len(src) and src[j].startswith("#EXTVLCOPT:"):
+                  out.append(src[j])
+                  j += 1
+              if j < len(src) and src[j].startswith(("http://", "https://")):
+                  out.append(src[j])
+                  break
+          else:
+              raise SystemExit("no usable entry for test playlist")
+          Path("generated/test-channel.m3u").write_text("\n".join(out) + "\n")
+          PY
+      - name: Validate generated playlists
+        run: |
+          for file in generated/timst.m3u generated/test-channel.m3u; do
+            awk 'BEGIN { entries=0; bad=0 }
+              /^#EXTINF/ { entries++; next }
+              /^https?:\/\// { next }
+              /^#/ { next }
+              NF { bad=1 }
+              END { if (bad || entries == 0) exit 1; print FILENAME ": " entries " entries" }' "$file"
+          done
       - name: Commit refreshed playlist to the source branch
         run: |
-          if git diff --quiet -- generated/timst.m3u; then exit 0; fi
+          if git diff --quiet -- generated/timst.m3u generated/test-channel.m3u; then exit 0; fi
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add generated/timst.m3u
+          git add generated/timst.m3u generated/test-channel.m3u
           git commit -m "Refresh Timst signed HLS playlist"
           git push origin HEAD:timst-live-tv
