@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Timst Live TV</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui,-apple-system,"Segoe UI",sans-serif; }
+    body { margin: 0; background: #11131a; color: #f4f5f7; }
+    main { max-width: 1100px; margin: 0 auto; padding: 28px 18px 48px; }
+    h1 { margin: 0 0 8px; font-size: 28px; }
+    p { color: #aeb4c2; line-height: 1.55; }
+    .bar { display: flex; gap: 10px; margin: 22px 0; }
+    input { flex: 1; min-width: 0; padding: 12px 14px; border: 1px solid #343846; border-radius: 10px; background: #1d2029; color: inherit; font-size: 16px; }
+    #status { margin: 14px 0; color: #aeb4c2; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(220px,1fr)); gap: 12px; }
+    button { border: 1px solid #343846; border-radius: 12px; padding: 14px; text-align: left; color: inherit; background: #1b1e27; cursor: pointer; min-height: 88px; }
+    button:hover { border-color: #738cff; background: #222738; }
+    .name { display: block; font-weight: 650; font-size: 16px; }
+    .meta { display: block; color: #9da5b5; font-size: 13px; margin-top: 8px; }
+    .notice { border-left: 3px solid #738cff; padding: 10px 14px; background: #191d28; }
+    a { color: #9eb0ff; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Timst Live TV</h1>
+    <p class="notice">点击频道会在新标签页打开原始播放器。视频不经过本网页或你的服务器，因此不会占用服务器带宽。</p>
+    <p>这是播放器外壳，不会伪造请求头，也不会把视频转发到服务器。</p>
+    <div class="bar"><input id="search" placeholder="搜索频道名称…" autocomplete="off"></div>
+    <div id="status">正在读取频道列表…</div>
+    <section id="channels" class="grid"></section>
+    <p><a href="https://timst.top/live-tv" target="_blank" rel="noopener">打开原始频道页</a></p>
+  </main>
+  <script>
+    const api = 'https://timst.top/api/channels';
+    const status = document.querySelector('#status');
+    const grid = document.querySelector('#channels');
+    const search = document.querySelector('#search');
+    let channels = [];
+
+    function render() {
+      const query = search.value.trim().toLowerCase();
+      grid.replaceChildren();
+      const visible = channels.filter(c => !query || c.name.toLowerCase().includes(query));
+      for (const channel of visible) {
+        const button = document.createElement('button');
+        const name = document.createElement('span');
+        name.className = 'name';
+        name.textContent = channel.name;
+        const meta = document.createElement('span');
+        meta.className = 'meta';
+        meta.textContent = [channel.flag?.toUpperCase(), channel.streamName, channel.viewers ? `${channel.viewers} 人观看` : ''].filter(Boolean).join(' · ');
+        button.append(name, meta);
+        button.addEventListener('click', () => {
+          // The source player blocks iframe embedding; open it as a top-level page.
+          window.open(channel.streamUrl, '_blank', 'noopener');
+        });
+        grid.append(button);
+      }
+      status.textContent = `${visible.length} / ${channels.length} 个频道；点击后将在新标签页播放。`;
+    }
+
+    search.addEventListener('input', render);
+    fetch(api, {headers: {Accept: 'application/json'}})
+      .then(response => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
+      .then(data => {
+        channels = (data.channels || []).flatMap(channel => {
+          const stream = (channel.streams || []).find(item => /^https?:\/\//.test(item.url || ''));
+          return stream ? [{name: channel.name || channel.url, flag: channel.flag, viewers: channel.viewers, streamName: stream.name, streamUrl: stream.url}] : [];
+        });
+        render();
+      })
+      .catch(error => { status.textContent = `读取频道失败：${error.message}。请直接打开原始频道页。`; });
+  </script>
+</body>
+</html>
