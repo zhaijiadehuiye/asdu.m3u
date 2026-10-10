@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="BBC America" group-title="Timst Test" source="judiaslevels.embeds.gay",BBC America
+#EXTINF:-1 tvg-name="BBC One London" group-title="Timst Test" source="judiaslevels.embeds.gay",BBC One London
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/df6c7cfac50f1acbd226ada1f81a8c2e580003d25a0f67c4455c12fed4271e83/1791615213/bbc-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/79d987954722a49579bc22f70ebcc18796b1f12c7b8a1e81627fbfb03b05f979/1791638075/bbcone-uk.m3u8
