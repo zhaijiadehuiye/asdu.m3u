@@ -5,12 +5,33 @@
 http://cccimg.com/view.php/28753dc7719aebcd202dd61e0ab67ed4.mp4
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",如果观看时黑屏，请等30秒重连
 http://cccimg.com/view.php/28753dc7719aebcd202dd61e0ab67ed4.mp4
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] 线路1 (比赛时有信号)
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] (比赛时有信号)
 https://cdn15.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[五星体育] 线路2 (比赛时有信号)
-https://cdn15.163189.xyz/163189/wxty
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[广东体育] (比赛时有信号)
+http://2.fast.hidns.vip/163189/gdty
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Sky Sports F1
 http://82.156.243.185:55221/appletvf1.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1 备用" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Apple TV 4K Dolby Vision F1
 http://82.156.243.185:55221/appletvf1.m3u8
+#EXTINF:-1 group-title="腾讯体育",2026-10-11 20:00:00_F1新加坡大奖赛正赛_金昊楠 邱超
+http://8.145.42.65:32025/txsport/100360:2100277/374729/1397248100.m3u8?txtoken=599c92d67f0ec1844a0b6c242a1e27f2e457fb50c69e51c54ab95411237d9955706601a44685edd0c718761ec3baf3ed7178c6b38c2c36da20f6a3083e754478c84b3b4e6b77dc9bf32a9cf70541a82a9c5ea7a16a7807b70a26bde8520a3b2141d4b49b43111350f6f22d070da218a555a49c69e5fc5f8148574cb714
+#EXTINF:-1 group-title="腾讯体育",2026-10-11 20:00:00_F1新加坡大奖赛正赛_车载镜头
+http://8.145.42.65:32025/txsport/100360:2100277/374729/1397248200.m3u8?txtoken=1323c44257fcac179e1b0f1d2c0f19276369946d9efa4a5a59e3ed000f656ac06d8240ddabc6735f25aa47a1396847a0ce534c4d285ee5b3352b4c4c36e28a8a97e774fdf5d651625f3973ead6abbe2286d023ba84e7826a90af44baca239f1ef1604ab3cf50cb14a8bd929083c692e929d0f0e99947028756c3f5401e
+#EXTINF:-1 group-title="腾讯体育",2026-10-11 20:00:00_F1新加坡大奖赛正赛_圈速信息
+http://8.145.42.65:32025/txsport/100360:2100277/374729/1397248300.m3u8?txtoken=3b5b7efd3d029ba051dae82d91a3c6ce26d6940f608ad9f66bf16acf212013dbb041db6f194df7b91a362de453f6d0958cbcb21883122a5442ff3763acd82f5a76b1345b464e8ab08e241520170f67537adde9fbd51da6dd7d3b43c63207f9dee674e0331aa8181ca6d187471f625715860259c9f87ebb4066207bfb37
+#EXTINF:-1 group-title="腾讯体育",2026-10-11 20:00:00_F1新加坡大奖赛正赛_车手位置
+http://8.145.42.65:32025/txsport/100360:2100277/374729/1781712700.m3u8?txtoken=db0c69f60293eafeae55da7371e98473d70db40e53439929180717d2b46cc9934ce2b10885f6e52c4e81bd5719348b37585229d509cf07d3af617ab2d9f722d9e9e31a9b68ab66215347f566e469bd6da51d63214476a1483080f3b48c6b2679b39a216eced98564f8af67e94ee9e093711e650e7b4d4d036b441a02fc
+#EXTINF:-1 group-title="腾讯体育",2026-10-11 20:00:00_F1新加坡大奖赛正赛_维修区
+http://8.145.42.65:32025/txsport/100360:2100277/374729/1397248400.m3u8?txtoken=c3cdb29b37ad4a1f144054d723060a162c660582ad22d2d6f01e096ee8cb357fea639bc2ccd2ef04767f84a9245f34b3f742e45d2fb3f6c92e379961779ab65e34d0fd0439c12c97345259c832b1b66325c2caed2c986b2a130d35b476c9a6dd467542ef407a42218914afd61f5c661b4f93af0fbaf8eba61c6b0c056b
+#EXTINF:-1 group-title="腾讯体育",2026-10-10 21:30:00_F1新加坡大奖赛排位赛_金昊楠 邱超
+http://8.145.42.65:32025/txsport/100360:2100276/373859/1397247800.m3u8?txtoken=584593d183a5979fc96293fe2a272bfcb98051106269dd42c785fd930cb13f1bd8f21fa16f3c0ab6ee795b3629ae78fa12ac9f315dac581fdd99cceb12fe1ea13c05ef5dd6490fcd0c9a430f2c7ec4cc6b72655057e3d50c09586c444fc0936e4e422e88626ff4bbaed283c03f3b4646b7351187b1e65f220e36b85f36
+#EXTINF:-1 group-title="腾讯体育",2026-10-10 21:30:00_F1新加坡大奖赛排位赛_车载镜头
+http://8.145.42.65:32025/txsport/100360:2100276/373859/1397247900.m3u8?txtoken=67e07d2b4e0658e95511ce574616850aadfa3ff25c2f041d3073ad1861e46aa9cfb0f745bb7d2d110c8f738dbfbf7c7edc8ba0d17ac82cb25cc76455079912472f9aec8ec98473fb6699bae50452683f0de4632170316ff9076dea956ebbdd728b5dbbd82ad3655c6372886a8f19b6ab0e174313ba7656525494e63d2f
+#EXTINF:-1 group-title="腾讯体育",2026-10-10 21:30:00_F1新加坡大奖赛排位赛_圈速信息
+http://8.145.42.65:32025/txsport/100360:2100276/373859/1781712400.m3u8?txtoken=a4ee0c1f9541628783bc903ec268be36a8e643744edde3326c5611eb80fe1512e7ad84af860f5ba91f23a07219a9ab19eb52370fb7c9224ce99f775d3430f6c0e606244d0f155e0fc52843773cbdd3f3ef53f7aab42a59ca1e34f2b326b3f66f5f8141dcdbbd4813a409c383f172e890f69283b5ebf37108ed26c36533
+#EXTINF:-1 group-title="腾讯体育",2026-10-10 21:30:00_F1新加坡大奖赛排位赛_车手位置
+http://8.145.42.65:32025/txsport/100360:2100276/373859/1397248000.m3u8?txtoken=c3e46af9029708ac005e71b90cc1869708766388afc206fa5f1df06c9a7236259b5c9f8f284c21ce4cc40269c55055edf394fda335a6e6236e45caf2de78f52f175740f7f26ad3992fb963ac5b7fb65518ae7ff619ded38d744020b0f7488f5e59007e54e2a2a637c78995b7522739dcd3f1ac474a9cb53d0017f9136d
+#EXTINF:-1 group-title="腾讯体育",2026-10-10 21:30:00_F1新加坡大奖赛排位赛_维修区
+http://8.145.42.65:32025/txsport/100360:2100276/373859/1781712500.m3u8?txtoken=1f3331b6a6d3d7751c80a0f783625415bee5df58bf85af98e239fcb094e6fb09bc45da1e116ea1957888847c739fc69f072fa2e873b10c731646544188c5516b77509579e8222129dd5b9685df9767179aafed1499fb578dc54d6c1e070f66b41b97c9a0afab75bee419c7bc93c2f867bbae88ec9a0b1cf60d84a85ebe
+
 
