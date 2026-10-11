@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="BBC America" group-title="Timst Test" source="judiaslevels.embeds.gay",BBC America
+#EXTINF:-1 tvg-name="ARENA SPORT 1 BiH" group-title="Timst Test" source="judiaslevels.embeds.gay",ARENA SPORT 1 BiH
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/849a2672ccf7172d20caa76c23c9d2799c5b089c26a72853a65a04173e72d072/1791740114/bbc-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/1dd07b158b1dfca247f23051b64d4e6744be42dd53cc7e50e26319e8f72dd375/1791756208/arena-sport-1-bih.m3u8
