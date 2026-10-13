@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="AXS TV" group-title="Timst Test" source="judiaslevels.embeds.gay",AXS TV
+#EXTINF:-1 tvg-name="BBC America" group-title="Timst Test" source="judiaslevels.embeds.gay",BBC America
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/48da674b5b65339a5d8dd796a26515531eef5730ac19f8478e4a5cbc88a421e8/1791917350/axs-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/5514d07ced143d3d627d9f3aebaeee38d956c3abf45a191740b0be8e9a190155/1791935710/bbc-usa.m3u8
