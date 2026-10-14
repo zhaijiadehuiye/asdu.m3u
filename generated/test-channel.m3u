@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="AE" group-title="Timst Test" source="judiaslevels.embeds.gay",AE
+#EXTINF:-1 tvg-name="ACC Network" group-title="Timst Test" source="judiaslevels.embeds.gay",ACC Network
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/96e0ed2da515d2146ea35bbe52e33529d065285cf82a988e74555efe8bb0c662/1792000347/ae-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/0f55f45879ac275f21348e37646303db4ed47296f20fb5b0a43f8833349edce8/1792015519/accn-usa.m3u8
