@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="ABC" group-title="Timst Test" source="judiaslevels.embeds.gay",ABC
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Timst Test" source="judiaslevels.embeds.gay",Animal Planet
 #EXTVLCOPT:http-referrer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/f7eb56322dbe2b3738daedefa3a50b4c27c1254174873bf54a2827fcefcb28cd/1792135905/abc-usa.m3u8
+https://judiaslevels.embeds.gay/main/secure/2a7f818ce20e800cd403265cf7c1f0c0cf18febd72b7469f01d6c84fb40825ae/1792153114/animalplanet-usa.m3u8
