@@ -4,13 +4,13 @@
 #EXTINF:-1 tvg-name="【续费及售后】扫码或搜微信号" group-title="续费及售后",微信号"tiyuyanjiusuo"添加客服
 http://cccimg.com/view.php/28753dc7719aebcd202dd61e0ab67ed4.mp4
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",【虎牙】主播：原生围场｜密码：0581
-https://www.huya.com/ascf1
+http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",【虎牙直播间链接】https://www.huya.com/ascf1
-https://www.huya.com/ascf1
+http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",【斗鱼】主播：书晨F1｜密码：058131
-https://www.douyu.com/scf1
+http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",【斗鱼直播间链接】https://www.douyu.com/scf1
-https://www.douyu.com/scf1
+http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[广东体育] (比赛时有信号)
 http://2.fast.hidns.vip/163189/gdty
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Sky Sports F1
