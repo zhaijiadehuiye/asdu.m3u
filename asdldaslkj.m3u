@@ -11,8 +11,8 @@ http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f0580
 http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",【斗鱼直播间链接】https://www.douyu.com/scf1
 http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",[广东体育] (比赛时有信号)
-http://2.fast.hidns.vip/163189/gdty
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",五星体育
+https://bp-livewxtytx.bestv.cn/live/wxty.m3u8?txSecret=20a45a83a1e357ef4bed24c595b6b338&txTime=6ae8d821&action=TP&sign=8fcad89c6f49678687a28be803a0fa64&time=1793558177457&userId=0&channelIdNew=199999&k3=UkHcBGi97WXCmj72hAPmbAz6wAmJodrNh_6lvkjSZK-rjvJwlHzuuXPNNKzyZWvrhD0JzROiCQNKsc8VZzftXZb_HgRD3AT9Hb803gylDiIa7QgG6kzmmGoFJDfYp1-PsinlnxyTw7MRo-oIuBz4eg:2f0qpge61AcrondUBS3rZBlGuDd_UFuDPu1N2l9y4fY
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Sky Sports F1
 http://82.156.243.185:55221/appletvf1.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1 备用" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Apple TV 4K Dolby Vision F1
