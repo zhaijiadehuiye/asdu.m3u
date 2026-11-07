@@ -38,4 +38,37 @@ http://8.145.42.65:32025/txsport/100360:2100261/375752/1782219100.m3u8?txtoken=c
 http://8.145.42.65:32025/txsport/100360:2100261/375752/1397767700.m3u8?txtoken=194e80949da4a9b840d8efea4d69b49e503b44f0155b6c0881b43e9a441e042bfbbfe54d56e2b31c710d895c87294b7bd26f070bf88018300662916aad08c8bbc7d678d85a822c0591721a438d8a2850e0ced1d4fa587598c7c2c9189c0dbf14e7d897d35957b71269e287a97847fea07e4b809a433e53b1a3b4b37334
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1圣保罗站",F1圣保罗大奖赛排位赛_车载镜头
 http://8.145.42.65:32025/txsport/100360:2100261/375752/1397767600.m3u8?txtoken=964614eba15fdc604ee73fd73169c1124d1380c68328033b4ec7ac4570fb66168b84b13012be183e92d2748ab52b7b3ee3acc6753621c1a7ffb724b91f8a69dcf034b63204b6aa23d41dbe33b90dcd71736cb639354c046e55eb0e67f712236cb2385fd5610826c760f37048968cfe5d6cf7263546b73dff07142d0e1e
-
+#EXTINF:-1 group-title="F1车载视角",⚠️ 以下频道需要魔法（VPN）
+https://example.invalid/notice
+#EXTINF:-1 group-title="F1车载视角",梅赛德斯：拉塞尔
+http://events.waastudios.dpdns.org:8877/ch/ebeeb0b9f67ab334aa9bc49cf68cd964/raw
+#EXTINF:-1 group-title="F1车载视角",法拉利：勒克莱尔
+http://events.waastudios.dpdns.org:8877/ch/03b3f24d59efb7c802c1a9ce6855d2cc/raw
+#EXTINF:-1 group-title="F1车载视角",法拉利：汉密尔顿
+http://events.waastudios.dpdns.org:8877/ch/a2103a0f738db2351776810e9d85c9fb/raw
+#EXTINF:-1 group-title="F1车载视角",红牛：维斯塔潘
+http://events.waastudios.dpdns.org:8877/ch/9a6cd30cee753555ca49b02bed359edd/raw
+#EXTINF:-1 group-title="F1车载视角",迈凯伦：诺里斯
+http://events.waastudios.dpdns.org:8877/ch/9e5ca13ce27300ccee9dbcff60798f18/raw
+#EXTINF:-1 group-title="F1车载视角",小红牛：林德布拉德
+http://events.waastudios.dpdns.org:8877/ch/2720ea3c0990570270196850f2781c16/raw
+#EXTINF:-1 group-title="F1车载视角",Alpine：加斯利
+http://events.waastudios.dpdns.org:8877/ch/8ae27a9a55cac65e106ed9655fcdac63/raw
+#EXTINF:-1 group-title="F1车载视角",Alpine：克拉平托
+http://events.waastudios.dpdns.org:8877/ch/a851ef691d05a554cc13e9d8156d7dc2/raw
+#EXTINF:-1 group-title="F1车载视角",哈斯：卡马拉
+http://events.waastudios.dpdns.org:8877/ch/42547cf57fd34d892230ef94af707627/raw
+#EXTINF:-1 group-title="F1车载视角",奥迪：霍肯伯格
+http://events.waastudios.dpdns.org:8877/ch/648cc8316f4f4ae82e43a22f114d236a/raw
+#EXTINF:-1 group-title="F1车载视角",威廉姆斯：阿尔本
+http://events.waastudios.dpdns.org:8877/ch/ec643a64391f0cf6c2f4297fe79e11ea/raw
+#EXTINF:-1 group-title="F1车载视角",威廉姆斯：赛恩斯
+http://events.waastudios.dpdns.org:8877/ch/e663bfa0c8626b8f35dcfccb31b710ef/raw
+#EXTINF:-1 group-title="F1车载视角",阿斯顿马丁：阿隆索
+http://events.waastudios.dpdns.org:8877/ch/ef9b5de6ffbc475b6aaedd5775b7f853/raw
+#EXTINF:-1 group-title="F1车载视角",阿斯顿马丁：斯特罗尔
+http://events.waastudios.dpdns.org:8877/ch/7803e654887214f345ee68b45ffcaed5/raw
+#EXTINF:-1 group-title="F1车载视角",凯迪拉克：博塔斯
+http://events.waastudios.dpdns.org:8877/ch/e834bbe17207ed1efdbf72c7065ac13f/raw
+#EXTINF:-1 group-title="F1车载视角",凯迪拉克：佩雷兹
+http://events.waastudios.dpdns.org:8877/ch/76beda00203f706007bdcef83806e342/raw
