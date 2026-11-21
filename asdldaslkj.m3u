@@ -3,25 +3,25 @@
 #EXT-X-APTV-TYPE remote
 #EXTINF:-1 tvg-name="【续费及售后】扫码或搜微信号" group-title="续费及售后",微信号"tiyuyanjiusuo"添加客服
 http://cccimg.com/view.php/28753dc7719aebcd202dd61e0ab67ed4.mp4
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_刘耀
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_刘耀
 http://8.145.42.65:32025/txsport/100360:2100255/376978/1782604500.m3u8?txtoken=c833a330c0c320fafec860bc72663732106b672e4d23c9987ba4051a977e5ec8d4187c036092f4dcaf25818fd47ab6069840c2502ff5a6bd3282ff8929c728303f83807f1dfb0d9b9fd9cc4feed147d3af79606bfa27258dcfae5962158376bd708cfec02ea7b9dc4540446c64116f07f6f7ceec3c5309f27a83602545
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_车载镜头
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_车载镜头
 http://8.145.42.65:32025/txsport/100360:2100255/376978/1398156500.m3u8?txtoken=57e4005e297ac27e640030b758c8799ed2efb1e35fbb2473587cea0cb119c0e1950947845f868e9a67ce4f994dce1ae3e2883fb1c3237dd2a873b96c0941172a8c6a729ecb598794b7ee819f6e100759e0cd9c8cca605160938c440cce46c1edd67bc73405d7e311fa2fd51ae1573b9b9a1e1011766e2f2a2c720abb34
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_圈速信息
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_圈速信息
 http://8.145.42.65:32025/txsport/100360:2100255/376978/1782604600.m3u8?txtoken=b338224a635c5eb100888758f4914cd66d3bfb2e8ecc97838e94b7cec36ebcb5edd417541f492e48f18d73aa7151ae8fbeaab3d68465ce0292ba69fa3ff9d4d6ced30e5aae39b38586807d22375b53a7d565018986a9567dcbcc75dab6918ec6967fbeb599c264a2acc9e18fb68851f072408e7d985840346a84bfd3cb
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_车手位置
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_车手位置
 http://8.145.42.65:32025/txsport/100360:2100255/376978/1398156600.m3u8?txtoken=58edd0a870e9bbd3e240aeb8a7993f976306ba515f18a1b0a7e3df46e8451e4b621ad575a82d20dbeddc59c63c69ffc022478d3d754e7ef7694bda5cb61d3c3084d299617513d4c74bf2577f1c45df813cd2ee2fe7963bd2fc860f3946ceaa9e0f374df4995b4a1e5c5b3038e5225fb836d31106e6cec4a952245c957c
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_维修区
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 08:30:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛第三次练习赛_维修区
 http://8.145.42.65:32025/txsport/100360:2100255/376978/1398156700.m3u8?txtoken=6b6c90f1b2e1b2b15ee55bf66772c41f213035fa337c4a718c67b9120df5ba6fff94bf8f86d4bf7486d1d050159291f1b070c70e5768979e38ce01c4a75b62cc61554aaa8758d1c5749c1bd42fe82ff4124780a8a681d377919ac5a8e2f96a0b632306e909fb857519c4f87898eec70e1e8625837bd67e626502872b49
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_刘耀
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_刘耀
 http://8.145.42.65:32025/txsport/100360:2100256/375757/1782450300.m3u8?txtoken=e416ed4df7816041ac8e84d9f89106b51d02af59ddceb888ec822f953bcffa5573cf2e53437b88ffc1e3fde74779b403f4a515c1524984dedcfe832b5e5be16ac35828afae890f7448f21630440f5e6f6d484d4bd831170f8c2879e26c50cddee811106d6bd025f84714733ddcd6b34bf3b0576e3bdc441e10fcf0442a
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_车载镜头
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_车载镜头
 http://8.145.42.65:32025/txsport/100360:2100256/375757/1782450400.m3u8?txtoken=5bf9667904fa4a47ad1097fa80a1f8a36af902f52626ff58cdcfcb090e7bcf13aa04bc063a79401afa7577829f5a6206c18fb4a9ed893db6f1a779cc74e0c95c977a5f33225942a43fdf291a97552f670069728d03cf2cdb2aacf3f714f75617f8ecbd86327c7bc180c5a7e978c616695de3c1ecf0fc5e1d56dfdf3270
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_圈速信息
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_圈速信息
 http://8.145.42.65:32025/txsport/100360:2100256/375757/1782450500.m3u8?txtoken=b727286c02301504b907d55d422fd9abcb948dfd022cdff2b2809b73abe3f485237c8a334a15058fc21dd7d0ad00dbfcdd73055ae25657c9035d1911015a1e6bac8ffbc74a4efedcd98e1f6b7187da881ade825abab4fd9128aa66f18f56f0b4e6b66d865bd56f3b5335017bc393f6136aa9347e14726b271787fd04a3
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_车手位置
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_车手位置
 http://8.145.42.65:32025/txsport/100360:2100256/375757/1398002800.m3u8?txtoken=8ae5386f62879ee92543703ef6dc4c1483ba8170475813fc813f3b6c70a7a359431a899ae22f0acdfb85b406b7a96161253693268d7ab824d944f92ea9fe422b293ddde7ca1e39eb6f2cc66117ae9e8d6f8b826beff5d03e2f0b6652291c45953cd13487abb7c8db7bc27b24fc1a8c016a744129e3bf6acc2941d849bd
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="F1拉斯维加斯站",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_维修区
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="腾讯体育",2026-11-21 12:00:00_F1拉斯维加斯站_F1拉斯维加斯大奖赛排位赛_维修区
 http://8.145.42.65:32025/txsport/100360:2100256/375757/1782450900.m3u8?txtoken=4ee5eff2e985a44c350eb8654ba3ca8155ad4dbe285c4a445316f758e293502bec8559911e9c4e5c1dcf1c3b7480dde30995adfd3c24a10bb410c8bc64801b3b6651112ff9aed4b721534db01c75197811e988b48290e1505a10d5e272b19a3b5d064dc3205a1eedb78b55450108c3507255b9657f2d1a8a8fc1b64ae3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",【虎牙】主播：原生围场｜密码：0815
 http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
@@ -31,9 +31,47 @@ http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f0580
 http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",【斗鱼直播间链接】https://www.douyu.com/scf1
 http://192.187.98.98:82/live/wxty.m3u8?jsbt=1793557908&jsbk=6e1b3e2bf7f4330f05806b61707bcbfd&from=zbdq7
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png"group-title="五星体育",五星体育
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",五星体育
 http://pull-mpeg-hs-cny-f5.douyincdn.com/live/KZfxjJxgGrTJgRLa6Z9RMOa6DXtxUR.flv?k3=sJASdkIYfYesftK-ZbeMnHYXO_8CEtMfYpIdFujFHG-RWz9Fw02rzYjMJ6fXsaRHxczWMyl9M6tTNmx6jKDbsKOV13Ur4gRICm6i8so1iJHF1z7QQNeHGObf8rdLQc07duUs1PTsDfpFVf160X7qow:2hRpiS0dubIXSZj1nhW3gM3gz-MHuD3V-zbaBYUYt2o
-#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Sky Sports F1
-http://82.156.243.185:55221/appletvf1.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1 备用" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="五星体育",Apple TV 4K Dolby Vision F1
-http://82.156.243.185:55221/appletvf1.m3u8
+#EXTINF:-1 tvg-name="五星体育【F1赛事时段开启】" tvg-logo="https://i.postimg.cc/g0KS5j3y/image.png" group-title="五星体育",五星体育【F1赛事时段开启】
+http://events.waastudios.dpdns.org:8877/ch/52d01ac774c5b8dd9ac175c111b7d3fe/raw
+#EXTINF:-1 tvg-name="【Apple TV 直播】F1 拉斯维加斯站 正赛 🇺🇸" tvg-logo="https://i.postimg.cc/1PcByPnj/vegas-race-bg-text-apple-emoji.jpg?dl=1" group-title="F1 TV Apple TV （需魔法）",【Apple TV 直播】F1 拉斯维加斯站 正赛 🇺🇸
+http://events.waastudios.dpdns.org:8877/ch/59ef7c8475309b814a3e10d2824e7583/raw
+#EXTINF:-1 tvg-name="【Apple TV 直播】F1 拉斯维加斯站 正赛 🇺🇸 天空体育版" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/akjdqgdoSwa6Xoyo2Kn0sA/3840x2496Sports.TVF1PoM1.webp?imgEventLogo=aDHATgnCqf-a1nuEJ6yC8Q&imgSkyLogo=YoJ99EZWrPxyAvd2fG7-Yg&gpColor=%2300a645&style=m" group-title="F1 TV Apple TV （需魔法）",【Apple TV 直播】F1 拉斯维加斯站 正赛 🇺🇸 天空体育版
+http://events.waastudios.dpdns.org:8877/ch/fff4417495cedaa72ed7c33957530f94/raw
+#EXTINF:-1 tvg-name="F1 TV 【备线】" tvg-logo="https://imgu.rs/i/F1TV/TVMain.png" group-title="F1 TV Apple TV （需魔法）",F1 TV 【备线】
+http://events.waastudios.dpdns.org:8877/ch/9a8c3360524f082e9688099a717b7df7/raw
+#EXTINF:-1 tvg-name="【不一定会有】 F1 正赛前三视角" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/r56d4qxS-Ac6eWl6fvfA8Q/3840x2160Sports.TVAMCR02.jpg" group-title="F1 TV Apple TV （需魔法）",【不一定会有】 F1 正赛前三视角
+http://events.waastudios.dpdns.org:8877/ch/8386aef1c08f38201656c9843ba1fa73/raw
+#EXTINF:-1 tvg-name="梅奔：拉塞尔" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/tx8SoxtuhVK9eE1HI3AMSg/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=9lpQiaX31N1ia-ui5tqHQA&imgDriver=AWEFjdlAOp-Ph7xxCUCrmQ" group-title="F1 TV Apple TV （需魔法）",梅奔：拉塞尔
+http://events.waastudios.dpdns.org:8877/ch/ebeeb0b9f67ab334aa9bc49cf68cd964/raw
+#EXTINF:-1 tvg-name="法拉利：勒克莱尔" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Ejr-4z9MBKW1Ia_9_mfF6g/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=11TE-NRSi9aP-W67vLx8Bg&imgDriver=zh1b26eCEJ_b0dCzVqChmg" group-title="F1 TV Apple TV （需魔法）",法拉利：勒克莱尔
+http://events.waastudios.dpdns.org:8877/ch/03b3f24d59efb7c802c1a9ce6855d2cc/raw
+#EXTINF:-1 tvg-name="法拉利：汉密尔顿" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Ejr-4z9MBKW1Ia_9_mfF6g/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=11TE-NRSi9aP-W67vLx8Bg&imgDriver=ozImEXXCKi6ApHdsqCmo0g" group-title="F1 TV Apple TV （需魔法）",法拉利：汉密尔顿
+http://events.waastudios.dpdns.org:8877/ch/a2103a0f738db2351776810e9d85c9fb/raw
+#EXTINF:-1 tvg-name="红牛：维斯塔潘" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/8E4VoVGVwYCyou-Fggvk4g/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=bu8FZv7yxkgaobkyDYCeeQ&imgDriver=cpM3ZsOxkSinzGV9pOjnDg" group-title="F1 TV Apple TV （需魔法）",红牛：维斯塔潘
+http://events.waastudios.dpdns.org:8877/ch/9a6cd30cee753555ca49b02bed359edd/raw
+#EXTINF:-1 tvg-name="迈凯伦：诺里斯" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/dY6WI6YaXfowtpjKFWQYjA/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=d124ff-kdY54LM6-yIY58g&imgDriver=yJJFKCVfrmOf3mSb6Wg7ow" group-title="F1 TV Apple TV （需魔法）",迈凯伦：诺里斯
+http://events.waastudios.dpdns.org:8877/ch/9e5ca13ce27300ccee9dbcff60798f18/raw
+#EXTINF:-1 tvg-name="小红牛：林德布拉德" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/GqZZyntgBcM6VaXAQaG0dQ/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=d0y_zq2zPn4A8NphKi8-3A&imgDriver=K4kh7LjE4OYORNe09G9iAg" group-title="F1 TV Apple TV （需魔法）",小红牛：林德布拉德
+http://events.waastudios.dpdns.org:8877/ch/2720ea3c0990570270196850f2781c16/raw
+#EXTINF:-1 tvg-name="Alpine：加斯利" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/-cZaXFlqxtn22OBJgCCO7w/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=cMvnyNQ-kvf1ZkbRy8yc7g&imgDriver=OlVKOorLdzUXFxqzOoOhnA" group-title="F1 TV Apple TV （需魔法）",Alpine：加斯利
+http://events.waastudios.dpdns.org:8877/ch/8ae27a9a55cac65e106ed9655fcdac63/raw
+#EXTINF:-1 tvg-name="Alpine：克拉平托" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/-cZaXFlqxtn22OBJgCCO7w/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=cMvnyNQ-kvf1ZkbRy8yc7g&imgDriver=KVTRg2TZYu3n72ZVfWhXmA" group-title="F1 TV Apple TV （需魔法）",Alpine：克拉平托
+http://events.waastudios.dpdns.org:8877/ch/a851ef691d05a554cc13e9d8156d7dc2/raw
+#EXTINF:-1 tvg-name="哈斯：卡马拉" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/wrWlikUrZYJ8i7mgvjU6bQ/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=SdGFhDgzgreBzhwz5nLkKg" group-title="F1 TV Apple TV （需魔法）",哈斯：卡马拉
+http://events.waastudios.dpdns.org:8877/ch/42547cf57fd34d892230ef94af707627/raw
+#EXTINF:-1 tvg-name="奥迪：霍肯伯格" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/wrsVPEhb6nFqXDleYI00dA/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=mYGIXuPTdo9HKQcHmAgtfw&imgDriver=KAFigI_b4HHvpMpCwL9Jnw" group-title="F1 TV Apple TV （需魔法）",奥迪：霍肯伯格
+http://events.waastudios.dpdns.org:8877/ch/648cc8316f4f4ae82e43a22f114d236a/raw
+#EXTINF:-1 tvg-name="威廉姆斯：阿尔本" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/3ViaxHMsYtxtx8V7bBDW_Q/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=PfO0ImMeEGl9O8OFpxz3wQ&imgDriver=bIS9GcVasAkLBqs7jWtGPA" group-title="F1 TV Apple TV （需魔法）",威廉姆斯：阿尔本
+http://events.waastudios.dpdns.org:8877/ch/ec643a64391f0cf6c2f4297fe79e11ea/raw
+#EXTINF:-1 tvg-name="威廉姆斯：赛恩斯" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/3ViaxHMsYtxtx8V7bBDW_Q/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=PfO0ImMeEGl9O8OFpxz3wQ&imgDriver=kW5Z10K2s2gh1c1Z6-M1ww" group-title="F1 TV Apple TV （需魔法）",威廉姆斯：赛恩斯
+http://events.waastudios.dpdns.org:8877/ch/e663bfa0c8626b8f35dcfccb31b710ef/raw
+#EXTINF:-1 tvg-name="阿斯顿马丁：阿隆索" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/NifViUobpvFHc586wxa-Gg/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=vfn8NvfDrVq-6UqaIm66dw&imgDriver=_qRnA2UJkNjJOYJTOSsxNA" group-title="F1 TV Apple TV （需魔法）",阿斯顿马丁：阿隆索
+http://events.waastudios.dpdns.org:8877/ch/ef9b5de6ffbc475b6aaedd5775b7f853/raw
+#EXTINF:-1 tvg-name="阿斯顿马丁：斯特罗尔" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/NifViUobpvFHc586wxa-Gg/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=vfn8NvfDrVq-6UqaIm66dw&imgDriver=iWSeFUmpPsinJ3y7PxZJnQ" group-title="F1 TV Apple TV （需魔法）",阿斯顿马丁：斯特罗尔
+http://events.waastudios.dpdns.org:8877/ch/7803e654887214f345ee68b45ffcaed5/raw
+#EXTINF:-1 tvg-name="凯迪拉克：博塔斯" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/spTRI5iYAjDATprFSbRvyw/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=gOVQoJ1tzF99ufUPoTRjrg&imgDriver=QG1tFN8KNCfzGSWENh61eQ" group-title="F1 TV Apple TV （需魔法）",凯迪拉克：博塔斯
+http://events.waastudios.dpdns.org:8877/ch/e834bbe17207ed1efdbf72c7065ac13f/raw
+#EXTINF:-1 tvg-name="凯迪拉克：佩雷兹" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/spTRI5iYAjDATprFSbRvyw/1920x1080Sports.TVF1DFM2.webp?imgTeamEffectLogo=gOVQoJ1tzF99ufUPoTRjrg&imgDriver=uu1Xp_EaS2kMvBd56ielyQ" group-title="F1 TV Apple TV （需魔法）",凯迪拉克：佩雷兹
+http://events.waastudios.dpdns.org:8877/ch/76beda00203f706007bdcef83806e342/raw
