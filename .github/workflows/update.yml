@@ -1,0 +1,77 @@
+name: Auto Update IPTV M3U
+
+on:
+  schedule:
+    # 每天 UTC 20:00 运行，对应北京时间凌晨 04:00
+    - cron: '0 20 * * *'
+  # 支持在网页端随时手动点击运行
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and filter M3U
+        run: |
+          python3 - << 'EOF'
+          import urllib.request
+
+          SOURCE_URL = "https://jsnzkpg.de5.net/all.m3u"
+          OUTPUT_FILE = "kanqiu.m3u"
+          BLOCK_KEYWORDS = [
+              "免费", "公众号", "微信", "vx", "qq", "群", "防失联",
+              "公告", "通知", "官网", "网址", "发布页", "关注", "获取"
+          ]
+
+          req = urllib.request.Request(SOURCE_URL, headers={"User-Agent": "okhttp/4.12.0"})
+          with urllib.request.urlopen(req, timeout=25) as resp:
+              raw_text = resp.read().decode("utf-8", errors="ignore")
+
+          if "#EXTM3U" not in raw_text:
+              raise ValueError("上游返回异常，未检测到 #EXTM3U 头")
+
+          lines = [line.strip() for line in raw_text.splitlines() if line.strip()]
+          cleaned_lines = ["#EXTM3U"]
+          block = []
+          kept = 0
+
+          for line in lines:
+              if line.startswith("#EXTM3U"):
+                  continue
+              block.append(line)
+              if not line.startswith("#"):
+                  block_lower = "\n".join(block).lower()
+                  if not any(kw.lower() in block_lower for kw in BLOCK_KEYWORDS):
+                      cleaned_lines.extend(block)
+                      kept += 1
+                  block = []
+
+          if kept < 5:
+              raise ValueError(f"有效频道过少（{kept}条），放弃覆盖")
+
+          with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+              f.write("\n".join(cleaned_lines) + "\n")
+          print(f"成功过滤并生成 {OUTPUT_FILE}，共保留 {kept} 个频道")
+          EOF
+
+      - name: Commit and push kanqiu.m3u
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kanqiu.m3u
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update kanqiu.m3u"
+            git push
+          else
+            echo "列表内容无变化，跳过提交"
+          fi
+
+      - name: Purge jsDelivr CDN cache
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/zhaijiadehuiye/asdu.m3u@main/kanqiu.m3u" || true
