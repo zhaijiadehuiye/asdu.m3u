@@ -2,9 +2,9 @@ name: Auto Update IPTV M3U
 
 on:
   schedule:
-    # 已经设置好：每 2 小时的第 17 分钟自动抓取更新一次
+    # 每 2 小时的第 17 分钟自动抓取更新一次
     - cron: '17 */2 * * *'
-  # 支持在 Actions 页面随时手动点击立即更新
+  # 支持在 Actions 页面随时手动点击立即运行
   workflow_dispatch:
 
 permissions:
@@ -17,25 +17,64 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch, clean and sort M3U
+      - name: Aggregate, deduplicate, filter and sort 17 M3U sources
         run: |
           python3 - << 'EOF'
           import re
           import urllib.request
+          from concurrent.futures import ThreadPoolExecutor, as_completed
 
-          SOURCE_URL = "https://jsnzkpg.de5.net/all.m3u"
-          OUTPUT_FILE = "kanqiu.m3u"
-
-          # 1. 广告/引流频道过滤词（命中即整条删除）
-          BLOCK_KEYWORDS = [
-              "tg频道", "stymei", "jsnzkpg", "kwimgs.com", "官网",
-              "免费", "公众号", "微信", "vx", "加群", "交流群", "qq群",
-              "防失联", "公告", "通知", "网址", "发布页", "关注", "获取",
-              "telegram", "t.me", "✈️", "☁️"
+          # 1. 全部 17 个直播源列表（名称, 地址）
+          SOURCES = [
+              ("咖啡", "https://jsnzkpg.de5.net/all.m3u"),
+              ("大米", "https://stymei.pages.dev/live.m3u"),
+              ("88看球", "https://stymei1.pages.dev/live.m3u"),
+              ("178", "https://stymei2.pages.dev/live.m3u"),
+              ("310", "https://stymei3.pages.dev/live.m3u"),
+              ("豆包", "https://stymei4.pages.dev/live.m3u"),
+              ("鲸鱼", "https://stymei5.pages.dev/live.m3u"),
+              ("看球通", "https://stymei6.pages.dev/live.m3u"),
+              ("球吧", "https://stymei7.pages.dev/live.m3u"),
+              ("松果", "https://stymei8.pages.dev/live.m3u"),
+              ("天天", "https://stymei9.pages.dev/live.m3u"),
+              ("一代", "https://stymei10.pages.dev/live.m3u"),
+              ("JRKAN", "https://stymei11.pages.dev/live.m3u"),
+              ("OK", "https://stymei12.pages.dev/live.m3u"),
+              ("说球帝", "https://stymei13.pages.dev/live.m3u"),
+              ("海星", "https://stymei14.pages.dev/live.m3u"),
+              ("U球", "https://stymei15.pages.dev/live.m3u"),
           ]
 
-          # 2. 五大联赛内部排序优先级
+          OUTPUT_FILE = "kanqiu.m3u"
+          # 每场比赛最多保留几条线路（防止 17 个源重复堆砌卡死电视播放器）
+          MAX_STREAMS_PER_MATCH = 4
+
+          # 2. 广告与无关频道过滤关键词（命中即删除）
+          BLOCK_KEYWORDS = [
+              "tg频道", "stymei", "jsnzkpg", "kwimgs.com", "裤佬",
+              "官网", "免费", "公众号", "微信", "vx", "加v", "加群",
+              "交流群", "qq群", "防失联", "公告", "通知", "网址",
+              "发布页", "关注", "获取", "telegram", "t.me", "✈️", "☁️",
+              "app下载", "扫码", "永久域名", "备用域名", "福利", "主播"
+          ]
+
           TOP5_LEAGUES = ["英超", "西甲", "意甲", "德甲", "法甲"]
+
+          def fetch_one(source_item):
+              name, url = source_item
+              try:
+                  req = urllib.request.Request(url, headers={"User-Agent": "okhttp/4.12.0"})
+                  with urllib.request.urlopen(req, timeout=20) as resp:
+                      text = resp.read().decode("utf-8", errors="ignore")
+                  if "#EXTM3U" not in text:
+                      print(f"[跳过] {name}: 返回内容不包含 #EXTM3U")
+                      return name, []
+                  lines = [line.strip() for line in text.splitlines() if line.strip()]
+                  print(f"[成功] {name}: 获取 {len(lines)} 行")
+                  return name, lines
+              except Exception as e:
+                  print(f"[失败] {name}: {e}")
+                  return name, []
 
           def set_group_title(extinf_line, new_group):
               if re.search(r'group-title="[^"]*"', extinf_line):
@@ -45,10 +84,26 @@ jobs:
                   return f'{left} group-title="{new_group}",{right}'
               return extinf_line
 
+          def append_source_tag(extinf_line, source_name):
+              if "," in extinf_line:
+                  left, right = extinf_line.split(",", 1)
+                  # 避免重复打标签
+                  if f"[{source_name}]" not in right:
+                      right = f"{right} [{source_name}]"
+                  return f"{left},{right}"
+              return f"{extinf_line} [{source_name}]"
+
+          def extract_match_key(extinf_line):
+              title = extinf_line.split(",", 1)[1] if "," in extinf_line else extinf_line
+              # 去掉“ - 中文解说2”、“ - 直播51”、“[来源]”等后缀，提取纯粹的比赛名称用于限制重复条数
+              title = re.sub(r'\s*\[[^\]]+\]\s*$', '', title)
+              title = re.sub(r'\s*-\s*(中文|高清|超清|直播|原声|外语|蓝光|标清).*$', '', title)
+              return title.strip().lower()
+
           def stream_quality_rank(text):
               if "中文" in text:
                   return 0
-              if "超清" in text or "高清" in text:
+              if "超清" in text or "蓝光" in text or "高清" in text:
                   return 1
               if "直播" in text:
                   return 2
@@ -56,88 +111,106 @@ jobs:
                   return 3
               return 4
 
-          def classify_and_rank(block):
+          def classify_and_rank(block, source_name):
               extinf = next((l for l in block if l.startswith("#EXTINF")), "")
               extinf_lower = extinf.lower()
+              match_key = extract_match_key(extinf)
+              q_rank = stream_quality_rank(extinf)
 
-              # 优先把所有“赛事回放”单独归类到最后，避免混入实时直播
+              def finalize(group_name):
+                  out = []
+                  for l in block:
+                      if l.startswith("#EXTINF"):
+                          l = set_group_title(l, group_name)
+                          l = append_source_tag(l, source_name)
+                      out.append(l)
+                  return out
+
+              # 赛事回放单独归入最后一组
               if 'group-title="赛事回放"' in extinf or "回放" in extinf or 'tvg-id="r' in extinf_lower:
-                  updated = [set_group_title(l, "赛事回放") if l.startswith("#EXTINF") else l for l in block]
-                  return (5, 0, 0, updated)
+                  return (5, 0, q_rank, match_key, finalize("赛事回放"))
 
-              # 第一梯队：五大联赛实时直播（强制置顶在最前面）
+              # 第一梯队：五大联赛直播
               for idx, league in enumerate(TOP5_LEAGUES):
                   if league in extinf:
-                      updated = [set_group_title(l, "五大联赛") if l.startswith("#EXTINF") else l for l in block]
-                      return (0, idx, stream_quality_rank(extinf), updated)
+                      return (0, idx, q_rank, match_key, finalize("五大联赛"))
 
               # 第二梯队：欧冠/杯赛/国际足球
               cup_kws = ["欧冠", "欧联", "欧协", "世预赛", "世界杯", "欧洲杯", "美洲杯", "亚洲杯", "亚冠", "国足", "足总杯", "国王杯", "意杯", "德国杯", "法国杯", "联赛杯", "欧国联"]
               for idx, kw in enumerate(cup_kws):
                   if kw.lower() in extinf_lower:
-                      updated = [set_group_title(l, "欧冠/杯赛") if l.startswith("#EXTINF") else l for l in block]
-                      return (1, idx, stream_quality_rank(extinf), updated)
+                      return (1, idx, q_rank, match_key, finalize("欧冠/杯赛"))
 
               # 第三梯队：F1 与综合体育
               sport_kws = ["f1", "一级方程式", "排位赛", "正赛", "冲刺赛", "赛车", "motogp", "网球", "atp", "wta", "斯诺克", "台球", "ufc", "拳击", "乒乓", "羽毛球", "排球", "cctv5", "五星体育", "劲爆体育", "广东体育"]
               for idx, kw in enumerate(sport_kws):
                   if kw.lower() in extinf_lower:
-                      updated = [set_group_title(l, "F1/综合体育") if l.startswith("#EXTINF") else l for l in block]
-                      return (2, idx, stream_quality_rank(extinf), updated)
+                      return (2, idx, q_rank, match_key, finalize("F1/综合体育"))
 
-              # 第四梯队：NBA 与各国篮球联赛
+              # 第四梯队：NBA 与各国篮球
               basket_kws = ["nba", "cba", "篮球", "篮甲", "篮超", "篮联", "euroleague", "欧篮"]
               for idx, kw in enumerate(basket_kws):
                   if kw.lower() in extinf_lower:
-                      updated = [set_group_title(l, "NBA/篮球") if l.startswith("#EXTINF") else l for l in block]
-                      return (3, idx, stream_quality_rank(extinf), updated)
+                      return (3, idx, q_rank, match_key, finalize("NBA/篮球"))
 
-              # 第五梯队：其余各国足球联赛（如巴甲、阿甲、挪超、比甲等）
-              updated = [set_group_title(l, "其他联赛") if l.startswith("#EXTINF") else l for l in block]
-              return (4, 0, stream_quality_rank(extinf), updated)
+              # 第五梯队：其余各国足球联赛
+              return (4, 0, q_rank, match_key, finalize("其他联赛"))
 
-          req = urllib.request.Request(SOURCE_URL, headers={"User-Agent": "okhttp/4.12.0"})
-          with urllib.request.urlopen(req, timeout=25) as resp:
-              raw_text = resp.read().decode("utf-8", errors="ignore")
+          # 并发拉取所有 17 个源
+          all_fetched = []
+          with ThreadPoolExecutor(max_workers=10) as executor:
+              futures = [executor.submit(fetch_one, src) for src in SOURCES]
+              for future in as_completed(futures):
+                  all_fetched.append(future.result())
 
-          if "#EXTM3U" not in raw_text:
-              raise ValueError("上游返回异常，未检测到 #EXTM3U 头")
+          # 按 SOURCES 原始定义顺序整理，保证优先级稳定
+          source_order = {name: idx for idx, (name, _) in enumerate(SOURCES)}
+          all_fetched.sort(key=lambda x: source_order.get(x[0], 999))
 
-          lines = [line.strip() for line in raw_text.splitlines() if line.strip()]
-          header_lines = ["#EXTM3U"]
+          seen_urls = set()
           categorized_blocks = []
-          block = []
 
-          for line in lines:
-              if line.startswith("#EXTM3U"):
-                  continue
-              # 过滤掉会暴露原订阅地址的标签，保留 APTV 兼容属性
-              if line.startswith("#EXT-X-SUB-URL"):
-                  continue
-              if line.startswith("#EXT-X-") and not block:
-                  header_lines.append(line)
-                  continue
+          for source_name, lines in all_fetched:
+              block = []
+              for line in lines:
+                  if line.startswith("#EXTM3U") or line.startswith("#EXT-X-"):
+                      continue
+                  block.append(line)
+                  if not line.startswith("#"):
+                      stream_url = line.strip()
+                      block_lower = "\n".join(block).lower()
 
-              block.append(line)
-              if not line.startswith("#"):
-                  block_lower = "\n".join(block).lower()
-                  if not any(kw.lower() in block_lower for kw in BLOCK_KEYWORDS):
-                      categorized_blocks.append(classify_and_rank(block))
-                  block = []
+                      # 过滤广告词与 .mp4 推广贴片视频
+                      is_mp4_ad = ".mp4" in stream_url.lower()
+                      is_keyword_ad = any(kw.lower() in block_lower for kw in BLOCK_KEYWORDS)
+
+                      if not is_mp4_ad and not is_keyword_ad and stream_url not in seen_urls:
+                          seen_urls.add(stream_url)
+                          categorized_blocks.append(classify_and_rank(block, source_name))
+                      block = []
 
           if len(categorized_blocks) < 5:
-              raise ValueError(f"有效频道过少（{len(categorized_blocks)}条），放弃覆盖")
+              raise ValueError(f"有效频道总数过少（{len(categorized_blocks)}条），放弃覆盖以保护现有文件")
 
-          # 按分类优先级 -> 联赛顺序 -> 中文解说优先 排序
+          # 排序：分类优先级 -> 联赛顺序 -> 中文解说/高清优先
           categorized_blocks.sort(key=lambda item: (item[0], item[1], item[2]))
 
-          final_lines = header_lines[:]
-          for _, _, _, ch_block in categorized_blocks:
+          # 限制同一场比赛最多保留 MAX_STREAMS_PER_MATCH 条线路，防止列表臃肿
+          match_counts = {}
+          final_blocks = []
+          for cat_idx, sub_idx, q_rank, match_key, ch_block in categorized_blocks:
+              cnt = match_counts.get(match_key, 0)
+              if cnt < MAX_STREAMS_PER_MATCH:
+                  match_counts[match_key] = cnt + 1
+                  final_blocks.append(ch_block)
+
+          final_lines = ["#EXTM3U", "#EXT-X-APP APTV", "#EXT-X-APTV-TYPE remote"]
+          for ch_block in final_blocks:
               final_lines.extend(ch_block)
 
           with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
               f.write("\n".join(final_lines) + "\n")
-          print(f"成功生成 {OUTPUT_FILE}，共保留 {len(categorized_blocks)} 个频道")
+          print(f"聚合完成！去重过滤后共输出 {len(final_blocks)} 个精选频道")
           EOF
 
       - name: Commit and push kanqiu.m3u
@@ -146,7 +219,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add kanqiu.m3u
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update and sort kanqiu.m3u"
+            git commit -m "chore: aggregate and sort 17 IPTV sources"
             git push
           else
             echo "列表内容无变化，跳过提交"
