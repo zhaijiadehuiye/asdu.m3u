@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="beIN Sports" group-title="Timst Test" source="tims-001.servehttp.com",beIN Sports
+#EXTINF:-1 tvg-name="BBC Two" group-title="Timst Test" source="tims-001.servehttp.com",BBC Two
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/198a150bfece7e558f05f037e05baff305812a7a2239780414129641ff54a01e/1795617468/beinsports-usa.m3u8
+https://tims-001.servehttp.com/main/secure/3d6d0ae19930592b70e26623087c4ea9fffa48e8f8d80cdb1713ec952d9601c5/1795623412/bbctwo-uk.m3u8
