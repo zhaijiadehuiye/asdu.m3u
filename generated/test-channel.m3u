@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="beIN Sports MENA 7" group-title="Timst Test" source="tims-001.servehttp.com",beIN Sports MENA 7
+#EXTINF:-1 tvg-name="ACC Network" group-title="Timst Test" source="tims-001.servehttp.com",ACC Network
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c184875b67e6beb3be5f08d73885077297d49aa53b73f91833bf2a9ef35abbb1/1795616157/beinsports7-sa.m3u8
+https://tims-001.servehttp.com/main/secure/75e165603665266acfa33aac5bb09cc038ea3a7487b1d54be2ec0275d52add3f/1795616400/accn-usa.m3u8
