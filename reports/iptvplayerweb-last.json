@@ -1,1 +1,16 @@
-{"error":"probe did not produce a report"}
+{
+  "title": "Deployment Paused",
+  "url": "https://www.iptvplayerweb.com/",
+  "controls": [],
+  "postControls": [],
+  "playlistSubmitted": false,
+  "channelClicked": false,
+  "manifestStatus": "000",
+  "ffprobeExitCode": "1",
+  "mediaResponses": [],
+  "requestFailures": [],
+  "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 402 ()"
+  ],
+  "videoState": []
+}
