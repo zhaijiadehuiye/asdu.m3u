@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the generated-source branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: timst-live-tv
           fetch-depth: 0
       - name: Refresh signed HLS URLs
-        run: python3 scripts/fetch_sources.py --url https://timst.top/live-tv --timeout 20 --workers 16
+        run: python3 scripts/fetch_sources.py --url https://tim-streams.com/live-tv --timeout 20 --workers 16
       - name: Create single-channel custom-header test playlist
         run: |
           python3 - <<'PY'
@@ -57,4 +57,5 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add generated/timst.m3u generated/test-channel.m3u
           git commit -m "Refresh Timst signed HLS playlist"
+          git pull --rebase origin timst-live-tv
           git push origin HEAD:timst-live-tv

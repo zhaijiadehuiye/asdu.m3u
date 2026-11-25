@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Fetch, clean and sort M3U
         run: |
@@ -147,7 +147,8 @@ jobs:
           git add kanqiu.m3u
           if ! git diff --cached --quiet; then
             git commit -m "chore: update and sort kanqiu.m3u"
-            git push
+            git pull --rebase origin main
+            git push origin main
           else
             echo "列表内容无变化，跳过提交"
           fi
