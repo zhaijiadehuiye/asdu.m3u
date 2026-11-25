@@ -17,7 +17,7 @@ permissions:
 jobs:
   check:
     if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 8
     env:
       PLAYLIST_URL: ${{ inputs.playlist_url || 'https://raw.githubusercontent.com/zhaijiadehuiye/asdu.m3u/timst-live-tv/generated/timst.m3u' }}
@@ -238,4 +238,5 @@ jobs:
           git add reports/iptvplayerweb-last.json
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "Record IPTVPlayerWeb probe result"
+          git pull --rebase origin timst-live-tv
           git push origin HEAD:timst-live-tv
