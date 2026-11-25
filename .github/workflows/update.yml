@@ -12,11 +12,11 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Fetch public stream URLs
         run: |
           set -e
-          python3 scripts/fetch_sources.py --url https://timst.top/live-tv
+          python3 scripts/fetch_sources.py --url https://tim-streams.com/live-tv
       - name: Validate generated M3U
         run: |
           awk 'BEGIN { entries=0; bad=0 }
@@ -32,4 +32,5 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add generated/timst.m3u
           git commit -m "Refresh Timst playlist"
-          git push
+          git pull --rebase origin timst-live-tv
+          git push origin timst-live-tv

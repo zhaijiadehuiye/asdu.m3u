@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Timst Test" source="judiaslevels.embeds.gay",Animal Planet
-#EXTVLCOPT:http-referrer=https://grandemx.org/
+#EXTINF:-1 tvg-name="beIN Sports MENA 7" group-title="Timst Test" source="tims-001.servehttp.com",beIN Sports MENA 7
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://judiaslevels.embeds.gay/main/secure/4502d43ddc7b60aa84deae385ea8ab3fea9ed334efa86896cde2451d86774ac9/1792203789/animalplanet-usa.m3u8
+https://tims-001.servehttp.com/main/secure/c184875b67e6beb3be5f08d73885077297d49aa53b73f91833bf2a9ef35abbb1/1795616157/beinsports7-sa.m3u8

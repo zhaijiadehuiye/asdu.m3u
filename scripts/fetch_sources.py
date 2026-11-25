@@ -16,16 +16,16 @@ from typing import Any
 from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
 
-DEFAULT_URL = "https://timst.top/live-tv"
-DEFAULT_API = ("https://timst.top/api/channels", "https://timst.top/api/live-upcoming")
+DEFAULT_URL = os.environ.get("TIMST_PAGE_URL", "https://tim-streams.com/live-tv")
+DEFAULT_API = ("https://tim-streams.com/api/channels", "https://tim-streams.com/api/live-upcoming")
 URL_RE = re.compile(r'''https?://[^"'<>\s]+''', re.I)
 STREAM_RE = re.compile(r"\.(?:m3u8?|mpd)(?:[?#]|$)", re.I)
 KEY_RE = re.compile(r"(?:m3u8?|stream|source|manifest|playlist|file|url)", re.I)
 # The page randomizes these variable names on each response. Restrict the
 # decoder to numeric arrays and the same XOR/offset shape used by the player.
 OBFUSCATED_RE = re.compile(
-    r"var\s+_[A-Za-z0-9]+\s*=\[((?:\s*\d+\s*,?)+)\],"
-    r"_[A-Za-z0-9]+\s*=\s*(\d+),_[A-Za-z0-9]+\s*=\s*(\d+),_[A-Za-z0-9]+\s*=\s*",
+    r"var\s+_[A-Za-z0-9]+\s*=\[((?:\s*\d+\s*,?)+)\],\s*"
+    r"_[A-Za-z0-9]+\s*=\s*(\d+),\s*_[A-Za-z0-9]+\s*=\s*(\d+)",
     re.S,
 )
 
@@ -115,6 +115,21 @@ def candidates(text: str, base_url: str) -> list[tuple[str, str]]:
             offset = int(match.group(3))
             decoded = "".join(chr(((value ^ key) - offset + 256) % 256) for value in values)
             out.extend(candidates(decoded, base_url))
+            ticket_match = re.search(r'"ticketUrl"\s*:\s*"([^"]+)"', decoded)
+            if ticket_match:
+                turl = ticket_match.group(1)
+                try:
+                    tk = turl.split("/")[-1]
+                    treq = Request(turl, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)", "Referer": base_url})
+                    with urlopen(treq, timeout=8) as tresp:
+                        b = tresp.read()
+                        if len(b) > 2:
+                            s = b[0]
+                            stream_url = "".join(chr(b[i] ^ ord(tk[(i - 1) % len(tk)]) ^ ((s + i - 1) & 255)) for i in range(1, len(b)))
+                            if STREAM_RE.search(stream_url):
+                                out.append((stream_url, ""))
+                except Exception:
+                    pass
         except (ValueError, OverflowError):
             continue
     return out
@@ -179,7 +194,7 @@ def parse_m3u(text: str, base_url: str) -> list[tuple[str, str, str, str]]:
 
 def attrs_for(name: str, source: str, original: str, index: int) -> str:
     safe = re.sub(r"[\r\n\"]", "", name).strip() or f"Timst TV {index:03d}"
-    host = urlparse(source).hostname or "timst.top"
+    host = urlparse(source).hostname or "tim-streams.com"
     return f'#EXTINF:-1 tvg-name="{safe}" group-title="Timst TV" source="{host}",{safe}'
 
 
@@ -248,10 +263,13 @@ def main() -> int:
     out = ["#EXTM3U", "# Generated from public page/feed data; refresh to update expiring URLs."]
     for i, (url, label) in enumerate(entries, 1):
         out.append(attrs_for(label, url, url, i))
-        if urlparse(url).hostname == "judiaslevels.embeds.gay":
+        if "embeds.gay" in (urlparse(url).hostname or ""):
             # The source is normally embedded by grandemx.org. Players that
             # support VLC options can preserve that normal referrer context.
             out.append("#EXTVLCOPT:http-referrer=https://grandemx.org/")
+            out.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
+        elif "servehttp.com" in (urlparse(url).hostname or "") or "shoewiki" in (urlparse(url).hostname or ""):
+            out.append("#EXTVLCOPT:http-referrer=https://shoewiki.click/")
             out.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
         out.append(url)
     # Never erase a previously generated playlist solely because the source is
@@ -264,6 +282,9 @@ def main() -> int:
     Path(args.report).parent.mkdir(parents=True, exist_ok=True)
     Path(args.report).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(report, ensure_ascii=False))
+    if not entries and output_path.exists():
+        print("Warning: no new entries found. Preserving existing playlist.")
+        return 0
     return 0 if entries else 2
 
 
