@@ -23,7 +23,7 @@ jobs:
       PLAYLIST_URL: ${{ inputs.playlist_url || 'https://raw.githubusercontent.com/zhaijiadehuiye/asdu.m3u/timst-live-tv/generated/timst.m3u' }}
     steps:
       - name: Check out source branch
-        uses: actions/checkout@v7
+        uses: actions/checkout@v6
         with:
           ref: timst-live-tv
           fetch-depth: 0
