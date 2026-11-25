@@ -1,954 +1,958 @@
 #EXTM3U
 # Generated from public page/feed data; refresh to update expiring URLs.
-#EXTINF:-1 tvg-name="AXS TV" group-title="Timst TV" source="tims-001.servehttp.com",AXS TV
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/a4241b9e5c1b86a0e5e424b5d42b70920df489657b0f741d8a358afb20b985b2/1795616525/axs-usa.m3u8
-#EXTINF:-1 tvg-name="ABC" group-title="Timst TV" source="tims-001.servehttp.com",ABC
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/19605a69fb17c4770f9ed6728b7f4782cd835539d283c3f09d7d805f850aaf3c/1795616525/abc-usa.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Francais 1" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports Francais 1
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/172e0d05900b2276c127be1574e34af8a55842699595e3f3cd93ad1d80c6fd29/1795616525/beinsports1-fr.m3u8
-#EXTINF:-1 tvg-name="BBC News" group-title="Timst TV" source="tims-001.servehttp.com",BBC News
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/a8a892a0246cc276e5e004bbd8b9b67bd00c7f6ddf413a6bc0bf00b6d6db524b/1795616525/bbcnews-uk.m3u8
-#EXTINF:-1 tvg-name="beIN Sports Francais 2" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports Francais 2
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/98112d60adc76a7064224c0799ede635671c8cca7f6c91aa50cc69a07ad9f22c/1795616525/beinsports2-fr.m3u8
-#EXTINF:-1 tvg-name="BBC One London" group-title="Timst TV" source="tims-001.servehttp.com",BBC One London
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7e4eff97ef8d480af5eebb748b991e7e2d553b4e9dcb0ac3290f4634589e4c27/1795616525/bbcone-uk.m3u8
-#EXTINF:-1 tvg-name="AMC" group-title="Timst TV" source="tims-001.servehttp.com",AMC
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c624b3a4878da415a2a48e9009dfb22b3ce1c4b054d344c30326b7c059f8f2a5/1795616525/amc-usa.m3u8
-#EXTINF:-1 tvg-name="BBC America" group-title="Timst TV" source="tims-001.servehttp.com",BBC America
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2d505d2e2e33759475cd40ddff1fe30c6bf066027b8c68a8e9f14b37452ecbad/1795616525/bbc-usa.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Timst TV" source="tims-001.servehttp.com",Animal Planet
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1524e420896dfc282ed270885fcc3a79ab4da1b7b4ae46f46b314a519336fee3/1795616525/animalplanet-usa.m3u8
 #EXTINF:-1 tvg-name="beIN Sports" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/6e9007289f859ab31e97581dfad760610b71acb649149681495f3a5f4caeb849/1795616525/beinsports-usa.m3u8
+https://tims-001.servehttp.com/main/secure/198a150bfece7e558f05f037e05baff305812a7a2239780414129641ff54a01e/1795617468/beinsports-usa.m3u8
+#EXTINF:-1 tvg-name="BBC News" group-title="Timst TV" source="tims-001.servehttp.com",BBC News
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/8b677ac13d934651dd1b1a580aa7e1db68304f92171fafc0df0048769275d7a8/1795617468/bbcnews-uk.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Francais 1" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports Francais 1
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/4ab716151cc660bc6eb7a447632a3badefe5b410fde10ce2569beb328f11edbe/1795617468/beinsports1-fr.m3u8
+#EXTINF:-1 tvg-name="BBC One London" group-title="Timst TV" source="tims-001.servehttp.com",BBC One London
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/5c861e505324f3dc83ba2c30dae9a29694ffcdca4c5811a9dc018f9e2ecce29a/1795617468/bbcone-uk.m3u8
+#EXTINF:-1 tvg-name="AMC" group-title="Timst TV" source="tims-001.servehttp.com",AMC
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/7c9595e1b6f8c297452b785daeef9a4ef103d1fbadf1ee09d4b0ae93d6f16b0f/1795617468/amc-usa.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Timst TV" source="tims-001.servehttp.com",Animal Planet
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/73f1616a77c757cb322396dda513abbec95cb98677c6f2a5086285e332892657/1795617468/animalplanet-usa.m3u8
+#EXTINF:-1 tvg-name="ABC" group-title="Timst TV" source="tims-001.servehttp.com",ABC
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/3587cf5084c6ab7576c17b3be91f369a1144c90d018a25f33c4f993642e6c32b/1795617468/abc-usa.m3u8
 #EXTINF:-1 tvg-name="beIN Sports Francais 3" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports Francais 3
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c600caa52fee12d85da5d87ccf08e4da0c1f918b719b846bc5887218483b21ec/1795616525/beinsports3-fr.m3u8
-#EXTINF:-1 tvg-name="ACC Network" group-title="Timst TV" source="tims-001.servehttp.com",ACC Network
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/86a9f86a599655c224ce2ba5ce7872c3f43ab7a53a3207ae915f51bfca244200/1795616525/accn-usa.m3u8
+https://tims-001.servehttp.com/main/secure/9d8cbdcbc0ad4c439d536b97842b2cf2d77ed2b643c1d29b1b651964caf76295/1795617468/beinsports3-fr.m3u8
 #EXTINF:-1 tvg-name="BBC Two" group-title="Timst TV" source="tims-001.servehttp.com",BBC Two
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/d01678fc1ca340bf150007e5c776fa2209512680d9e19603e2b26f392e821802/1795616525/bbctwo-uk.m3u8
+https://tims-001.servehttp.com/main/secure/089936c11a512db21f35ca5d9bcd02c6d19b042315b84cffe591c86b5aed7384/1795617468/bbctwo-uk.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Francais 2" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports Francais 2
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/7a41ed2448a865119b0a357a4258e0e44bb4f95a2cdb69229bd03a75a0338449/1795617468/beinsports2-fr.m3u8
+#EXTINF:-1 tvg-name="ACC Network" group-title="Timst TV" source="tims-001.servehttp.com",ACC Network
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/4942b112ff4468ed30802888a4a962594ed97703f95bf9654b4bb2132c337912/1795617469/accn-usa.m3u8
+#EXTINF:-1 tvg-name="BBC America" group-title="Timst TV" source="tims-001.servehttp.com",BBC America
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/9155e3406c593c385d76ee3d8253f6e11b8b8f41034ba6ec7a1de4e3fb36a5f8/1795617469/bbc-usa.m3u8
 #EXTINF:-1 tvg-name="AE" group-title="Timst TV" source="tims-001.servehttp.com",AE
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/8e2b4a4b955953679fadc09ada85d84723cc19027c6a3df3b988e31d17069c8b/1795616525/ae-usa.m3u8
+https://tims-001.servehttp.com/main/secure/c8c22a802bee230067214e26c248bb1b9febe53ecaa200b463ff5e97a9d2b491/1795617469/ae-usa.m3u8
+#EXTINF:-1 tvg-name="AXS TV" group-title="Timst TV" source="tims-001.servehttp.com",AXS TV
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/e5c40cba33724a3163c91a59a97d53cf015fb33b31eaa8cc2ab0de9bb43f5338/1795617469/axs-usa.m3u8
 #EXTINF:-1 tvg-name="beIN Sports MENA 1" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 1
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/483d2fefb4dfbed66fd7193e9c5e140f62331543ef48f764618d807d5acf68b7/1795616525/beinsports1-sa.m3u8
+https://tims-001.servehttp.com/main/secure/bb51af8dad0a01a9b8f8125fa67707387acdcff23a2171f015488eb2d2a9860b/1795617469/beinsports1-sa.m3u8
 #EXTINF:-1 tvg-name="beIN Sports MENA 2" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4716550672d8ddbb976a7028b725021880851e75dd41c838c1f8a5066f78c6f4/1795616526/beinsports2-sa.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MENA 3" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 3
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/169cc05a32e7aadd3172126322d42715dd87b2ed9012ad92ada541af36f351a2/1795616527/beinsports3-sa.m3u8
-#EXTINF:-1 tvg-name="Big Ten Network" group-title="Timst TV" source="tims-001.servehttp.com",Big Ten Network
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ca209f6e7b7e5cb30056a2c29c7ae236047081d12999fba6ddaafef870933adb/1795616527/big10-usa.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MENA 4" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 4
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2d73b8a534d3a9c239b9967e5c741beeef74a39204090e1caac39fafd920a7b5/1795616527/beinsports4-sa.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MENA 5" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 5
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/fce1ba4b5c8f9a05e3081871931538331fd694ea24bb6ff47b210406b04945bd/1795616527/beinsports5-sa.m3u8
-#EXTINF:-1 tvg-name="beIN Sports MENA 7" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 7
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ebac5013576d0a8d2fd3e4012d0887cff3daf242f07c92912e07f6e342ad11b9/1795616527/beinsports7-sa.m3u8
+https://tims-001.servehttp.com/main/secure/ca84c50f23425f5c6710c290555606d55699f8715b8a50cc1afb24c8eeb9ad14/1795617469/beinsports2-sa.m3u8
 #EXTINF:-1 tvg-name="beIN Sports MENA 6" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 6
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f70577949a44be78b1046894e5f5121825fc8ba3c95641891391160cf9d829ea/1795616527/beinsports6-sa.m3u8
-#EXTINF:-1 tvg-name="Boomerang" group-title="Timst TV" source="tims-001.servehttp.com",Boomerang
+https://tims-001.servehttp.com/main/secure/7a30f2f02425d42537c2c71fa597d0c8cf530f4325a7c3673e54bb25a8969ab2/1795617470/beinsports6-sa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 4" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 4
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/437aa7ca4e6ce8f9940f3715f881f30fc2652c9ba203fb8c4666e2db8e533911/1795616527/boomerang-usa.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport 3 PL" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Sport 3 PL
+https://tims-001.servehttp.com/main/secure/95ed20963a2c86850bc43a3c038ff3616930b819d8326a602fc4801d615851d2/1795617470/beinsports4-sa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 5" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 5
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ef4bb25b6b1a828612e641027009f3deaa036318587060a03facfa9f30553853/1795616527/canalsport3-pl.m3u8
-#EXTINF:-1 tvg-name="Bravo" group-title="Timst TV" source="tims-001.servehttp.com",Bravo
+https://tims-001.servehttp.com/main/secure/276e5bdb8d6ba91fc1ea79db59ea938a2e3efa50fd7d25305c7a6e6c469d9cd4/1795617470/beinsports5-sa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 7" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 7
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4d2f8240f4242a8b085f7ad0ea2ca5e9d1185efc84596b8b401dd0e14c86ed3b/1795616527/bravo-usa.m3u8
+https://tims-001.servehttp.com/main/secure/021c8475efe4babcc67c3a4ce5b733a7171f1d098ca0c4761ab7405e4c79cb5c/1795617470/beinsports7-sa.m3u8
 #EXTINF:-1 tvg-name="beIN Sports MENA 9" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 9
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/97e6f6fcb82131584ae4de1395789aca22ee9de70331119952f57204c6182fc9/1795616527/beinsports9-sa.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Extra 1" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Extra 1
+https://tims-001.servehttp.com/main/secure/034d170a7c343d98cceb00e356591d8cfcf1c1e029dcccfca90e55f740c446fb/1795617470/beinsports9-sa.m3u8
+#EXTINF:-1 tvg-name="Big Ten Network" group-title="Timst TV" source="tims-001.servehttp.com",Big Ten Network
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2a029dc29d8a93f88e2005666f833107aa2979037c00baccf0247f297da69fce/1795616527/canalextra1-pl.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Extra 2" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Extra 2
+https://tims-001.servehttp.com/main/secure/0e704f9a2950fad43029f944b1e86a88ac54a7d5c2297f70d13879f73372009e/1795617470/big10-usa.m3u8
+#EXTINF:-1 tvg-name="beIN Sports MENA 3" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 3
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e12155d65c7da5f1b0a5a5e5e5fe636a69b025630e88aee017905a0615d6fd02/1795616527/canalextra2-pl.m3u8
+https://tims-001.servehttp.com/main/secure/65b859793f1819139b4f7121e12e0a6cf3f3796a6ae83bffbc9b57ae165aff99/1795617470/beinsports3-sa.m3u8
 #EXTINF:-1 tvg-name="beIN Sports MENA 8" group-title="Timst TV" source="tims-001.servehttp.com",beIN Sports MENA 8
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e77a1248035f78f58ff7d361de9ffab43c066a0be1b98840e2f865429c5943f8/1795616527/beinsports8-sa.m3u8
+https://tims-001.servehttp.com/main/secure/c17ac45db4614718dd652c52b886e85f3a95f753ef0bc6d6f2b48c8c23b3ff33/1795617470/beinsports8-sa.m3u8
+#EXTINF:-1 tvg-name="Bravo" group-title="Timst TV" source="tims-001.servehttp.com",Bravo
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/9fbdf7d8b099600932b3076f990dd85aaf1a370945bc0403afd95101a905e45b/1795617470/bravo-usa.m3u8
 #EXTINF:-1 tvg-name="CANAL+ Sport 4 PL" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Sport 4 PL
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/223095f2ce70df8d20c212c394755816b7f7e53a6ac8b82768b924e64949ea3f/1795616527/canalsport4-pl.m3u8
+https://tims-001.servehttp.com/main/secure/3f971b02e1fcc0726261d9ad042391bdfacdce4f3309dd73850a2482b86c0cd0/1795617470/canalsport4-pl.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Extra 2" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Extra 2
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/e4a5f62a9abc3ed6af87547024964e5e639e6eed7ef8619cb4d37633a4641c3a/1795617470/canalextra2-pl.m3u8
+#EXTINF:-1 tvg-name="Boomerang" group-title="Timst TV" source="tims-001.servehttp.com",Boomerang
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/8cc6ad3552af942d1f07cda5e62a34b6f601469eb4831942dd3952eeac335d28/1795617470/boomerang-usa.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport 3 PL" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Sport 3 PL
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/b3b2301415bd182cd44f5963b1e5239ccba78e89dc293b4d06bdc8db8ff4b87e/1795617470/canalsport3-pl.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Extra 1" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Extra 1
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/5a0505c4c11ae8c78e7b5dad02182b630c720daf8e1ad14c7e4db19288af66e7/1795617470/canalextra1-pl.m3u8
 #EXTINF:-1 tvg-name="CANAL+ Sport 5 PL" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Sport 5 PL
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/8ea0cdc75e9c98df3e3ddbd472b5c2c6ab7e2f3262c2d0c06a06b4fbb0a1585f/1795616528/canalsport5-pl.m3u8
+https://tims-001.servehttp.com/main/secure/d688d08dda187d38db8628a518f11d2ffc7e130ea0317da6348ca44d10c24482/1795617470/canalsport5-pl.m3u8
 #EXTINF:-1 tvg-name="CANAL+ Sport 6 PL" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Sport 6 PL
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ff8e34c6ca1f666f7e3b57bdeaba8381e6a8999c4f69a6a763536206f20e0a92/1795616528/canalsport6-pl.m3u8
+https://tims-001.servehttp.com/main/secure/cb6f47407cde3227f6c73fe2b60916620c1e0b8dcb1af151357774cd82aa9e9c/1795617470/canalsport6-pl.m3u8
 #EXTINF:-1 tvg-name="CANAL+ Sport 360 FRANCE" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Sport 360 FRANCE
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1bd72c2022c7389a1ae01cbfe612beb00c412f45e9774122be64de728f67e686/1795616529/canalsport360-fr.m3u8
-#EXTINF:-1 tvg-name="CANAL+ Sport PL" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Sport PL
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/30f2f6d2c07ed95516f4446e1b82fcd40d2694987355e588f693ad0c3120d019/1795616529/canalsport-pl.m3u8
-#EXTINF:-1 tvg-name="CBeebies" group-title="Timst TV" source="tims-001.servehttp.com",CBeebies
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/d38fa21ab91edf27086665209d03372c0ccb3ba7339ea8e51c9da65a00a14a84/1795616529/cbeebies-uk.m3u8
-#EXTINF:-1 tvg-name="CBS Sports Network" group-title="Timst TV" source="tims-001.servehttp.com",CBS Sports Network
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/bf7ebcb87b4c6d25c93f71e122951cc40cdc1e8c2764d619abed50b90b25dd84/1795616529/cbssn-usa.m3u8
+https://tims-001.servehttp.com/main/secure/23ed2c5c0296eee6544f59dd5776d3d0b3c168575287a76b8b945b12b4e7cc50/1795617471/canalsport360-fr.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Timst TV" source="tims-001.servehttp.com",Cartoon Network
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/38d8f467b696bae91d668b05d1b3be93d69e9a32fa5b4d2737a325f96b6fefbf/1795616529/cartoonnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="CNN" group-title="Timst TV" source="tims-001.servehttp.com",CNN
+https://tims-001.servehttp.com/main/secure/ab46256643ccb297b1c5ebb25caaf2eb8c69134619cceff4dc2d2ebf1db6de15/1795617471/cartoonnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="CBeebies" group-title="Timst TV" source="tims-001.servehttp.com",CBeebies
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2f05950f55c39c21adbb081370ab95137fdd6a58d28b8a835b3e41920a4d6f63/1795616529/cnn-usa.m3u8
-#EXTINF:-1 tvg-name="Comedy Central" group-title="Timst TV" source="tims-001.servehttp.com",Comedy Central
+https://tims-001.servehttp.com/main/secure/609051ec65e07ddfdd7945cff50486f6384b825ecc9d804e47786c38e3473cac/1795617471/cbeebies-uk.m3u8
+#EXTINF:-1 tvg-name="CANAL+ Sport PL" group-title="Timst TV" source="tims-001.servehttp.com",CANAL+ Sport PL
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e3f3863c0cb6869e0a18bc41ce3dde975a340788da2a855afd0deb1cbe410846/1795616529/comedycentral-usa.m3u8
-#EXTINF:-1 tvg-name="CNBC" group-title="Timst TV" source="tims-001.servehttp.com",CNBC
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/db146602bf34689004b4a45330d08a99569fa66dc76b4a76985cd786630744e0/1795616529/cnbc-usa.m3u8
-#EXTINF:-1 tvg-name="CW" group-title="Timst TV" source="tims-001.servehttp.com",CW
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/627ed549848182bb2a74fc4eb83c89870db844170f925d7adda55e543bb06519/1795616529/cw-usa.m3u8
+https://tims-001.servehttp.com/main/secure/d3590f78ba3d7a8f896cc3f939a8d0cfd3bfb6867b8de9b242f9a3f0409af25a/1795617471/canalsport-pl.m3u8
 #EXTINF:-1 tvg-name="CBS" group-title="Timst TV" source="tims-001.servehttp.com",CBS
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/056e7df8012e98a45e82cef7924dbc0548ae9e5349bbcdc4804c37b6f52addeb/1795616529/cbs-usa.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 Portugal" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 1 Portugal
+https://tims-001.servehttp.com/main/secure/939188943b7f359005b2d52de77f222f176d66d34bf03466a23985e093584820/1795617471/cbs-usa.m3u8
+#EXTINF:-1 tvg-name="CNBC" group-title="Timst TV" source="tims-001.servehttp.com",CNBC
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/59469d940ddaf5e3253cafc747b8979bee21665eb4de42bfbff5b4e6cd358608/1795616529/dazn1-pt.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 Italia" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 1 Italia
+https://tims-001.servehttp.com/main/secure/0864eb0641b0e6c6ab4f51456885211f13eb403afd12eb9c7338f32ed8df77a8/1795617471/cnbc-usa.m3u8
+#EXTINF:-1 tvg-name="CBS Sports Network" group-title="Timst TV" source="tims-001.servehttp.com",CBS Sports Network
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1b6e9d497973d4a5a8a5bcf49a34c9091615838466d21c64f70d991805aab80b/1795616530/dazn1-it.m3u8
+https://tims-001.servehttp.com/main/secure/123ac42652c184bb45c8f782ed9188528146f3f32f698b05bdf4318cebf07994/1795617471/cbssn-usa.m3u8
+#EXTINF:-1 tvg-name="CNN" group-title="Timst TV" source="tims-001.servehttp.com",CNN
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/f02453f849e7e60f3e39af613ac441c67c3cee4ef949ca13f72a367584ac8a32/1795617471/cnn-usa.m3u8
+#EXTINF:-1 tvg-name="CW" group-title="Timst TV" source="tims-001.servehttp.com",CW
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/a3605e2eac4849a0dc4dd6a8bff2c88232ec0710d6b2b6e6ec326e791dfb5b6b/1795617471/cw-usa.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" group-title="Timst TV" source="tims-001.servehttp.com",Comedy Central
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/0bf3dc6726e5e3891c03bdcc2b3bf79647c00d10c3576d1706e534df1ccf846e/1795617471/comedycentral-usa.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 Spain" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 1 Spain
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/60fd5558eb753cdfa201d60ba6d35d28334a34ac8a1b7841d47ee77e67e5264d/1795616530/dazn1-es.m3u8
+https://tims-001.servehttp.com/main/secure/b671ccf33e57b4bd5efaca4681e455bebbea44b96bab87607ca52c9c3a2d6fb3/1795617471/dazn1-es.m3u8
 #EXTINF:-1 tvg-name="DAZN 1 Germany" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 1 Germany
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7ecdbef3ef55bc0dc6f79c9b3fad7d122c98d7ea4a2e7b754a2924278ce49638/1795616530/dazn1-de.m3u8
-#EXTINF:-1 tvg-name="DAZN 1 USA" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 1 USA
+https://tims-001.servehttp.com/main/secure/2696c3f7de6bd9e86872d532fd74daf9d419d4f31784323cb2d5469038dcd6db/1795617472/dazn1-de.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 Italia" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 1 Italia
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/be2236e3c072b6ade35f7f5741d2c1a82d83850d6af94bc85311301de55a5b21/1795616530/dazn1-usa.m3u8
+https://tims-001.servehttp.com/main/secure/bea48884f3c8155817def9fb343431c9d69dadb0cd27a77efe5e8b894dc8b54d/1795617472/dazn1-it.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 Portugal" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 1 Portugal
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/d53c893655c68277f4e93a9becc8883b18a4d4cf1fe6f15c1c50fe41fc2f56df/1795617472/dazn1-pt.m3u8
 #EXTINF:-1 tvg-name="DAZN 2 Germany" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 2 Germany
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c7e5cf7e7c9ef9794e70e725be9e851a525cf4e6688a93b2578672346391b9cf/1795616530/dazn2-de.m3u8
+https://tims-001.servehttp.com/main/secure/91f01f4b9778849ef1ecf571e383df82c8560cd7ac0295d6da2cf5f95fb3848e/1795617472/dazn2-de.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 USA" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 1 USA
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/7b0f19d5349686639a8d58feb30b3d9530c77ee1e60fe6d8ed26d2960984d4b9/1795617472/dazn1-usa.m3u8
 #EXTINF:-1 tvg-name="DAZN 2 Spain" group-title="Timst TV" source="tims-001.servehttp.com",DAZN 2 Spain
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/0cfba8b9a34d69823c582843d908dbe1d91e08b4edb09ddda6b38cf78fb5da25/1795616531/dazn2-es.m3u8
-#EXTINF:-1 tvg-name="DAZN F1" group-title="Timst TV" source="tims-001.servehttp.com",DAZN F1
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/656eacd76af781110fa42677f3bbf479bb8eb41d2523f42d54a8caae5e4ea078/1795616531/daznf1-es.m3u8
-#EXTINF:-1 tvg-name="DAZN LaLiga" group-title="Timst TV" source="tims-001.servehttp.com",DAZN LaLiga
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/a4a523e94dc52bbc77384ce4cb985162972ee2f7771134bc80881dda74c8cab8/1795616531/daznlaliga-es.m3u8
-#EXTINF:-1 tvg-name="Discovery Family" group-title="Timst TV" source="tims-001.servehttp.com",Discovery Family
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f091e906e7fdf170678e34ccde9698ae058898ceaaa657fc95b97aa695b3cd85/1795616531/discoveryfamily-usa.m3u8
+https://tims-001.servehttp.com/main/secure/2d81bcb954724118e29ddf6d2698afbcdb36b1f05ec425321861d938542303e9/1795617472/dazn2-es.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" group-title="Timst TV" source="tims-001.servehttp.com",Discovery Channel
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/3ce8f46ac612e2f9f80bc0d5e9574111a7156d54a8560f1a308706ca0989c8ea/1795616532/discovery-usa.m3u8
-#EXTINF:-1 tvg-name="Discovery Turbo" group-title="Timst TV" source="tims-001.servehttp.com",Discovery Turbo
+https://tims-001.servehttp.com/main/secure/d590ab73b7c6699ab93d690f65c9f17d26d61bf7acb706184114280038fb9391/1795617473/discovery-usa.m3u8
+#EXTINF:-1 tvg-name="DAZN LaLiga" group-title="Timst TV" source="tims-001.servehttp.com",DAZN LaLiga
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/b7540ffe88352a8806079e569c28a4241931aa983880adb94e8aa3c0ad63939d/1795616532/discoveryturbo-usa.m3u8
+https://tims-001.servehttp.com/main/secure/1a911ebf8bafc90e0f7b6343666a53d2d86faa196d13e9fda849f9e99e241322/1795617473/daznlaliga-es.m3u8
+#EXTINF:-1 tvg-name="DAZN F1" group-title="Timst TV" source="tims-001.servehttp.com",DAZN F1
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/af5987597dc721c5be06eb7ff6f85dad635258b75956126a892d5d595d52f4ab/1795617473/daznf1-es.m3u8
 #EXTINF:-1 tvg-name="Dirtvision Now 24/7" group-title="Timst TV" source="tims-001.servehttp.com",Dirtvision Now 24/7
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/32cbb3919617bd9d6fe16a6743b31b4f1b2510dc7c87adc8ae9bb12c6a2bde36/1795616532/dirtvisionnow-usa.m3u8
+https://tims-001.servehttp.com/main/secure/c048ad06c53031bf5c47e6e796782f3b54ce0e7617dee68c4f4a3af2769ee954/1795617473/dirtvisionnow-usa.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo" group-title="Timst TV" source="tims-001.servehttp.com",Discovery Turbo
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/25105d888291374370423cbf3eb3bd778d4b759cb1fe295a99192abcbdb18ceb/1795617473/discoveryturbo-usa.m3u8
+#EXTINF:-1 tvg-name="Discovery Family" group-title="Timst TV" source="tims-001.servehttp.com",Discovery Family
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/68d14c9a0475a6dc5f0bcb76a5cd5e0352e8c4e996f78c657fa67c4a68b42fad/1795617473/discoveryfamily-usa.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Timst TV" source="tims-001.servehttp.com",Disney Channel
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/68a6b2f9f4726df572cf6745f9633b38361cd82f4038fbc6e711e65a0ff87526/1795616532/disneychannel-usa.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 1" group-title="Timst TV" source="tims-001.servehttp.com",Eleven Sports 1
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/6ccc50520116c166b55ce0a8fde80e93cc0c9ab1ee90fbc0176e2a94c7de9de3/1795616532/elevensports1-pl.m3u8
+https://tims-001.servehttp.com/main/secure/bc12f55e9e44895d7ec169454b1dcb03b624547d802b41e97a2cc61f7b2c903c/1795617473/disneychannel-usa.m3u8
 #EXTINF:-1 tvg-name="Disney Junior" group-title="Timst TV" source="tims-001.servehttp.com",Disney Junior
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/dcd790e0687ff0a95090b1ae1d6e67371feb241bfa8fff9d052e226d11814b17/1795616532/disneyjunior-usa.m3u8
+https://tims-001.servehttp.com/main/secure/e55a55dbdb90b6559bc33f6d75cce8c1708f3a4246560643e116da6351a6c4f5/1795617473/disneyjunior-usa.m3u8
 #EXTINF:-1 tvg-name="Disney XD" group-title="Timst TV" source="tims-001.servehttp.com",Disney XD
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/cfc0683ee869dcbaa062c0f403c4090554930d65ec31732dc2dd86b9e9fe4d0a/1795616532/disneyxd-usa.m3u8
+https://tims-001.servehttp.com/main/secure/722c836d223e28e4f342dedb8a34369a09221b49dba8353520d1336846004bd8/1795617473/disneyxd-usa.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 1" group-title="Timst TV" source="tims-001.servehttp.com",Eleven Sports 1
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/f0c863fab3dac26b9769b3617ba86a33a010468f2c5abbbdbdd49bece906b18d/1795617473/elevensports1-pl.m3u8
 #EXTINF:-1 tvg-name="Eleven Sports 2" group-title="Timst TV" source="tims-001.servehttp.com",Eleven Sports 2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/cab996369b43462350e7cc05fdc13ba0fe65852535a2ff6da463eebe47ff5df8/1795616532/elevensports2-pl.m3u8
+https://tims-001.servehttp.com/main/secure/6273756e70054911936c4edc2905360fc9c1e677cab5265ba2dc2a885b949475/1795617473/elevensports2-pl.m3u8
 #EXTINF:-1 tvg-name="Eleven Sports 4" group-title="Timst TV" source="tims-001.servehttp.com",Eleven Sports 4
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/476d54ede773a8921cdbb5f7c4bc4ef0c3497685b4d61c01cb57908f3052587f/1795616532/elevensports4-pl.m3u8
-#EXTINF:-1 tvg-name="ESPN" group-title="Timst TV" source="tims-001.servehttp.com",ESPN
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ce2ac88f644f2c840d27dda949f3b0bcd32a9a5311b72de395d62e35a7f9ca7c/1795616532/espn-usa.m3u8
+https://tims-001.servehttp.com/main/secure/123c8447bda261a8843b18024c72e7d68f2a8e8e9b0edd6a767f97b19f0e9547/1795617473/elevensports4-pl.m3u8
 #EXTINF:-1 tvg-name="ESPN Deportes" group-title="Timst TV" source="tims-001.servehttp.com",ESPN Deportes
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/8369cc65ea0df27c36ad6ac944060b9fb12f67cf31eda02c5f78c1bc76f78e21/1795616532/espndeportes-usa.m3u8
+https://tims-001.servehttp.com/main/secure/fe26a8618bdfc3ab1f6cf9d78f5b7c907cad935c963edb00e3895163a21705cb/1795617473/espndeportes-usa.m3u8
 #EXTINF:-1 tvg-name="ESPN2" group-title="Timst TV" source="tims-001.servehttp.com",ESPN2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ce9732f14e9fc74b1512e843059b5bbb031367d97228d6b0038f8ef193dd1dfd/1795616532/espn2-usa.m3u8
-#EXTINF:-1 tvg-name="ESPNU" group-title="Timst TV" source="tims-001.servehttp.com",ESPNU
+https://tims-001.servehttp.com/main/secure/a1b18b5f64bc662347b0732e79c4b5e4569749db8e4bf10e8725dbbfaf99e39a/1795617473/espn2-usa.m3u8
+#EXTINF:-1 tvg-name="ESPN" group-title="Timst TV" source="tims-001.servehttp.com",ESPN
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7f04e515ca0852738cbe5869cafcedf108c03dbd028c0e8fc68fa0860434880a/1795616533/espnu-usa.m3u8
+https://tims-001.servehttp.com/main/secure/8a44baaf883e0374c1ac4b610117f2292fe57fea3c52dd4930ec410229846173/1795617473/espn-usa.m3u8
 #EXTINF:-1 tvg-name="ESPNEWS" group-title="Timst TV" source="tims-001.servehttp.com",ESPNEWS
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c1cb017f81c6f2f433458389424aec4f4a6d81e1ac2f7f15724f4159a6472f07/1795616533/espnews-usa.m3u8
+https://tims-001.servehttp.com/main/secure/50381bdb3771465ea0c3659f5fe6787f333fa9b7855ba8910f11d1efe2a1fa78/1795617474/espnews-usa.m3u8
+#EXTINF:-1 tvg-name="ESPNU" group-title="Timst TV" source="tims-001.servehttp.com",ESPNU
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/e9f3cb3fc29e18a7139ab4596e826294868d58dea33b16269202b4a8f9b9d29d/1795617474/espnu-usa.m3u8
 #EXTINF:-1 tvg-name="Fox Deportes" group-title="Timst TV" source="tims-001.servehttp.com",Fox Deportes
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e2b1af585e99349a794edf3f4a6efe76296b3e58d58dce3a25e654018df8b2a8/1795616534/foxdeportes-usa.m3u8
+https://tims-001.servehttp.com/main/secure/bb7dc39a13a5f5e64aa989dc54a145ce1425f0086fecfe3895af576a0eb071d2/1795617474/foxdeportes-usa.m3u8
 #EXTINF:-1 tvg-name="Fox News" group-title="Timst TV" source="tims-001.servehttp.com",Fox News
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e7e4af79e934f485e51ba6e3b61b68d6c978196665392c0e6babd1caa82efd27/1795616534/foxnews-usa.m3u8
+https://tims-001.servehttp.com/main/secure/2070fa385ef8ada6eeeefcc3bd41a2b3c4f348ef13a9ad2fd167d1f98177a130/1795617474/foxnews-usa.m3u8
 #EXTINF:-1 tvg-name="Fox" group-title="Timst TV" source="tims-001.servehttp.com",Fox
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/56d46c38715815504a2690c8b036513cf78feb0d4aa1e35db1cc6f6d76f3f05c/1795616534/fox-usa.m3u8
-#EXTINF:-1 tvg-name="Food Network" group-title="Timst TV" source="tims-001.servehttp.com",Food Network
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ff6a4a26552ece8af05af3f8629925a5eca8ed9d9598f07c747cc624500e47e1/1795616534/foodnetwork-usa.m3u8
+https://tims-001.servehttp.com/main/secure/f2edceaa42722ba3b712ce1b35c32687a9c2c5f82c96b1152050094e2988bad1/1795617474/fox-usa.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/14aba08720e921c960f72918ae719262cc4b4ebaf02643e7082c06844b9bc217/1795616534/fox-sports-2.m3u8
+https://tims-001.servehttp.com/main/secure/9f0323613a2702e12ebb4cbe78b7d80a41489cec7010504d7179955b904b4f93/1795617474/fox-sports-2.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 1
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/9e25308d2f668ab9b86e35f4624d0cbc4909ce6c8963559960b326acefb72211/1795616534/fox-sports-1.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 501 (Cricket)" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 501 (Cricket)
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/624e78f09d07d52ccacb24ec71b29ad555bea9500a110de98fddca20b8604c55/1795616534/fox-sports-501.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 505" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 505
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/894a9f4291147426c5a605f9401212465f99aa1ca7ed06b2a560104a80f0ea9f/1795616534/fox-sports-505.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 504 (Footy)" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 504 (Footy)
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f9744e97a19bac9148777589927448ebadf6d9d3e312c46d10c389ac9ef7f0be/1795616534/fox-sports-504.m3u8
+https://tims-001.servehttp.com/main/secure/5628ba108b9729c09ef3e2819e477cf565beac2fe99287f588b5250236a1826f/1795617474/fox-sports-1.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 502 (League)" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 502 (League)
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/b221fe3fe11f539278426c9e4ba642e240e83540ae81e2db0285771c30197b95/1795616534/fox-sports-502.m3u8
+https://tims-001.servehttp.com/main/secure/99c86c06670e91eec3a03e7562ad2f15120ead512f1362bf13050242cf034b24/1795617474/fox-sports-502.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 503" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 503
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ac3bbb6ff6121cc7c9a756372293d2c06e08f564bf0305cea8e7b7bd572b2b77/1795616534/fox-sports-503.m3u8
-#EXTINF:-1 tvg-name="Freeform" group-title="Timst TV" source="tims-001.servehttp.com",Freeform
+https://tims-001.servehttp.com/main/secure/578cd3f8ffa8e3240f8000a5b334f2e61c0560e0e3d0de49dc820e515bda73a7/1795617474/fox-sports-503.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 501 (Cricket)" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 501 (Cricket)
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/00eab8bb95e03b7e5c03282177b9573ad3ada730ec30099d99dfc3193c8f57b2/1795616534/freeform-usa.m3u8
+https://tims-001.servehttp.com/main/secure/cdc093890ae5986f728945d9be6a38c959e050fe36b3c076bf5456b746833626/1795617474/fox-sports-501.m3u8
+#EXTINF:-1 tvg-name="Food Network" group-title="Timst TV" source="tims-001.servehttp.com",Food Network
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/82308494981f9a20f3cf36322920794c70f381289db3a3245f9650c67f6c309f/1795617474/foodnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 504 (Footy)" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 504 (Footy)
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/738f58c0d0d52317f4bf903497b3a4a6e756c554ba770ca2d7a1b7893a6c113a/1795617474/fox-sports-504.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 505" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 505
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/b0382175715d86ef9837ad90e354a31433459d8247dbc9ce315a7519390c3a99/1795617475/fox-sports-505.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 506" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 506
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/0ab8972d87d24602f50b63d71089c45ffee720bb438dae4c48b1c893d7cae3dd/1795616534/fox-sports-506.m3u8
+https://tims-001.servehttp.com/main/secure/f3e863979a9518b72c9b3d6e6c6903257dd86fe485f57cb24da96c56d0d1ca3b/1795617475/fox-sports-506.m3u8
+#EXTINF:-1 tvg-name="Freeform" group-title="Timst TV" source="tims-001.servehttp.com",Freeform
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/afd2bbfb31e33859c7e73648c81783dfb3d2e45f625dc61a830bccf861be039a/1795617475/freeform-usa.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 507" group-title="Timst TV" source="tims-001.servehttp.com",Fox Sports 507
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/cc125b9f10908eaa073768c547a15c4690f4ca34a896fd7111e3157d6f5b4d1f/1795616534/fox-sports-507.m3u8
+https://tims-001.servehttp.com/main/secure/00371226e8c2712d20d34ed1037504bb0f3a1de11f784d8351937900521f63b8/1795617475/fox-sports-507.m3u8
 #EXTINF:-1 tvg-name="FX" group-title="Timst TV" source="tims-001.servehttp.com",FX
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/01f6cda042c54413e441448691f1f79a1e113450e19770f4ce03d437b7a3c101/1795616535/fx-usa.m3u8
-#EXTINF:-1 tvg-name="FXM" group-title="Timst TV" source="tims-001.servehttp.com",FXM
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/a4b6b3be083e66fc52c942fef19ff103b78e9ff8fcc478f35dd29c607f52f784/1795616535/fxm-usa.m3u8
+https://tims-001.servehttp.com/main/secure/72ecbf2e991b9ae10f9cb3be9f0c847509f0fcad86de57bac5620cdc3df3811b/1795617475/fx-usa.m3u8
 #EXTINF:-1 tvg-name="FXX" group-title="Timst TV" source="tims-001.servehttp.com",FXX
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f3425942389a3eb13c45036b2c00767873a01e2eb6623fe8e13b31f19c64b5fe/1795616536/fxx-usa.m3u8
+https://tims-001.servehttp.com/main/secure/90fb25203c75cf3df9acc4705ff45b67e042d92ef13248b1ae3b7ae61ae395d2/1795617475/fxx-usa.m3u8
 #EXTINF:-1 tvg-name="Go3 Sport 1" group-title="Timst TV" source="tims-001.servehttp.com",Go3 Sport 1
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1a8d0780280600f6e37b8c1bf9e3f9b746fd7e23ca17de806202e5dd3b1c1354/1795616536/go3sport1-lt.m3u8
+https://tims-001.servehttp.com/main/secure/1e635e49e757d96301d2d3a47cc928d73a0f923679e1ba22c3c4dad804058897/1795617475/go3sport1-lt.m3u8
 #EXTINF:-1 tvg-name="Go3 Sport 2" group-title="Timst TV" source="tims-001.servehttp.com",Go3 Sport 2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ebd1f5dd7a23b1682ec75da5dc616d24d2b0fe64c87bb95deb4bf2a70682709d/1795616536/go3sport2-lt.m3u8
+https://tims-001.servehttp.com/main/secure/dbb5ac3fa1669ce3cd11a6c4805682ee445f354bdb87f62eda93a6f8d135c504/1795617475/go3sport2-lt.m3u8
+#EXTINF:-1 tvg-name="FXM" group-title="Timst TV" source="tims-001.servehttp.com",FXM
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/6eee7763ab036d04f5899fc5e673682bc5f7c820e5ec14ccbb8ff7d50a24fc42/1795617475/fxm-usa.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 3" group-title="Timst TV" source="tims-001.servehttp.com",Go3 Sport 3
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/fa5d35da202620c1c9dd4355c6993706dcd57bdf441014223debcca7bf6bca0c/1795617476/go3sport2-lt.m3u8
 #EXTINF:-1 tvg-name="GOLF Channel" group-title="Timst TV" source="tims-001.servehttp.com",GOLF Channel
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/596600d3030510996974e0e35f993de16caf3e8291938ec0a90e271ddcbd9497/1795616536/golfchannel-usa.m3u8
-#EXTINF:-1 tvg-name="HBO" group-title="Timst TV" source="tims-001.servehttp.com",HBO
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/30167dc190845552c0ad02b70fb1bd3103c85e2c63351bfca7310bece56acfb0/1795616536/hbo-usa.m3u8
-#EXTINF:-1 tvg-name="HBO Comedy" group-title="Timst TV" source="tims-001.servehttp.com",HBO Comedy
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/067cb1c803d654a4e56a91b228594dfcee815627141bfbd6fcfddd318da6d5b5/1795616536/hbocomedy-usa.m3u8
+https://tims-001.servehttp.com/main/secure/e381ccdebb1beb23bc5b9c490166404a26f1c1a3fa7eb66bda0b7e7d67e140c8/1795617476/golfchannel-usa.m3u8
 #EXTINF:-1 tvg-name="HBO Drama" group-title="Timst TV" source="tims-001.servehttp.com",HBO Drama
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f87a2a96255fe6cc1c2c6b6e6cef1f41e14032ff2aebf3334caf1ba03c04b2b1/1795616536/hbodrama-usa.m3u8
-#EXTINF:-1 tvg-name="HGTV" group-title="Timst TV" source="tims-001.servehttp.com",HGTV
+https://tims-001.servehttp.com/main/secure/0a87229b30ff47210427a2d2e36f931a6789b6fa67767a5973698cb8fb03cbcd/1795617476/hbodrama-usa.m3u8
+#EXTINF:-1 tvg-name="HBO" group-title="Timst TV" source="tims-001.servehttp.com",HBO
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/df92c960bbe0008851e2bc8b4f30a48180091ff8352acfeedf8fe2525ae37618/1795616536/hgtv-usa.m3u8
+https://tims-001.servehttp.com/main/secure/0c3a1a5ef3815d302f7f7a467851993f1444c1dd8d32a4beb7b0e905ce284f63/1795617476/hbo-usa.m3u8
 #EXTINF:-1 tvg-name="Hub Sports 1 Singapore" group-title="Timst TV" source="tims-001.servehttp.com",Hub Sports 1 Singapore
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1a98de46e43c68b7152e8ec07988b0489691fbb6a1b2234f19b4970f8999be75/1795616536/hub-sports-1-sg.m3u8
-#EXTINF:-1 tvg-name="Hub Sports 3 Singapore" group-title="Timst TV" source="tims-001.servehttp.com",Hub Sports 3 Singapore
+https://tims-001.servehttp.com/main/secure/a6907901722bf18822b5e09c39331f1d36cfbe7b7773a6be267cfbc1153773a1/1795617476/hub-sports-1-sg.m3u8
+#EXTINF:-1 tvg-name="HBO Comedy" group-title="Timst TV" source="tims-001.servehttp.com",HBO Comedy
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7bf8642828e097f59e3a3f44c58a842a37a3a04ecbf9fd770689ca2e8cc2e782/1795616536/hub-sports-3-sg.m3u8
-#EXTINF:-1 tvg-name="Hub Sports 4 Singapore" group-title="Timst TV" source="tims-001.servehttp.com",Hub Sports 4 Singapore
+https://tims-001.servehttp.com/main/secure/1de01747f6277f991b8c3cd130ef4c31343f78ff2b6c54cff3158682069c0a25/1795617476/hbocomedy-usa.m3u8
+#EXTINF:-1 tvg-name="HGTV" group-title="Timst TV" source="tims-001.servehttp.com",HGTV
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1e433b59178b6e6431d1af0088929747cc30a63e78374240ee0243a433d36b2f/1795616537/hub-sports-4-sg.m3u8
+https://tims-001.servehttp.com/main/secure/12ebb4d3bf8cedc7966009025a91606f53f03d3ea495280900d48f51f1fc8e5a/1795617476/hgtv-usa.m3u8
 #EXTINF:-1 tvg-name="Hub Sports 5 Singapore" group-title="Timst TV" source="tims-001.servehttp.com",Hub Sports 5 Singapore
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c0365e1bb5725d5dfd369bc5c18d3fe05062664e9abc3bda66aa4315b0b757f5/1795616537/hub-sports-5-sg.m3u8
+https://tims-001.servehttp.com/main/secure/d8abefff249d48c39d75ab7fe2b37c808e341a4534b3b1e8765ce21ba1e57036/1795617476/hub-sports-5-sg.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 4 Singapore" group-title="Timst TV" source="tims-001.servehttp.com",Hub Sports 4 Singapore
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/0cdb1902181c53e162737fa916dc968e78ad56b4b85d3d7cfec7b7c912b7f082/1795617476/hub-sports-4-sg.m3u8
+#EXTINF:-1 tvg-name="Hub Sports 3 Singapore" group-title="Timst TV" source="tims-001.servehttp.com",Hub Sports 3 Singapore
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/b64ee00dfa1152bee058aee5d370c843b6d32930d8f350da8c9ff1ec5bda634e/1795617476/hub-sports-3-sg.m3u8
 #EXTINF:-1 tvg-name="L'Équipe FR" group-title="Timst TV" source="tims-001.servehttp.com",L'Équipe FR
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/9253682f868371bddabb500e84daa13deb861c03e0aa81f89dab56b2cbd028d6/1795616537/fr_lequipe.m3u8
+https://tims-001.servehttp.com/main/secure/d2dd484b79c65265895e891e0d3386621d88f5c443b1139e5dd9717ead418625/1795617476/fr_lequipe.m3u8
 #EXTINF:-1 tvg-name="MAX Sport 1 HR" group-title="Timst TV" source="tims-001.servehttp.com",MAX Sport 1 HR
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c48ee968cf691db6d585144286d2288cc648feb1ea7e70510e27af643ee8da74/1795616537/hr_maxsport1.m3u8
-#EXTINF:-1 tvg-name="MAX Sport 2 HR" group-title="Timst TV" source="tims-001.servehttp.com",MAX Sport 2 HR
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/dac8510e1cc9e5864187209612bc0fe0d7b1a4527f47f8ef8d9933058c3aafe3/1795616537/hr_maxsport2.m3u8
-#EXTINF:-1 tvg-name="MLB Network" group-title="Timst TV" source="tims-001.servehttp.com",MLB Network
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4836b760673362057da04b729b7f52bc77030e8c8aa00cebee535eae19c72f55/1795616538/mlbnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="Movistar Deportes 2" group-title="Timst TV" source="tims-001.servehttp.com",Movistar Deportes 2
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1611e30c645ee4169ed07c5b0078356baf98ae8e584813ce091de50c23d60476/1795616538/movistardeportes2-es.m3u8
+https://tims-001.servehttp.com/main/secure/0f2c3af7c39aeed6e3e63912812d1ec172d6a5977434d90aa0b7ee268a9fb1fa/1795617476/hr_maxsport1.m3u8
 #EXTINF:-1 tvg-name="MotoGP Channel" group-title="Timst TV" source="tims-001.servehttp.com",MotoGP Channel
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/121238eccf2140d346303fb4970b4d84ff21440d6b20550810ae2bcda44e2418/1795616538/motpgp-tv.m3u8
+https://tims-001.servehttp.com/main/secure/d531e1d13876087dd1ce9f8542f4130414ea31b43663a36cc10f795fac1342ac/1795617477/motpgp-tv.m3u8
+#EXTINF:-1 tvg-name="MAX Sport 2 HR" group-title="Timst TV" source="tims-001.servehttp.com",MAX Sport 2 HR
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/a7d688012343cc9330cf3ac7685d2e5c04cb5af2b6a8f0c23e6bb5e985de2998/1795617477/hr_maxsport2.m3u8
+#EXTINF:-1 tvg-name="MLB Network" group-title="Timst TV" source="tims-001.servehttp.com",MLB Network
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/d71d6ffaa38e8168b72fdb0f89031a32adf38642b8c4b6b22558c60fd8562ccb/1795617477/mlbnetwork-usa.m3u8
 #EXTINF:-1 tvg-name="Movistar Deportes" group-title="Timst TV" source="tims-001.servehttp.com",Movistar Deportes
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f32bfe5476f94ffc7f9f99d07c639c3ef2909a6e693b73db4c0cb7e843368257/1795616538/movistardeportes-es.m3u8
+https://tims-001.servehttp.com/main/secure/c7f8c599d7f6f14c600e423558c89c315910bf0e4d0b45a76b8f43ab17be056a/1795617477/movistardeportes-es.m3u8
+#EXTINF:-1 tvg-name="Movistar Deportes 2" group-title="Timst TV" source="tims-001.servehttp.com",Movistar Deportes 2
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/cf588839c645a54ea8246b886ed42b2ee4d06baec2c9776d0f35b50459fdfbc0/1795617477/movistardeportes2-es.m3u8
 #EXTINF:-1 tvg-name="Movistar Plus" group-title="Timst TV" source="tims-001.servehttp.com",Movistar Plus
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/df2d40d05b0ee66a3bf88188a2889b9a87ec6de934edbf529b5eb707440cd4e0/1795616538/movistarplus-es.m3u8
+https://tims-001.servehttp.com/main/secure/15500bdd31de72a435c9713e245cead686c33127a831e09437f4cbb77e842ab2/1795617477/movistarplus-es.m3u8
 #EXTINF:-1 tvg-name="MTV" group-title="Timst TV" source="tims-001.servehttp.com",MTV
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7f6a4e70e9219731162357f547c80aaf0b82c15cde4d7efafb966fe4cb48f617/1795616538/mtv-usa.m3u8
+https://tims-001.servehttp.com/main/secure/ec6c05bd5ecac62e408d485f9f4eb7fc37921229d2697490ae5d1a927f1165d0/1795617477/mtv-usa.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="Timst TV" source="tims-001.servehttp.com",NBA TV
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/613bc3d8bbc3e9a6551369298f55c9558c24bbd101b5484f3cde8c322f62d70b/1795616538/nbatv-usa.m3u8
-#EXTINF:-1 tvg-name="NBC Sports Boston" group-title="Timst TV" source="tims-001.servehttp.com",NBC Sports Boston
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/8be1d69aac4c69f03dfc69531915d5715745a05c3799904ba454e529928541a2/1795616538/nbcsportsboston-usa.m3u8
-#EXTINF:-1 tvg-name="NBC Sports Bay Area" group-title="Timst TV" source="tims-001.servehttp.com",NBC Sports Bay Area
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/6d96d1d5e15b420607792a60ab2af8445e2dcfc137e1632b14d45455f5577541/1795616539/nbc-sports-bayarea.m3u8
-#EXTINF:-1 tvg-name="NHL Network" group-title="Timst TV" source="tims-001.servehttp.com",NHL Network
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/3f96a5d5b24dfb4247ff16d41144d5d7e27860454e5ed2bbc429a7e875eb0097/1795616539/nhlnetwork-usa.m3u8
-#EXTINF:-1 tvg-name="Nick Jr." group-title="Timst TV" source="tims-001.servehttp.com",Nick Jr.
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/9a0020cc839a5747824889156ec5543179cc608eceb6abc9ef582dd0e2433ab2/1795616539/nickjr-usa.m3u8
+https://tims-001.servehttp.com/main/secure/e34ca2c3f9092190d6cdc374f520a5b3b5fece9f5e8e71e5c839dfb3488ccaaf/1795617477/nbatv-usa.m3u8
 #EXTINF:-1 tvg-name="NBC" group-title="Timst TV" source="tims-001.servehttp.com",NBC
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/138a4e340b71f10701f021fac79e1904b6ff13ef9d27fbb8717074b62dd3dd0f/1795616539/nbc-usa.m3u8
-#EXTINF:-1 tvg-name="NFL Network" group-title="Timst TV" source="tims-001.servehttp.com",NFL Network
+https://tims-001.servehttp.com/main/secure/808640966acd4751e5f8d5a903bbca6e3da5e179e4f38e1dc737c52715ddab5a/1795617477/nbc-usa.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Boston" group-title="Timst TV" source="tims-001.servehttp.com",NBC Sports Boston
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7fc168f70db3c0a709390efa7c3c3a9b40924138dbb0d65077b99bfbbeefc12a/1795616539/nflnetwork-usa.m3u8
+https://tims-001.servehttp.com/main/secure/9e111d25653f9905ba1835e1232e3b9d5f1cfaa7c05683c1418bc5bf79af2aa2/1795617478/nbcsportsboston-usa.m3u8
+#EXTINF:-1 tvg-name="NHL Network" group-title="Timst TV" source="tims-001.servehttp.com",NHL Network
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/689dbc201c78cc93218846b54a5d1974cc1788f21a645786f966e7acc7a56eae/1795617478/nhlnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="NBC Sports Bay Area" group-title="Timst TV" source="tims-001.servehttp.com",NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/c71e4584931886fce61ebc30c61af55ce5e31257cca387e85088961f7972e3e2/1795617478/nbc-sports-bayarea.m3u8
 #EXTINF:-1 tvg-name="NBC Sports Philadelphia" group-title="Timst TV" source="tims-001.servehttp.com",NBC Sports Philadelphia
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/55abcfe09d36f3fd85f9a32a38e474f7db34437b2bd6ca957bd5a4f89b1a6334/1795616539/nbc-sports-philly.m3u8
+https://tims-001.servehttp.com/main/secure/6156ee3aab4d11fc6d15bf6439b6378d0dc8b694e8918b3b62f846f5594fea64/1795617478/nbc-sports-philly.m3u8
+#EXTINF:-1 tvg-name="NFL Network" group-title="Timst TV" source="tims-001.servehttp.com",NFL Network
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/51553e9675fa0ffb828d0714d13e19c92e5e715fe356e4be7ffc4cd9d918b0b9/1795617478/nflnetwork-usa.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Timst TV" source="tims-001.servehttp.com",Nickelodeon
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/d02bb89196a4de9396d3906dfb4f0f6b1e5a340c636160db91036b6f37cd739e/1795616540/nickelodeon-usa.m3u8
+https://tims-001.servehttp.com/main/secure/23cb1b5329d6bc8f02905d4c4464c8daf41e5062b584a85befe0162db828b5b2/1795617478/nickelodeon-usa.m3u8
+#EXTINF:-1 tvg-name="Nick Jr." group-title="Timst TV" source="tims-001.servehttp.com",Nick Jr.
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/a8436464471e97d91d769631163b607208875664bbac585e457558a354e7d543/1795617478/nickjr-usa.m3u8
 #EXTINF:-1 tvg-name="Nova TV HR" group-title="Timst TV" source="tims-001.servehttp.com",Nova TV HR
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4b024ab02cb3a99cd4246a6dd7cdbd2ea5553992d4210812c61e136fe3f7dd9a/1795616540/hr_novatv.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport 1" group-title="Timst TV" source="tims-001.servehttp.com",Polsat Sport 1
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/6710d0fa4e251625a893e159460895b627961980be781ac1602f3bff4e7f791b/1795616540/polsatsport1-pl.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport 3" group-title="Timst TV" source="tims-001.servehttp.com",Polsat Sport 3
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/aa25f9977b8bb8a404af8316ea31bb6fdac84fec7dcb1d3d2db1ab1e2c341e93/1795616540/polsatsport3-pl.m3u8
-#EXTINF:-1 tvg-name="Polsat" group-title="Timst TV" source="tims-001.servehttp.com",Polsat
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4a458d3dac6c70a958796d8837a235e77f374c19fb853e5414d52b487f48c2c2/1795616540/polsat-pl.m3u8
-#EXTINF:-1 tvg-name="Polsat Sport Fight" group-title="Timst TV" source="tims-001.servehttp.com",Polsat Sport Fight
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/bda779730ccc4a84839970c3ee615ad34694ce72a6aba75ce9653e877968af9a/1795616540/polsatsportfight-pl.m3u8
-#EXTINF:-1 tvg-name="Premier Sports 1 IE" group-title="Timst TV" source="tims-001.servehttp.com",Premier Sports 1 IE
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/25c2a228bcb69fcccd61f1aed6322540fc98c9630a15436f80241e934bd7c8a8/1795616540/premiersports1-ie.m3u8
+https://tims-001.servehttp.com/main/secure/54358ee1d09dab7f3bdb501aedfe9137dc97c9fc9a757103311b3b9ba1a8aa1c/1795617478/hr_novatv.m3u8
 #EXTINF:-1 tvg-name="Polsat Sport 2" group-title="Timst TV" source="tims-001.servehttp.com",Polsat Sport 2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ce5696def19c298bea73a38cfdca6c4b887c9164ce598c1b36543cbcfc27aace/1795616540/polsatsport2-pl.m3u8
+https://tims-001.servehttp.com/main/secure/417f7cfc1386c46c1e87ad54b75fd54e2c9bbc5d04d01deae99add9b86d6cf3d/1795617478/polsatsport2-pl.m3u8
+#EXTINF:-1 tvg-name="Polsat" group-title="Timst TV" source="tims-001.servehttp.com",Polsat
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/ba4955587ee3818b8929846d5cbc57e8fad3a1c0b18d7105ea6b16f3c0884f8e/1795617478/polsat-pl.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport 1" group-title="Timst TV" source="tims-001.servehttp.com",Polsat Sport 1
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/d82fd9e053f22aa70e708f1be15a2537e7a6977a66f2173b18c33f4d3dd5eb8f/1795617478/polsatsport1-pl.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport 3" group-title="Timst TV" source="tims-001.servehttp.com",Polsat Sport 3
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/8c39cad3165c1a748b64de5fd2f5e96d5eca71a3a973abb7fe022147e99836ad/1795617478/polsatsport3-pl.m3u8
+#EXTINF:-1 tvg-name="Premier Sports 1 IE" group-title="Timst TV" source="tims-001.servehttp.com",Premier Sports 1 IE
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/2065f90ca0c535ce333a51d7cfb814590e2f6cccc71724b16dbe0bdad35b3436/1795617479/premiersports1-ie.m3u8
+#EXTINF:-1 tvg-name="Polsat Sport Fight" group-title="Timst TV" source="tims-001.servehttp.com",Polsat Sport Fight
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/6a99879d61950bce7a5339d5a1f02ec8a3a32d20cfd51b6e61e611d01466f974/1795617479/polsatsportfight-pl.m3u8
 #EXTINF:-1 tvg-name="Premier Sports 2 IE" group-title="Timst TV" source="tims-001.servehttp.com",Premier Sports 2 IE
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ba901627f737e3bf8146d9071438bac9a756a54f702e9f505e8ba88c4cc75866/1795616540/premiersports2-ie.m3u8
-#EXTINF:-1 tvg-name="Premiere" group-title="Timst TV" source="tims-001.servehttp.com",Premiere
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ff6b9b411e5a54058b040296605fb0d7023a4f2235b1bcb840031ca46ec1eb8c/1795616540/premiere-br.m3u8
-#EXTINF:-1 tvg-name="Showtime" group-title="Timst TV" source="tims-001.servehttp.com",Showtime
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c8d6bf47c3300fd64dc0aa12f58224dcb9dec43ad1a6a22c6889892d87daefea/1795616541/showtime-usa.m3u8
+https://tims-001.servehttp.com/main/secure/0587d90eeb71fcab91cab8708d11d726e7400a4b5597ed757c263b1085899622/1795617479/premiersports2-ie.m3u8
 #EXTINF:-1 tvg-name="RACER Network" group-title="Timst TV" source="tims-001.servehttp.com",RACER Network
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7834dc72df9f069762312feb914414f5abcfaaa7f5c3fde30ed453405cd61ca9/1795616541/racernetwork-usa.m3u8
-#EXTINF:-1 tvg-name="SEC Network" group-title="Timst TV" source="tims-001.servehttp.com",SEC Network
+https://tims-001.servehttp.com/main/secure/07d95880a36b640164a68cc92c3bfcef5569bc04a3546979696c0fac5ebd7f53/1795617479/racernetwork-usa.m3u8
+#EXTINF:-1 tvg-name="Premiere" group-title="Timst TV" source="tims-001.servehttp.com",Premiere
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2c8abdaa14dd8267f8c478cd9d47aeed984b56a9b3553beb9e0708073ec451b0/1795616541/secnetwork-usa.m3u8
+https://tims-001.servehttp.com/main/secure/b0a1bb1e6b520da6b510006022408285af9749b9925a8e367306dadce23bbcc8/1795617479/premiere-br.m3u8
 #EXTINF:-1 tvg-name="Showtime 2" group-title="Timst TV" source="tims-001.servehttp.com",Showtime 2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ddb36129464127ca93b8c3538331a8ae9cd76c5169ef6cffe12d9b68a2fda7a4/1795616541/showtime2-usa.m3u8
-#EXTINF:-1 tvg-name="Showtime Family Zone" group-title="Timst TV" source="tims-001.servehttp.com",Showtime Family Zone
+https://tims-001.servehttp.com/main/secure/1429f0f827f4a716b10663439e4628ed1bab1550ad594093f88f8e883ee65b16/1795617479/showtime2-usa.m3u8
+#EXTINF:-1 tvg-name="SEC Network" group-title="Timst TV" source="tims-001.servehttp.com",SEC Network
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/717945d3b11f134e3060509fb55e6348cb67871e0a8a2faf71acd1a5af495ccd/1795616541/showtimefamilyzone-usa.m3u8
+https://tims-001.servehttp.com/main/secure/6ca56244e92f6c3f45f205e6da48207a6ab3adc4523e9006237fa23ee98212a2/1795617479/secnetwork-usa.m3u8
+#EXTINF:-1 tvg-name="Showtime" group-title="Timst TV" source="tims-001.servehttp.com",Showtime
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/33c84c243a912d96439c8b1914d6f06c27e21fdb6d8075191407b53bad4c756e/1795617479/showtime-usa.m3u8
 #EXTINF:-1 tvg-name="Showtime Extreme" group-title="Timst TV" source="tims-001.servehttp.com",Showtime Extreme
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/de8082e557790a5a407239516e2604185ca58a9c94bafebadc9355276ad6b906/1795616541/showtimeextreme-usa.m3u8
+https://tims-001.servehttp.com/main/secure/f6c197d017da313e5a24750d5c5e7c2b4f2fd83b4c71f0bd6405ad9b32cc1038/1795617479/showtimeextreme-usa.m3u8
+#EXTINF:-1 tvg-name="Showtime Family Zone" group-title="Timst TV" source="tims-001.servehttp.com",Showtime Family Zone
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/da1cae7c9400376a9caf1b9cac0e2086cb9d9f96c94578ab139ec7b4214a76e7/1795617479/showtimefamilyzone-usa.m3u8
 #EXTINF:-1 tvg-name="Showtime Next" group-title="Timst TV" source="tims-001.servehttp.com",Showtime Next
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/74fc06534e99adbc95acc33eb04e1042107beb8dbfed57631cfdaa26c04be71f/1795616542/showtimenext-usa.m3u8
-#EXTINF:-1 tvg-name="Sky Comedy" group-title="Timst TV" source="tims-001.servehttp.com",Sky Comedy
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/8177bd96a9562e54cd6eeba2426d0db4f09fd02da9c3fe76c7ee513162242715/1795616542/skycomedy-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Arts" group-title="Timst TV" source="tims-001.servehttp.com",Sky Arts
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1f6eaf6e2fb43fe66d712a4ed485c76bfbb4b9be3a24c6106d94b5174d5300fa/1795616542/skyarts-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Atlantic" group-title="Timst TV" source="tims-001.servehttp.com",Sky Atlantic
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/0a35e787c1a6d01c48ce65f1becd661b86c12f7e0b176e5aa5c7a2444b2ac88e/1795616542/skyatlantic-uk.m3u8
+https://tims-001.servehttp.com/main/secure/8f42c0145dac8529c454e48940d04b2a22896aa39b0692024ca5702d40642006/1795617479/showtimenext-usa.m3u8
 #EXTINF:-1 tvg-name="Showtime Women" group-title="Timst TV" source="tims-001.servehttp.com",Showtime Women
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4c7f480bf27627cb073d5653c0fd4366bb0789d2f6b23909a52c513b61ffbdf8/1795616542/showtimewomen-usa.m3u8
+https://tims-001.servehttp.com/main/secure/fcfe6e476db42ecf0441360bc0c8d737d16ba2f83984df33b7c870129e9ccc3b/1795617479/showtimewomen-usa.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic" group-title="Timst TV" source="tims-001.servehttp.com",Sky Atlantic
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/ca00ebca2631db5ef55c5156efa8c5f7bbb278ddb7a35a82bbe6c683cb5e0987/1795617479/skyatlantic-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Arts" group-title="Timst TV" source="tims-001.servehttp.com",Sky Arts
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/513a214b9136a63e97a847b63e272ad4126bec8224910e8e6239697b83e8f83a/1795617480/skyarts-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Comedy" group-title="Timst TV" source="tims-001.servehttp.com",Sky Comedy
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/7aef330967e445e4ebc4fa92d807856471a15b09d7512e22380526aebd34a5e1/1795617480/skycomedy-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Crime" group-title="Timst TV" source="tims-001.servehttp.com",Sky Crime
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1f7e9999a777b15b49a22353d6b622fe9286a1677b1dbb7303bf6f51dbf29fa6/1795616542/skycrime-uk.m3u8
+https://tims-001.servehttp.com/main/secure/40685348adc1488db8984e2333feccdd68ffe81b5db12dd90e2009568f9d9527/1795617480/skycrime-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Documentaries" group-title="Timst TV" source="tims-001.servehttp.com",Sky Documentaries
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/358e9dd974fd071cd7825f59640b565dbf2eda329ce2327b3dc1e610e2c45f50/1795616542/skydocumentaries-uk.m3u8
+https://tims-001.servehttp.com/main/secure/594d1d613c7d1734bd04406ae33a5d07a22da93a1abfea4628b2c2f2744d119d/1795617480/skydocumentaries-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Kids" group-title="Timst TV" source="tims-001.servehttp.com",Sky Kids
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/99c56b803503a8c9d77c4829a8643a6dc62fa38ad8ed7085592e976c6eb06216/1795616542/skykids-uk.m3u8
+https://tims-001.servehttp.com/main/secure/1b3925de886526b395f6673539bca50679c52132bd644ae3268fbe10d562897d/1795617480/skykids-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Nature" group-title="Timst TV" source="tims-001.servehttp.com",Sky Nature
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f442d3e18a44dc19d97eb8bb1492a76e5079a21a37f87ed7851ebf77751d44a2/1795616542/skynature-uk.m3u8
+https://tims-001.servehttp.com/main/secure/64ae133949dec394344d0033fc70374cbeef275764752793103cd1db6f20d4d1/1795617480/skynature-uk.m3u8
 #EXTINF:-1 tvg-name="Sky News" group-title="Timst TV" source="tims-001.servehttp.com",Sky News
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/91e4760da36cac803fd6ad15e05225e966bf12a12e0a16100a05f16e1952f8d9/1795616543/skynews-uk.m3u8
+https://tims-001.servehttp.com/main/secure/c7a1e95a623acfdafe568a1a45e9d511f1c2f7918b0e7a3e43037adf01a32240/1795617480/skynews-uk.m3u8
 #EXTINF:-1 tvg-name="Sky One" group-title="Timst TV" source="tims-001.servehttp.com",Sky One
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f8898c23481be10bd38e4eecec40da8f987c5d254ff99325d14d670abec0098f/1795616543/skyone-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 2 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 2 NZ
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4cb21dd103c1520f9b83388a3a7302d6be0870ad98aac351b79c0e4940f54e40/1795616543/skysport2-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 1 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 1 NZ
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/5c2b34f0ac475c5e5ad1b3b2267eb800021c25e13a16534dd1c6015f01c18da5/1795616543/skysport1-nz.m3u8
+https://tims-001.servehttp.com/main/secure/fcaf8f92d99e6d8bb0620ca6131bf2e9e3e6a9122bb516c001d05f55ecfb25a1/1795617480/skyone-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sci-Fi" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sci-Fi
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/5e3e3444ac1f2f57ea4bab9da48789d8a37909955fc2925ef5ebf84132a17d28/1795616543/skyscifi-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 4 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 4 NZ
+https://tims-001.servehttp.com/main/secure/0f906da25704a0131058a6e1b3c463d8de43b7d8283ed4e020d0f5ab0958a85c/1795617480/skyscifi-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 2 NZ
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/8945b8a835b94fd1e029f9a27317a89cbcb9fc9f8e028c101925abb6c5ec3bf0/1795616543/skysport4-nz.m3u8
+https://tims-001.servehttp.com/main/secure/2163442cf7b220045c80e13314eb40aa6dc84b1479a8d12ae422a98f88a49558/1795617480/skysport2-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/bf878beef60c560346e76c2f82a516f0d3a98991c72433f7f54d72a6ffe1cf77/1795617480/skysport1-nz.m3u8
 #EXTINF:-1 tvg-name="Sky Sport 3 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 3 NZ
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/9ecf64c6611b67c170ba44f0f88cd22b982f96e3efac82fa7792df02d5e37340/1795616543/skysport3-nz.m3u8
+https://tims-001.servehttp.com/main/secure/d186e7dddf5eced6318fa66f75efe98a9182198d8826146c0dbfdb7afea306a7/1795617480/skysport3-nz.m3u8
 #EXTINF:-1 tvg-name="Sky Sport 5 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 5 NZ
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7b3339516630dd0cfae89b5089d769fce84ab8302adc9f4432e6fe0c006df4a3/1795616544/skysport5-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 7 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 7 NZ
+https://tims-001.servehttp.com/main/secure/4b76a2aa92e7d21ebb3d6dd0fab3919819d5eb015a16df1d864508f7e81d384b/1795617481/skysport5-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 4 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 4 NZ
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ffe10b5859eab63f3bd126a9aa088f986335126f2e4f36631cc0635fafe348a3/1795616544/skysport7-nz.m3u8
+https://tims-001.servehttp.com/main/secure/02f2020d27787f253569730542e6e345d34925e6eea5deac36ef2b7bf093b2cd/1795617481/skysport4-nz.m3u8
 #EXTINF:-1 tvg-name="Sky Sport 8 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 8 NZ
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/347ece833f3d304b1b1eaa98b0e8011d50e2a2b10321b366e98f71f7699d87cd/1795616544/skysport8-nz.m3u8
+https://tims-001.servehttp.com/main/secure/2ac1deb0c02aa23c8028fbcf8e737bf012f0a4f8a04bad01e66ffa76923aa45e/1795617481/skysport8-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 7 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 7 NZ
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/419505362268ed2b4c6d7dddc7b505ce2a42b46b35db34735bcda4fc16264dad/1795617481/skysport7-nz.m3u8
 #EXTINF:-1 tvg-name="Sky Sport 24" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 24
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/6baf26d9bae7c8f9115f9b078bd7f163e28f296f87e7307e9caf685947bffad6/1795616544/skysport24-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sport 9 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 9 NZ
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e39bd3aaf29fd797b375fe23d527f4f2ee86035bda2dbeaa5d16327ab0cf0d61/1795616544/skysport9-nz.m3u8
+https://tims-001.servehttp.com/main/secure/c0d9a209c77f2d13ca05b1ae87b847df7a022def1ab987cf43978f1af044f099/1795617481/skysport24-it.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Arena IT" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Arena IT
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4c6d45b36f6614e8ba66a7a52a572549c7c25363b7b9dcb2b28c662369cde322/1795616544/skysportarena-it.m3u8
+https://tims-001.servehttp.com/main/secure/ab6c55a73a6cf726635532e4a1d6a8789196cdbecd9cabc478f8aabfaa216b06/1795617481/skysportarena-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 9 NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport 9 NZ
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/c3b66448acee8cb70775e3eecd665b5380abd38d29828ad20c8e9447ecf959cc/1795617481/skysport9-nz.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Bundesliga" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Bundesliga
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ce10722cd42a8b4f5f1643fc97b5025aafc15dc49eb05ee83a634f473c03b660/1795616544/skysportbundesliga-de.m3u8
+https://tims-001.servehttp.com/main/secure/54e3187ab44ad0781d07f7f11b25895576902559eb4e5dd6ea7e94f228261e62/1795617481/skysportbundesliga-de.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Calcio IT" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Calcio IT
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/d0b301502c527c2e169b3ca90e236c86bb7d7d03814ce9ed0ab6c806a5621db5/1795616545/skysportcalcio-it.m3u8
+https://tims-001.servehttp.com/main/secure/62b998bf00e5d6bd3fc568d2b84eb356e89acf2340427d19c425172422b58662/1795617481/skysportcalcio-it.m3u8
 #EXTINF:-1 tvg-name="Sky Sport F1 Italia" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport F1 Italia
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/3230f569dce25687d60a21b1f1346791bdfef3d009f3973e64ec2f5a4214ee5d/1795616545/skysportf1-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Max IT" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Max IT
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2512b6ba1a062efc2e34fe85e1d70062c865d6891c21f1809a79636bc05f5d75/1795616545/skysportmax-it.m3u8
+https://tims-001.servehttp.com/main/secure/352634bb5bbb6d0d00216207bb9b9c82f2f918819843c95763fef2678cd9b037/1795617481/skysportf1-it.m3u8
 #EXTINF:-1 tvg-name="Sky Sport Select NZ" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Select NZ
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ff666f3970947dcc69c7a6f3618c38c902da221894a5aaebd140fc3b923c3bc5/1795616545/skysportselect-nz.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Uno" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Uno
+https://tims-001.servehttp.com/main/secure/d8995f9d11e3b8bb6f6bd6d86b60313afdac983e8d9fc2b571a8bddaaefaff8e/1795617482/skysportselect-nz.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Max IT" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Max IT
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/afccfd8a07ef9f1d8d3e38adc19a45adc524fdd22136e55afd81ed0a1b296680/1795616545/skysportuno-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sport Tennis IT" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Tennis IT
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/8f686a6e9e3c77d74c6594a2fefdef751790bbf7d2bd1911392fdca9611dd487/1795616545/skysporttennis-it.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e15922cc18b081711e99befece9577e867b46f99452cd6222bec15549ac3631a/1795616545/skysportscricket-uk.m3u8
+https://tims-001.servehttp.com/main/secure/b5d97a44b97fb9f5806003a2a06f14d5787de70db1fc39c2a2d5d6d6ca474cab/1795617482/skysportmax-it.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Action" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/b3b20af30d0e6af6851051cbdfc9118f0a68f24c77dbe60145340f0b72bb5dd9/1795616545/skysportsaction-uk.m3u8
+https://tims-001.servehttp.com/main/secure/f581af53870f8316dcde68edf45ee1c0184020d341c4a732d3abeabb3de7da36/1795617482/skysportsaction-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Tennis IT" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Tennis IT
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/b7c74fd45ff1aa3bee7f709f6d7cb62e43b85973121dc06e3f9140858a19ce1e/1795617482/skysporttennis-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Uno" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sport Uno
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/e03f53748762edab419af54d0c41eeeb1e15a82ef71bb4e8fb9e0023b9e0103d/1795617482/skysportuno-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/6fc9170b0ac4753d4040a066e2613e4425c0c41bf06210f8aa9db01d73d263f0/1795617482/skysportscricket-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/fa0f1777fdbb152d7aaefe9d08944b7ab769af9829462ac4f906274943b73d35/1795616545/skysportsf1-uk.m3u8
+https://tims-001.servehttp.com/main/secure/4e3bcb14748387df397d5db6fe5bb0c0118fefe3d8ef376c1a516baf6c2867ae/1795617482/skysportsf1-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c701f6bdbb7bdaec87b56fa622c6e22c88da77da5ca7482776f1b2531db0b6be/1795616546/skysportf1-it.m3u8
+https://tims-001.servehttp.com/main/secure/f8f56622ef4248ec1fb5c1d778646e6d0caafb58451a21971ac19dcb8fbf1120/1795617482/skysportf1-it.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/bb6ced2baef104ed4589542ee5dab52491b61ff1532d35ce3a25cf1a28058c30/1795617482/skysportf1-de.m3u8
+#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/a2530fcc2ee0564d95dd3bc011c41c3856b8833c7ab4415941e068a7e879ecab/1795617482/skysportsf1uhd-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Golf" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/d2dc06c12bf3ce97ae8e919db108bcffde5c6b1b002d324daa712f00f934a992/1795616546/skysportsgolf-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/77447d36ba98be2f26efa9d9844dd68f8cfa07af74b14f6f2e0a29419664ff5f/1795616546/skysportsf1uhd-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7510bb00f2702b9f6063f6a766776f1590b0f513fd7cab9f00e60615ddb7516c/1795616546/skysportf1-de.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Mix" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Mix
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/9211cfcedc4f1bb28d016a9ee506498da064fc757c3e2ead45c8edbb433eb65e/1795616547/skysportsmix-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Main Event" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7873dac7ec5fa4c66ca8b0e4f35383bf975db7e27cffa93edb261c9fb5a97423/1795616547/skysportsmainevent-uk.m3u8
+https://tims-001.servehttp.com/main/secure/9b1ce54ef03b446e9ddc0b1d53dab7bd8c4696323b9888f0a6db6b4ef4fd8ae5/1795617482/skysportsgolf-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Football" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4427c98574532e1bff8226368a39e97001de8f73855803f840fae574da5b5e10/1795616547/skysportsfootball-uk.m3u8
+https://tims-001.servehttp.com/main/secure/faa485f73c1a4893b7f74afdf405f6947a139d4de56bfa366c33da46652dce6b/1795617482/skysportsfootball-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Main Event" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/17c100aef2149389f760535548771b77c3d6086801567387f6d2abf1bbc111f2/1795616547/skysportsmaineventuhd-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Sports Premier League" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Premier League
+https://tims-001.servehttp.com/main/secure/e1bd8f5e900fc68c3eaacf896b1f5f36cea7bab4e4f6f93fee6ebdb3576dcfd8/1795617483/skysportsmainevent-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Mix" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/94008ccb80c937d9e3b4d6788a900eb126cb3958bdb5e2f1faa543d022da71d8/1795616547/skysportspremierleague-uk.m3u8
+https://tims-001.servehttp.com/main/secure/d8d59e38afc6b943ad12821dbf4e006c3d093ad9c8d4a90cc5698db20d857477/1795617483/skysportsmix-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Main Event" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/db515e53329e1720257474d5b1530a28511bfe572d16774595d491cfaaa7ebc0/1795617483/skysportsmaineventuhd-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports News" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports News
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/5b345898623ae9749d9ddc370a93ea50d54ad87039d9666a79beae3b21c2308d/1795616547/skysportsnews-uk.m3u8
-#EXTINF:-1 tvg-name="Sky Uno" group-title="Timst TV" source="tims-001.servehttp.com",Sky Uno
+https://tims-001.servehttp.com/main/secure/6664995559a1a8401ce7bb27b81f6a0872f8be3b0aafb7bfb5eb3dced230104a/1795617483/skysportsnews-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Premier League" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e1512a8ccaccec3ac21952776d0d66541e814bb0e28dc5f87a9f92cd2689223c/1795616547/skyuno-it.m3u8
+https://tims-001.servehttp.com/main/secure/e8822194032496623f4a5ed3c45335d6d3e738e0cd95990f0945603f6c134bd0/1795617483/skysportspremierleague-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Racing" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Racing
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4525ae6190e27310966157b317c88143c9c6c0105863f417c9b131a38acb3cbe/1795616547/skysportsracing-uk.m3u8
+https://tims-001.servehttp.com/main/secure/1b9b6ba7f9b43e857c56276548382721a5dfa2a790632c33b45448a8f37b17a6/1795617483/skysportsracing-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports Tennis" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/3e6d42b2e6d6630fbd935bdb09d4f6964111b253a37a465422768d75a964e9ef/1795616547/skysportstennis-uk.m3u8
+https://tims-001.servehttp.com/main/secure/4039054926547d5149a1cb2311bcb4fc1a117b31cfaeeb28c5d4ef5f2ad6907d/1795617483/skysportstennis-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Witness" group-title="Timst TV" source="tims-001.servehttp.com",Sky Witness
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4cc1148f467b103d025af7ad4a0ff5868424fee383f79c14cbf69618db1c6ba6/1795616547/skywitness-uk.m3u8
+https://tims-001.servehttp.com/main/secure/a86844ad5f4e51bba700c1dea1ce62f1b701233000f3789a0ea8c09f073ded00/1795617483/skywitness-uk.m3u8
 #EXTINF:-1 tvg-name="Sky Sports+" group-title="Timst TV" source="tims-001.servehttp.com",Sky Sports+
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/427ab45e98552578ffea325e05e5cff434ba87194c901dc7a48a9296eb1a31d0/1795616547/skysportsplus-uk.m3u8
+https://tims-001.servehttp.com/main/secure/b6b24934d8bbb630e3d3497699ee4e8ff9598d38f4e152e2b27b3d1ca31f1b3d/1795617483/skysportsplus-uk.m3u8
+#EXTINF:-1 tvg-name="Sky Uno" group-title="Timst TV" source="tims-001.servehttp.com",Sky Uno
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/f41867e919acc3cdbe19e246290fcc9b2a588e5a314aa98674ecd3d7826a9dac/1795617483/skyuno-it.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Network" group-title="Timst TV" source="tims-001.servehttp.com",Sony Sports Network
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7e7be63bbc03bdd10ac086d792a91a2b1e8a27f61bcc915486ee7e821de77001/1795616547/sonysportsnetwork-in.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Network 3" group-title="Timst TV" source="tims-001.servehttp.com",Sony Sports Network 3
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/73353e211e292f8ee08cd9c45f36cbb5978c226161709a2014c7c11cdd845d58/1795616548/sonysportsnetwork3-in.m3u8
-#EXTINF:-1 tvg-name="Sport TV1" group-title="Timst TV" source="tims-001.servehttp.com",Sport TV1
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f4fcbe231b793e83209f3fbe396ee54bcf18e63124b5c6e785930f9b5fb7cf07/1795616548/sporttv1-pt.m3u8
+https://tims-001.servehttp.com/main/secure/092bdacaf6e43047fca0fa6771403ca0f5f8be99417e77ed51e25529467a8728/1795617483/sonysportsnetwork-in.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Network 4" group-title="Timst TV" source="tims-001.servehttp.com",Sony Sports Network 4
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/cd9e167fe9ef8423beecbe6f198d7e676159b3a7d3e8758706b13ce94dc0bac9/1795616548/sonysportsnetwork4-in.m3u8
+https://tims-001.servehttp.com/main/secure/47327a0305e1fe92f2f37e2ccb3207fb170a1714e05dc87b29fb686880783e5d/1795617484/sonysportsnetwork4-in.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Network 3" group-title="Timst TV" source="tims-001.servehttp.com",Sony Sports Network 3
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/5d969057361da1c21466540fd66eae9070e8f92aca156fbb8b3b50bd0fcf924e/1795617484/sonysportsnetwork3-in.m3u8
+#EXTINF:-1 tvg-name="Sport TV1" group-title="Timst TV" source="tims-001.servehttp.com",Sport TV1
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/ad388923b861f8aac2592cc3ed78ca33648d709e3aaa96e04f7ec16d7ce025a2/1795617484/sporttv1-pt.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Network 5" group-title="Timst TV" source="tims-001.servehttp.com",Sony Sports Network 5
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/cb5081d8c9648e1014702e9bdb92272dcc2a64de06ae00eb4db0842a3419d962/1795616548/sonysportsnetwork5-in.m3u8
+https://tims-001.servehttp.com/main/secure/17573f9656cf03f1494b79305988ca68f718710d79d97fc17edea2aedcdb33fa/1795617484/sonysportsnetwork5-in.m3u8
 #EXTINF:-1 tvg-name="Sport TV2" group-title="Timst TV" source="tims-001.servehttp.com",Sport TV2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f515f1030a56d675369ea1dc9b630a28f4b8295472144f64ddc3bd37b01c4c3f/1795616549/sporttv2-pt.m3u8
+https://tims-001.servehttp.com/main/secure/52e69fe17e3217303ffa8c9d7db2ff956b9ca40e775e3a7abf120f0629088287/1795617484/sporttv2-pt.m3u8
 #EXTINF:-1 tvg-name="Sport TV3" group-title="Timst TV" source="tims-001.servehttp.com",Sport TV3
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/3290f0f178c89a675b263744006cd724645585c52f66e3502058dc55229aa47c/1795616549/sporttv3-pt.m3u8
+https://tims-001.servehttp.com/main/secure/07ccbe7b338ec98fcb4d5d0209beec49be1d3eed68a1fc94c95dbc77276ab1bb/1795617484/sporttv3-pt.m3u8
 #EXTINF:-1 tvg-name="Sport TV5" group-title="Timst TV" source="tims-001.servehttp.com",Sport TV5
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e0906f8c48dc6aabd8d19acfe23c49490901194712bfd71b6ef88b0f854f782a/1795616549/sporttv5-pt.m3u8
-#EXTINF:-1 tvg-name="Sport TV4" group-title="Timst TV" source="tims-001.servehttp.com",Sport TV4
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/6ddb5dc4efd063f0598032f26cada1e9fa12f8291753793eaa4b926af773a4f6/1795616549/sporttv4-pt.m3u8
+https://tims-001.servehttp.com/main/secure/02f3b5d67ab1d54138602f6cb1330182a8a8960b2f276902834bf44d4feb40d6/1795617484/sporttv5-pt.m3u8
 #EXTINF:-1 tvg-name="SPORTDIGITAL FUSSBALL" group-title="Timst TV" source="tims-001.servehttp.com",SPORTDIGITAL FUSSBALL
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2ead2ae675fbd3379bcbe6efc86bed8582600fe4095627d00b0a5686cbc04034/1795616549/sportdigitalfussball-de.m3u8
+https://tims-001.servehttp.com/main/secure/480504d1a06f7bdcadb3eafe207f138c52f79bb34435146db2c560e66eb87ab2/1795617484/sportdigitalfussball-de.m3u8
+#EXTINF:-1 tvg-name="Sport TV4" group-title="Timst TV" source="tims-001.servehttp.com",Sport TV4
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/0428c1e07280a4a7047a97160e8119c17573bc94d7f002057f77766c501bc840/1795617484/sporttv4-pt.m3u8
 #EXTINF:-1 tvg-name="Sportsnet 360" group-title="Timst TV" source="tims-001.servehttp.com",Sportsnet 360
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/134f593f9452d2672be3a12269f9f2cf7a02cd4815c4aac7aa31b9351a9c65ce/1795616549/sportsnet360-ca.m3u8
+https://tims-001.servehttp.com/main/secure/973883a11746861cc6390e687a506a731c76d2b2642bce50fc91316a657e4464/1795617484/sportsnet360-ca.m3u8
 #EXTINF:-1 tvg-name="Sportsnet East" group-title="Timst TV" source="tims-001.servehttp.com",Sportsnet East
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/acfdf1a05b87e1ebd847d095ea6d731bc47722e96858345fca51381d2c6b42bf/1795616549/sportsneteast-ca.m3u8
+https://tims-001.servehttp.com/main/secure/78e373c7b01ae107a4745d1a4bfc614e58f043233c50ae028964e20084382d46/1795617484/sportsneteast-ca.m3u8
 #EXTINF:-1 tvg-name="Sportsnet ONE" group-title="Timst TV" source="tims-001.servehttp.com",Sportsnet ONE
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/19cb20d3a7dcb408e988946fab91b20278f961858f722abed1fec38e66b3c8ec/1795616549/sportsnetone-ca.m3u8
-#EXTINF:-1 tvg-name="Sportsnet Ontario" group-title="Timst TV" source="tims-001.servehttp.com",Sportsnet Ontario
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/26d0c877d7646803182eba4045d0ef35c07b7b2e22b3fea674c595b6fbfd470b/1795616549/sportsnetontario-ca.m3u8
+https://tims-001.servehttp.com/main/secure/a0d0c3f81af80ae300304f9ec9c19d8cee5a156eee08b2073a23719cd2549040/1795617484/sportsnetone-ca.m3u8
 #EXTINF:-1 tvg-name="Sportsnet Pacific" group-title="Timst TV" source="tims-001.servehttp.com",Sportsnet Pacific
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/aa3c260390deff93ccd28789c49959f43b960a0bcc9b21037cdc848977c11d1b/1795616549/sportsnetpacific-ca.m3u8
+https://tims-001.servehttp.com/main/secure/983af5958f10a163e9b07210bc06d8a8a07dc0f74372c601c90ff1eb8db1536d/1795617484/sportsnetpacific-ca.m3u8
+#EXTINF:-1 tvg-name="Sportsnet Ontario" group-title="Timst TV" source="tims-001.servehttp.com",Sportsnet Ontario
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/eb42285d392035a5b6b0e48dcac1662351c46c7b0c7709d63edbfe1751dce0e6/1795617485/sportsnetontario-ca.m3u8
 #EXTINF:-1 tvg-name="Sportsnet West" group-title="Timst TV" source="tims-001.servehttp.com",Sportsnet West
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2254a956717c031ace414e251cb92632adeed919af76c0ce44ccb01eae107366/1795616549/sportsnetwest-ca.m3u8
+https://tims-001.servehttp.com/main/secure/72eab6269f2bb594d9242968ba5a9d6a9b6f8d718a97fb96e2baa72d675272a1/1795617485/sportsnetwest-ca.m3u8
 #EXTINF:-1 tvg-name="Sportsnet World" group-title="Timst TV" source="tims-001.servehttp.com",Sportsnet World
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2b1e595f29f2cd85eb3cf2d5bdf2f7f481fc1662da08516b08a5c08e8620a209/1795616549/sportsnetworld-ca.m3u8
-#EXTINF:-1 tvg-name="STARZ" group-title="Timst TV" source="tims-001.servehttp.com",STARZ
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ebd11063da47e6a21d46bb5a137308a7369530728e9f02f69c31251a63d62ecd/1795616550/starz-usa.m3u8
+https://tims-001.servehttp.com/main/secure/1a70b29ebfd40e11440677cb11a3a0a1aea48294085087c0bfc3a58c8b06a3f2/1795617485/sportsnetworld-ca.m3u8
 #EXTINF:-1 tvg-name="STARZ Cinema" group-title="Timst TV" source="tims-001.servehttp.com",STARZ Cinema
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/b8db17116fa78a4fd1274db84f91ef7eac86444fb854981eb9bc2cecc4f207e1/1795616550/starzcinema-usa.m3u8
-#EXTINF:-1 tvg-name="STARZ Comedy" group-title="Timst TV" source="tims-001.servehttp.com",STARZ Comedy
+https://tims-001.servehttp.com/main/secure/b8efc068be0190f5d1be45f5a41dff6f3174a4c17a5999fd84ae0bb46e8a8adc/1795617485/starzcinema-usa.m3u8
+#EXTINF:-1 tvg-name="STARZ" group-title="Timst TV" source="tims-001.servehttp.com",STARZ
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/a50a530d6a0d9acbe3155ec3c6765ace68cd8e1381071cd0656d51492b17f16c/1795616550/starzcomedy-usa.m3u8
+https://tims-001.servehttp.com/main/secure/c57dfed0912f8f7822c4f779675eb6882113d06347a5c8d660b19ae5f28069db/1795617485/starz-usa.m3u8
 #EXTINF:-1 tvg-name="STARZ Kids and Family" group-title="Timst TV" source="tims-001.servehttp.com",STARZ Kids and Family
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/08f9457e539dd529751136f3a2eb2d419e1f8149cb286559d1c24f30be613656/1795616551/starzkidsfamily-usa.m3u8
-#EXTINF:-1 tvg-name="SuperSport MotorSport" group-title="Timst TV" source="tims-001.servehttp.com",SuperSport MotorSport
+https://tims-001.servehttp.com/main/secure/f1fcf585375bf7c430d3547e696011bcb20a7ea1af8adf52ff546821f72f629a/1795617485/starzkidsfamily-usa.m3u8
+#EXTINF:-1 tvg-name="STARZ Comedy" group-title="Timst TV" source="tims-001.servehttp.com",STARZ Comedy
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7a1bd38b0f787fb71bdb90db9324211c0c6b429b02d0c0b5fe95e034c8aaf141/1795616551/supersportmotorsport-za.m3u8
+https://tims-001.servehttp.com/main/secure/2173ed991434e21d3d917c06b56c782ad3e6a093d0da72a0bb59676323d02b88/1795617485/starzcomedy-usa.m3u8
 #EXTINF:-1 tvg-name="SuperSport Cricket" group-title="Timst TV" source="tims-001.servehttp.com",SuperSport Cricket
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/9047baceed49d3234b2340d5f27cde1818c4f9d1760af1b3e0ac0c3bc11d737f/1795616551/supersportcricket-za.m3u8
+https://tims-001.servehttp.com/main/secure/98601df37c5427c78a484c0bafe5a0049fba84eb8cfc51c533eedc85a05a8ce2/1795617485/supersportcricket-za.m3u8
 #EXTINF:-1 tvg-name="SuperSport LaLiga" group-title="Timst TV" source="tims-001.servehttp.com",SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/6c586aaa36316c2d00463cba11b3f7d226c0bf03937cfa770383f6053e591e4a/1795616551/supersportlaliga-za.m3u8
-#EXTINF:-1 tvg-name="SYFY" group-title="Timst TV" source="tims-001.servehttp.com",SYFY
+https://tims-001.servehttp.com/main/secure/8d87db508ae4b1ab10bede579caa3abb69186e65259f523b51f00ee57d2cf36b/1795617485/supersportlaliga-za.m3u8
+#EXTINF:-1 tvg-name="SuperSport MotorSport" group-title="Timst TV" source="tims-001.servehttp.com",SuperSport MotorSport
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/21713770797afcafe24e1c451d2649a3cc9e3fa70e55d5c53b311df01a94d457/1795616551/syfy-usa.m3u8
+https://tims-001.servehttp.com/main/secure/3e27a47e41a8fdfc06263b2769e63bdccf7e7bcab82b6fdc35d786add31a4d5a/1795617485/supersportmotorsport-za.m3u8
 #EXTINF:-1 tvg-name="SuperSport Premier League" group-title="Timst TV" source="tims-001.servehttp.com",SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/22865f362a6b0d7c384c78accd0ee5ddc8e875bfec2ef866d63e9da94e55ddd3/1795616551/supersportpremierleague-za.m3u8
+https://tims-001.servehttp.com/main/secure/766974931fd2ea0ee1a0f174adab3bc05a4429bf4f8e8e407ee0a357c5b2d87d/1795617485/supersportpremierleague-za.m3u8
 #EXTINF:-1 tvg-name="SuperSport Rugby" group-title="Timst TV" source="tims-001.servehttp.com",SuperSport Rugby
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f990dfdea796e0d69f86056991e8ab7c88c87d24ce7350d4fcef26e9f7d41c42/1795616551/supersportrugby-za.m3u8
+https://tims-001.servehttp.com/main/secure/e48504e9cb056a28f2b2e44c6d80b217323c75a2499838e034afe4422309d6c3/1795617485/supersportrugby-za.m3u8
 #EXTINF:-1 tvg-name="TBS" group-title="Timst TV" source="tims-001.servehttp.com",TBS
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/b52bb5181d75d1af6317dfc967ded952258d8ea100fc1d556128cb7c60fcb10b/1795616551/tbs-usa.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel" group-title="Timst TV" source="tims-001.servehttp.com",Tennis Channel
+https://tims-001.servehttp.com/main/secure/eba65eb5246f640462b64013d35c2be6c3d1e6ccf5e1c8d7b608343836fdebd8/1795617486/tbs-usa.m3u8
+#EXTINF:-1 tvg-name="SYFY" group-title="Timst TV" source="tims-001.servehttp.com",SYFY
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/163f88b057050c779e4ebb9945746925cdf0f66849312f7587a751b053d791dd/1795616551/tennischannel-usa.m3u8
-#EXTINF:-1 tvg-name="The Weather Channel" group-title="Timst TV" source="tims-001.servehttp.com",The Weather Channel
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/adcd6fb220a6ab4242e0823ce13543dcf17cb2e6b8744e2451074196701aa165/1795616551/twc-usa.m3u8
+https://tims-001.servehttp.com/main/secure/481f256528242781695746c6ce99a80b7bb06feab7bc17d513edfe7f7f7a263c/1795617486/syfy-usa.m3u8
 #EXTINF:-1 tvg-name="Telemundo" group-title="Timst TV" source="tims-001.servehttp.com",Telemundo
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2e4ca4bb73fb086ed2f22a2f82d1caa60c30973787e7a05f3e300453f45a7e63/1795616551/telemundo-usa.m3u8
+https://tims-001.servehttp.com/main/secure/ffa31e1df6fb3eef57fcf114e5014021814d8a87875da24e58359591f74e2885/1795617486/telemundo-usa.m3u8
+#EXTINF:-1 tvg-name="The Weather Channel" group-title="Timst TV" source="tims-001.servehttp.com",The Weather Channel
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/e32d815255d33ce04593cf9fc8136ff5d0c789d0ef0eaeee1cd405e24f9e6d3f/1795617486/twc-usa.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel" group-title="Timst TV" source="tims-001.servehttp.com",Tennis Channel
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/c14c7143f19b81a843f56db341e9daedf9005cab2e119a419d5ca47ec1502384/1795617486/tennischannel-usa.m3u8
 #EXTINF:-1 tvg-name="TNT" group-title="Timst TV" source="tims-001.servehttp.com",TNT
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/fdb5fe9c8fb92fcd670533df05eccd230d1f71392e083bfb5bb93522c4ddc7aa/1795616552/tnt-usa.m3u8
+https://tims-001.servehttp.com/main/secure/187874e45a4b0467e8c972a4cee73d428295330fe9668b818a3763e314e06398/1795617486/tnt-usa.m3u8
 #EXTINF:-1 tvg-name="TNT Sports 1" group-title="Timst TV" source="tims-001.servehttp.com",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/94488cd61cef080a9e2a5f4ac25a558af99cd685692715464a8fca5fc38b4b30/1795616552/tntsports1-uk.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 1" group-title="Timst TV" source="tims-001.servehttp.com",TNT Sports 1
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/624e19ca1a69dc2047aef80ce308af18d121886aba256858c0dcda6dde4dbb18/1795616552/tntsportsultimate-uk.m3u8
+https://tims-001.servehttp.com/main/secure/5e97fc95fc1d9965807f6ebf9b8afa41853cb0f05f83141ba1b7791d79934548/1795617486/tntsports1-uk.m3u8
 #EXTINF:-1 tvg-name="TNT Sports 2" group-title="Timst TV" source="tims-001.servehttp.com",TNT Sports 2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/329ee31799676c2f7e5e8883eba0524d12edeeba583e74223be9bceecb806a7e/1795616553/tntsports2-uk.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 4" group-title="Timst TV" source="tims-001.servehttp.com",TNT Sports 4
+https://tims-001.servehttp.com/main/secure/4072b186f278849d83ecabd951977720e2ef6a8b42b0c32319d7033a7c582dbb/1795617486/tntsports2-uk.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1" group-title="Timst TV" source="tims-001.servehttp.com",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/2a421a515df762f0120ac0890a18ffad9783acfdfed5b451853318caabb6da89/1795616553/tntsports4-uk.m3u8
+https://tims-001.servehttp.com/main/secure/f802b9f0939667313c7a48c7ff951f1ec19a506cc2886b44ac457123c8a65aac/1795617486/tntsportsultimate-uk.m3u8
 #EXTINF:-1 tvg-name="TNT Sports 3" group-title="Timst TV" source="tims-001.servehttp.com",TNT Sports 3
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/43dfd989f9b711d5ecf3a9442c64cc78402b4853f0936279d241a6dc8ecdc4cc/1795616553/tntsports3-uk.m3u8
-#EXTINF:-1 tvg-name="TSN1" group-title="Timst TV" source="tims-001.servehttp.com",TSN1
+https://tims-001.servehttp.com/main/secure/838621f525b46ca39984f8ad5bbb849be4992b0bb3947f670f700cbcc6f91bdb/1795617486/tntsports3-uk.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 4" group-title="Timst TV" source="tims-001.servehttp.com",TNT Sports 4
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/0f3314ff79a506b871a203e4796d7ea16d1c6a6edb904aa4d9033ea3ef4411c1/1795616553/tsn1-ca.m3u8
-#EXTINF:-1 tvg-name="TSN2" group-title="Timst TV" source="tims-001.servehttp.com",TSN2
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/910052c748ff46b7d19645e55dc8b890919d6092fa29f4f0943ffcaf2ea7132d/1795616553/tsn2-ca.m3u8
+https://tims-001.servehttp.com/main/secure/9f51eca8e79ff5f0d6ffc5b8d7a7ae004bf6d41ab2e47fdb134e4f23b8ba567d/1795617486/tntsports4-uk.m3u8
 #EXTINF:-1 tvg-name="TruTV" group-title="Timst TV" source="tims-001.servehttp.com",TruTV
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/00048e2a4b71c2baf03091430af612dc706d2337909de416c22e76926becad62/1795616553/trutv-usa.m3u8
-#EXTINF:-1 tvg-name="TSN4" group-title="Timst TV" source="tims-001.servehttp.com",TSN4
+https://tims-001.servehttp.com/main/secure/40ed257d07d818e34d7deea557083410860f1bf6c988b8bf4ca63efb7e15a2cb/1795617486/trutv-usa.m3u8
+#EXTINF:-1 tvg-name="TSN1" group-title="Timst TV" source="tims-001.servehttp.com",TSN1
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/4852d3f8b18e06da7faa0c6ad905f5ee2829fa88e7aa7891b47f138290f2efda/1795616553/tsn4-ca.m3u8
+https://tims-001.servehttp.com/main/secure/4f0989497c317c1dc41314910f1836df5c65d2c630fd408dd9b8a38748b87453/1795617487/tsn1-ca.m3u8
 #EXTINF:-1 tvg-name="TSN3" group-title="Timst TV" source="tims-001.servehttp.com",TSN3
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c87139701cfe59089fe8e9e199ec40c3346ae1dc60451aefb8b00071d46d15b8/1795616553/tsn3-ca.m3u8
+https://tims-001.servehttp.com/main/secure/5ed032691adc7acbf7ce9b5c384c3b606348f6cfdf04e916ec6e3619a87f00a9/1795617487/tsn3-ca.m3u8
+#EXTINF:-1 tvg-name="TSN2" group-title="Timst TV" source="tims-001.servehttp.com",TSN2
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/f1b78d4b0f285ca0f208eb676376ee4135dbb7ec94a9e596a41dac9cb713abc1/1795617487/tsn2-ca.m3u8
+#EXTINF:-1 tvg-name="TSN4" group-title="Timst TV" source="tims-001.servehttp.com",TSN4
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/8828842725c8494379149923df9e4ff790ab199f4525167fc49a7204e5459563/1795617487/tsn4-ca.m3u8
 #EXTINF:-1 tvg-name="TSN5" group-title="Timst TV" source="tims-001.servehttp.com",TSN5
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/24017cca7040b97d806b3b333c2d7edb4fcb3b117a90a46f4ae8adbd70beb3ea/1795616553/tsn5-ca.m3u8
+https://tims-001.servehttp.com/main/secure/1b5334d63351e2317287c6416d9a53b57f44a30e6cdb3d2ddc4de308ade20cbc/1795617487/tsn5-ca.m3u8
 #EXTINF:-1 tvg-name="TUDN" group-title="Timst TV" source="tims-001.servehttp.com",TUDN
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/48e7a63109b0f13a45304499a8973065f1d979963ae90d778e02288b4bc5a376/1795616553/tudn-usa.m3u8
-#EXTINF:-1 tvg-name="UniMas" group-title="Timst TV" source="tims-001.servehttp.com",UniMas
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/a4b250b72ea6329b4cfc77e18da1042ee4217214c214a72de0dbc5b3f6877505/1795616553/unimas-usa.m3u8
-#EXTINF:-1 tvg-name="Unite8 Sports 1 / ZEE CAFÉ" group-title="Timst TV" source="tims-001.servehttp.com",Unite8 Sports 1 / ZEE CAFÉ
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/f2e0150d38d468dd977fbee3ba335f579ceb5dc2b43be770a4ac31f326b07b5d/1795616553/unite8-sports-in.m3u8
+https://tims-001.servehttp.com/main/secure/6deb5de59d7a25cc0fe4aaeacfd9f8fee727b7d601cf6df6ac71275a588d69f0/1795617487/tudn-usa.m3u8
 #EXTINF:-1 tvg-name="TYC Sports Internacional" group-title="Timst TV" source="tims-001.servehttp.com",TYC Sports Internacional
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/1bc05d66c1f4da8a70a054bdc8df56535d25963423a12eeda83f6cbf49844a61/1795616554/tycsports-usa.m3u8
+https://tims-001.servehttp.com/main/secure/80e4a2fbea5178d71463dffeaa49a965330ed8dfc4a5ac052fe6b1548cee780b/1795617487/tycsports-usa.m3u8
 #EXTINF:-1 tvg-name="UFC Fight Pass 24/7" group-title="Timst TV" source="tims-001.servehttp.com",UFC Fight Pass 24/7
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/7e30a1d4aa7abe98c220069ef96664dc851d24c1c4eb87ecd53679c96b2f2828/1795616554/ufc-fight-pass.m3u8
+https://tims-001.servehttp.com/main/secure/c8fa48476bb7761af16481f0c063daa4d0a9183f265fa21708da4090e7c75907/1795617487/ufc-fight-pass.m3u8
+#EXTINF:-1 tvg-name="UniMas" group-title="Timst TV" source="tims-001.servehttp.com",UniMas
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/57aece57e2a155c33bff670afa1a58075003337b04238051889a10a0fd6d2f0f/1795617487/unimas-usa.m3u8
 #EXTINF:-1 tvg-name="Univision" group-title="Timst TV" source="tims-001.servehttp.com",Univision
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/58600707318d4d5f32d74eb9db8cad0b87df7a6babb8771afd40e4fb1939447a/1795616554/univision-usa.m3u8
-#EXTINF:-1 tvg-name="USA Network" group-title="Timst TV" source="tims-001.servehttp.com",USA Network
+https://tims-001.servehttp.com/main/secure/956392556b64ebf0deccc1e3169557395eb99a07a7b1bdbd36cee151a1067d2a/1795617487/univision-usa.m3u8
+#EXTINF:-1 tvg-name="Unite8 Sports 1 / ZEE CAFÉ" group-title="Timst TV" source="tims-001.servehttp.com",Unite8 Sports 1 / ZEE CAFÉ
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/64b234ddabd9249ca8d5cdc8db7fa9f8e8d60eb22f39d9d3350ce22753b61e03/1795616555/usanetwork-usa.m3u8
-#EXTINF:-1 tvg-name="WAPA America" group-title="Timst TV" source="tims-001.servehttp.com",WAPA America
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/3cfa93311ddad5dc0e90062ef54e7a1e5a417caefabeceed2eb77ee58c353987/1795616555/wapaamerica-usa.m3u8
-#EXTINF:-1 tvg-name="Willow Cricket" group-title="Timst TV" source="tims-001.servehttp.com",Willow Cricket
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/3df736e2fc0b8182d0f3aeff9d060343d3a6c73c2d8fa7d898bc0f00b8405511/1795616555/willow-usa.m3u8
-#EXTINF:-1 tvg-name="WAPA Deportes" group-title="Timst TV" source="tims-001.servehttp.com",WAPA Deportes
-#EXTVLCOPT:http-referrer=https://shoewiki.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e6d670244e9f706f664d6733c66f1fa96f35f49cb5a1620a64e454e3f99ac7b4/1795616555/wapadeportes-usa.m3u8
+https://tims-001.servehttp.com/main/secure/36f2b5c48c3750720ae10d752c8da51a8dee48173c1f41fa8bc3d2c943dec3e9/1795617488/unite8-sports-in.m3u8
 #EXTINF:-1 tvg-name="Willow Cricket 2" group-title="Timst TV" source="tims-001.servehttp.com",Willow Cricket 2
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/ac3311f95acd66805adaff4f12a51dc4dde928e0ac39d6fbdde30472e166dc12/1795616555/willow2-usa.m3u8
-#EXTINF:-1 tvg-name="Ziggo Sport 1 NL" group-title="Timst TV" source="tims-001.servehttp.com",Ziggo Sport 1 NL
+https://tims-001.servehttp.com/main/secure/59388be11d3a8028035cdf6304f80b04a5bdc040c9c99c626f15ce7fbd7cc94b/1795617488/willow2-usa.m3u8
+#EXTINF:-1 tvg-name="Willow Cricket" group-title="Timst TV" source="tims-001.servehttp.com",Willow Cricket
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/dda0bf7a31cb58efc4b5447586ae24616cb4818b798744ca417391aa2fd545e7/1795616555/nl_ziggosport.m3u8
-#EXTINF:-1 tvg-name="Eibach Gateway Dirt Nationals Track Build" group-title="Timst TV" source="tims-001.servehttp.com",Eibach Gateway Dirt Nationals Track Build
+https://tims-001.servehttp.com/main/secure/4a343c5804006b1245ce66fcedd48b9b1f54565f1aa8be859374648e77fca0be/1795617488/willow-usa.m3u8
+#EXTINF:-1 tvg-name="USA Network" group-title="Timst TV" source="tims-001.servehttp.com",USA Network
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/11722d939d0f95fa66814cc86d872744559e3b4c7c92dc7ff8a1236345a841f0/1795616555/flo-404915.m3u8
+https://tims-001.servehttp.com/main/secure/37e663a9fe76ff199d02ff4b2e7b2b82d6804d79453a23b54887ec7bc9a6d3e0/1795617488/usanetwork-usa.m3u8
+#EXTINF:-1 tvg-name="WAPA America" group-title="Timst TV" source="tims-001.servehttp.com",WAPA America
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/8ba1688ff8b804dbd31d48b181d207636205588a58445d5b13e006cacdeb86b6/1795617488/wapaamerica-usa.m3u8
+#EXTINF:-1 tvg-name="WAPA Deportes" group-title="Timst TV" source="tims-001.servehttp.com",WAPA Deportes
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/f1b948ab14215794cf1d12a24548af5a85a0b91bab893c309f122d611b52b6cb/1795617488/wapadeportes-usa.m3u8
 #EXTINF:-1 tvg-name="Thor Mini O's at Gatorback Cycle Park" group-title="Timst TV" source="tims-001.servehttp.com",Thor Mini O's at Gatorback Cycle Park
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/9cbe3d0612ca1e2c5b199936145fa17133556d91d47e1d2dedee2274dd65bd26/1795616555/flo-359349.m3u8
-#EXTINF:-1 tvg-name="Kent State Golden Flashes @ Eastern Michigan Eagles" group-title="Timst TV" source="tims-001.servehttp.com",Kent State Golden Flashes @ Eastern Michigan Eagles
+https://tims-001.servehttp.com/main/secure/402329fd20424e2f53debf13f87e2d7f10af075892df7d7010905e685c7717aa/1795617488/flo-359349.m3u8
+#EXTINF:-1 tvg-name="Ziggo Sport 1 NL" group-title="Timst TV" source="tims-001.servehttp.com",Ziggo Sport 1 NL
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/c93741f33cec42dbddb2aef76c6e688e16243d70c6620dd0b47f729b01717e7f/1795616555/cfb-401866470.m3u8
+https://tims-001.servehttp.com/main/secure/4adbb1601fce233ab035c27beec7ba608f13540c0acbc004c6c7a79a38811da2/1795617488/nl_ziggosport.m3u8
+#EXTINF:-1 tvg-name="Eibach Gateway Dirt Nationals Track Build" group-title="Timst TV" source="tims-001.servehttp.com",Eibach Gateway Dirt Nationals Track Build
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/1ee90e82a3ba8a1ceacca9c8cda80d138fa22cf6ceef075ff47b3fa6d39f44cb/1795617488/flo-404915.m3u8
 #EXTINF:-1 tvg-name="Detroit Pistons @ Orlando Magic" group-title="Timst TV" source="tims-001.servehttp.com",Detroit Pistons @ Orlando Magic
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/8a7e6ce4d75e601887ab06153b832d307fbfda71ba5704e9cccf4897efb0311a/1795616555/nba-401909314.m3u8
+https://tims-001.servehttp.com/main/secure/e21f429a95a96ae4a17595aa3a43feacb763a71b49348f50171fb8c04ec88d0a/1795617488/nba-401909314.m3u8
+#EXTINF:-1 tvg-name="Kent State Golden Flashes @ Eastern Michigan Eagles" group-title="Timst TV" source="tims-001.servehttp.com",Kent State Golden Flashes @ Eastern Michigan Eagles
+#EXTVLCOPT:http-referrer=https://shoewiki.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tims-001.servehttp.com/main/secure/b8c4287629115037ac5af60cd51641a57d5e21f15630a97c9e9fb89ec609c1ce/1795617488/cfb-401866470.m3u8
 #EXTINF:-1 tvg-name="Miami (OH) RedHawks @ Western Michigan Broncos" group-title="Timst TV" source="tims-001.servehttp.com",Miami (OH) RedHawks @ Western Michigan Broncos
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/74083175184c1213709b25149576833b868891faa89234d5077974602d1f21cd/1795616555/espn2-usa.m3u8
+https://tims-001.servehttp.com/main/secure/0ae69b2a71a434c9b23db0e973fbe821dadabf497bedadb1b3b7cfbbf1ca80e3/1795617488/espn2-usa.m3u8
 #EXTINF:-1 tvg-name="USAC Jason Leffler Memorial at Bakersfield Speedway at Kern Raceway" group-title="Timst TV" source="tims-001.servehttp.com",USAC Jason Leffler Memorial at Bakersfield Speedway at Kern Raceway
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/cfbecc51740ec2be52d9ae4ded09b9e48b2308eca3946267bce18c55c2a5764f/1795616556/flo-337898.m3u8
+https://tims-001.servehttp.com/main/secure/ec3fb370b38d8565f85bdf766160d44048bf2fca1c4cda285d1e0f43ecac679d/1795617489/flo-337898.m3u8
 #EXTINF:-1 tvg-name="Vegas Golden Knights @ Edmonton Oilers" group-title="Timst TV" source="tims-001.servehttp.com",Vegas Golden Knights @ Edmonton Oilers
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/46b9afbf91524be88e2ebddeda008ef7f9e79a5d6f180ebd62ed49825a934eff/1795616556/tnt-usa.m3u8
+https://tims-001.servehttp.com/main/secure/2fe2cb9d97e33ac13e374b1b4d692ddc99664f0ffcf7fd7045b8fdefb0f0b016/1795617489/tnt-usa.m3u8
 #EXTINF:-1 tvg-name="Boston Celtics @ Washington Wizards" group-title="Timst TV" source="tims-001.servehttp.com",Boston Celtics @ Washington Wizards
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/da4f7647fa2d830fab64c81eef56bcea296006051c2a5758de653ca899f003fa/1795616556/nba-401909315.m3u8
+https://tims-001.servehttp.com/main/secure/06918bd9766404153aaff22932c8743e73e58ccbe3396a5fa49a105acd62084f/1795617489/nba-401909315.m3u8
 #EXTINF:-1 tvg-name="Dallas Mavericks @ Denver Nuggets" group-title="Timst TV" source="tims-001.servehttp.com",Dallas Mavericks @ Denver Nuggets
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/13fbe084ecad02f7c12ad6adf1322e63063f7e2a26e17f1569844c722463ca64/1795616556/nba-401909316.m3u8
+https://tims-001.servehttp.com/main/secure/cc01b5a6685142379c09ea6b0bb7dd566c07d294428452a0fd6b75af00971ecc/1795617489/nba-401909316.m3u8
