@@ -2,8 +2,8 @@ name: Auto Update IPTV M3U
 
 on:
   schedule:
-    # 每 15 分钟自动检测并抓取更新一次（确保与赛事更新实时同步）
-    - cron: '*/15 * * * *'
+    # 采用偏移分钟（避开 00/15/30/45 的 GitHub 全局排队拥堵高峰），每 15 分钟自动检测
+    - cron: '7,22,37,52 * * * *'
   # 支持在 Actions 页面随时手动点击立即更新，或通过 API 触发
   workflow_dispatch:
 
@@ -43,7 +43,7 @@ jobs:
               raise ValueError("上游返回异常，未检测到 #EXTM3U 头")
 
           lines = [line.strip() for line in raw_text.splitlines() if line.strip()]
-          header_lines = ["#EXTM3U"]
+          header_lines = ["#EXTM3U", "#EXT-X-APP APTV", "#EXT-X-APTV-TYPE remote"]
           live_blocks = []
           replay_blocks = []
           block = []
@@ -51,8 +51,8 @@ jobs:
           for line in lines:
               if line.startswith("#EXTM3U"):
                   continue
-              # 过滤掉会暴露原订阅地址的标签
-              if line.startswith("#EXT-X-SUB-URL"):
+              # 过滤掉会暴露原订阅地址的标签及重复的 APTV 头
+              if line.startswith("#EXT-X-SUB-URL") or line.startswith("#EXT-X-APP"):
                   continue
               if line.startswith("#EXT-X-") and not block:
                   header_lines.append(line)
