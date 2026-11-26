@@ -6,6 +6,13 @@ on:
     - cron: '7,22,37,52 * * * *'
   # 支持在 Actions 页面随时手动点击立即更新，或通过 API 触发
   workflow_dispatch:
+  # 支持外部 Webhook / API 触发（如 cron-job.org 等外部定时器，秒级响应，永不延迟）
+  repository_dispatch:
+    types: [sync, update]
+  # 与 Timst 分支刷新工作流联动：任意一方被触发，自动拉起此更新任务
+  workflow_run:
+    workflows: ["Refresh Timst live TV branch"]
+    types: [completed]
 
 permissions:
   contents: write
