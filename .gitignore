@@ -1,0 +1,10 @@
+# Local tokens and configurations
+.watcher_token
+.watcher_config.json
+.env
+
+# Logs and runtime artifacts
+*.log
+__pycache__/
+.venv/
+.pytest_cache/
