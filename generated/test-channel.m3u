@@ -1,6 +1,6 @@
 #EXTM3U
 # Single-channel custom-header test; refreshed with the main playlist.
-#EXTINF:-1 tvg-name="BBC America" group-title="Timst Test" source="tims-001.servehttp.com",BBC America
+#EXTINF:-1 tvg-name="BBC Two" group-title="Timst Test" source="tims-001.servehttp.com",BBC Two
 #EXTVLCOPT:http-referrer=https://shoewiki.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tims-001.servehttp.com/main/secure/e83c2efb21077270ce8fa73fe801d604703c08564b796dc401ee229fae2093d0/1795673810/bbc-usa.m3u8
+https://tims-001.servehttp.com/main/secure/4b7d13f9952e933c537dd18e86a3ae11b1081d378a2001299c6362fa7fe47c2f/1795708931/bbctwo-uk.m3u8
